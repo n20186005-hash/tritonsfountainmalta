@@ -3,6 +3,11 @@
   "name": "tritonsfountainmalta",
   "main": ".open-next/worker.js",
   "compatibility_date": "2025-04-01",
+  // Required by @opennextjs/cloudflare: the Next.js server bundle and
+  // OpenNext middleware use Node built-in modules (fs, path, crypto,
+  // async_hooks, http, ...). Without nodejs_compat the Workers bundler
+  // fails with "Could not resolve ..." during deploy.
+  "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "binding": "ASSETS",
     "directory": ".open-next/assets"
