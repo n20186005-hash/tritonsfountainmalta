@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tritonsfountainmalta",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2025-04-01",
+  "assets": {
+    "binding": "ASSETS",
+    "directory": ".open-next/assets"
+  },
+  "observability": {
+    "enabled": true
+  }
+}

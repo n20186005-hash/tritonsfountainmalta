@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Tritons’ Fountain Valletta — Guía gratuita 24/7, historia y fotos",
+    "description": "Planifica tu visita gratuita a Tritons’ Fountain junto a la Puerta de la Ciudad de Valletta, Malta. Abierto 24/7. Historia, los mejores lugares para fotos, iluminación nocturna, qué ver cerca y cómo llegar."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Tritons’ Fountain (Floriana)",
+    "subtitle": "Fuente · Malta",
+    "rating": "4,7",
+    "reviewCount": "28.583 reseñas",
+    "type": "Fuente",
+    "openMaps": "Ver en Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
+  },
+  "intro": {
+    "title": "Descubre Tritons’ Fountain",
+    "description": "Tritons’ Fountain es uno de los monumentos más famosos de Malta, situado en la plaza exterior de la Puerta de la Ciudad de Valletta, en Floriana. Esta magnífica fuente de bronce, construida en 1959 y diseñada por el escultor Vincent Apap, presenta tres tritones mitológicos sosteniendo una gran cuenca, simbolizando la profunda conexión de Malta con el mar.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "La plaza de la fuente es amplia y llana, perfecta para un paseo tranquilo y para sacar fotos.",
+        "La fuente se ilumina preciosamente por la noche, convirtiéndola en un excelente lugar para vistas nocturnas y paseos románticos.",
+        "La plaza es muy accesible y sirve como la puerta principal de entrada a la histórica ciudad de Valletta."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Imprescindibles",
+      "items": [
+        "Magníficas estatuas de bronce de los tritones",
+        "Importante monumento maltés",
+        "Encantadora iluminación nocturna",
+        "Amplia plaza pública"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre Tritons’ Fountain",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Antecedentes históricos",
+        "content": "Tritons’ Fountain se construyó en 1959, diseñada por el reconocido escultor maltés Vincent Apap y el dibujante Victor Anastasi. Se erigió para decorar la nueva terminal de autobuses y pronto se convirtió en un símbolo de la independencia y la identidad nacional de Malta."
+      },
+      {
+        "id": "layout",
+        "title": "Diseño y arquitectura",
+        "content": "La estructura principal de la fuente consta de tres figuras de bronce de tritones que sostienen conjuntamente una gran cuenca. El agua desborda de la cuenca creando hermosas cascadas. La base está construida con piedra caliza, haciendo eco del estilo arquitectónico histórico de los alrededores."
+      },
+      {
+        "id": "culture",
+        "title": "Significado cultural",
+        "content": "Como monumento frente a la Puerta de la Ciudad de Valletta, Tritons’ Fountain no solo es un lugar fotográfico popular para los turistas, sino también una plaza central donde los residentes locales se reúnen, celebran festivales y acogen grandes eventos públicos."
+      },
+      {
+        "id": "preservation",
+        "title": "Restauración y conservación",
+        "content": "La fuente fue sometida a una restauración integral entre 2017 y 2018, eliminando años de suciedad y daños para devolver las estatuas de bronce a su gloria original. La plaza también se rediseñó para convertirse en un espacio público totalmente peatonal."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Tritons’ Fountain",
+    "type": "Tipo de atracción",
+    "typeValue": "Fuente / Monumento",
+    "country": "País",
+    "countryValue": "Malta",
+    "city": "Ciudad",
+    "cityValue": "Floriana",
+    "googleRating": "Valoración de Google",
+    "googleRatingValue": "4,7 (28.583)",
+    "address": "Dirección",
+    "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VGW5+783 Il-Furjana, Malta",
+    "phone": "Teléfono",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Horario de visita",
+    "park": "Acceso a la plaza",
+    "parkTime": "Abierto las 24 horas, todos los días",
+    "bestTime": "Mejor época para visitar",
+    "bestTimeSpring": "Primavera: clima agradable, perfecto para pasear por la plaza",
+    "bestTimeSummer": "Verano: disfruta de la brisa fresca y la hermosa iluminación nocturna",
+    "bestTimeAutumn": "Otoño: clima templado, ideal para fotos memorables",
+    "bestTimeWinter": "Invierno: experimenta el ambiente urbano tranquilo",
+    "tip": "La fuente se encuentra en una plaza pública abierta y se puede visitar de forma gratuita en cualquier momento."
+  },
+  "tickets": {
+    "title": "Información de entrada",
+    "park": "Tarifa de visita",
+    "parkPrice": "Como monumento público, Tritons’ Fountain es completamente gratuito y está abierto a todos los visitantes.",
+    "parking": "Estacionamiento",
+    "parkingPrice": "Hay estacionamiento público de pago fuera de las murallas de Valletta.",
+    "guided": "Visitas guiadas",
+    "guidedPrice": "No se ofrecen visitas guiadas oficiales, pero muchos tours a pie de Valletta comienzan aquí."
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "fromCenter": "Desde el centro de Valletta",
+    "fromCenterDesc": "Solo 1 minuto a pie desde la Puerta de la Ciudad de Valletta hasta la plaza de la fuente.",
+    "fromStation": "Desde la terminal de autobuses",
+    "fromStationDesc": "La terminal principal de autobuses de Valletta está junto a la fuente, donde paran casi todos los autobuses a la capital.",
+    "fromAirport": "Desde el aeropuerto",
+    "fromAirportDesc": "Hay autobuses directos del aeropuerto a la terminal de autobuses de Valletta.",
+    "publicTransport": "Transporte público",
+    "publicTransportDesc": "Las líneas de autobús de toda Malta tienen servicios a la terminal de Valletta.",
+    "walking": "A pie",
+    "walkingDesc": "La plaza es amplia y llana, muy adecuada para caminar hasta la Puerta de la Ciudad.",
+    "driving": "En coche",
+    "drivingDesc": "Se recomienda aparcar en el MCP Car Park y continuar a pie."
+  },
+  "route": {
+    "title": "Ruta recomendada",
+    "overview": "Explora Tritons’ Fountain y la zona histórica de alrededor.",
+    "steps": [
+      "Llega a la terminal de autobuses de Valletta; Tritons’ Fountain será la primera imagen que te reciba",
+      "Pasea alrededor de la fuente para admirar los detalles de las estatuas de bronce de los tritones",
+      "Haz una foto con la magnífica Puerta de la Ciudad de Valletta de fondo",
+      "Cruza el puente por la Puerta de la Ciudad y entra oficialmente en la histórica ciudad vieja de Valletta",
+      "Al volver de noche, disfruta de la cautivadora iluminación de la fuente"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores lugares para fotos",
+    "spots": [
+      {
+        "title": "Panorámica frontal de la fuente",
+        "description": "Párate justo frente a la plaza para captar la vista espectacular de los tres tritones sosteniendo la cuenca.",
+        "location": "Frente a la fuente",
+        "image": "/gallery/tritons-fountain-floriana-1.jpg"
+      },
+      {
+        "title": "Fondo: Puerta de la Ciudad de Valletta",
+        "description": "Usa la moderna Puerta de la Ciudad de Valletta como fondo para captar la mezcla de la fuente antigua y la arquitectura moderna.",
+        "location": "Lateral de la fuente",
+        "image": "/gallery/tritons-fountain-floriana-2.jpg"
+      },
+      {
+        "title": "Iluminación nocturna",
+        "description": "Cuando se encienden las luces por la noche, la fuente brilla dorada, lo que la convierte en un momento ideal para la fotografía nocturna.",
+        "location": "Cualquier ángulo de la plaza",
+        "image": "/gallery/tritons-fountain-floriana-3.jpg"
+      },
+      {
+        "title": "Primer plano de las cascadas",
+        "description": "Acércate para captar la belleza dinámica del agua que cae de la gran cuenca.",
+        "location": "Borde de la fuente",
+        "image": "/gallery/tritons-fountain-floriana-4.jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guía de alojamiento",
+    "hotels": [
+      {
+        "name": "Casco antiguo de Valletta",
+        "desc": "Alojarse dentro de las murallas ofrece una experiencia histórica inmersiva, a solo unos minutos a pie de la fuente.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Floriana",
+        "desc": "El distrito donde se encuentra la fuente ofrece muchos hoteles elegantes cerca de las principales atracciones.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Sliema",
+        "desc": "Si prefieres el ambiente de un resort junto al mar, Sliema es una gran opción con un cómodo transbordador a Valletta.",
+        "price": "Recomendado"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de fotos",
+    "subtitle": "Vistas espectaculares de Tritons’ Fountain",
+    "captions": [
+      "Panorámica de la fuente",
+      "Primer plano de la estatua del tritón",
+      "Fuente de noche",
+      "Vista de la plaza",
+      "Detalles de la cuenca",
+      "Fondo de la Puerta de la Ciudad",
+      "Textura del bronce",
+      "Efectos de iluminación",
+      "Agua salpicando",
+      "Al anochecer",
+      "Multitud animada",
+      "Vista lejana del monumento",
+      "Mezcla de arquitectura histórica",
+      "Fuente bajo cielo despejado",
+      "Mañana tranquila",
+      "Vista nocturna de la plaza"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver todas las fotos",
+    "showLess": "Ver menos"
+  },
+  "reviews": {
+    "title": "Opiniones de los visitantes",
+    "declaration": "Las opiniones se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más opiniones en Google Maps",
+    "items": [
+      {
+        "name": "Sarah W.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "Un monumento perfecto antes de entrar a Valletta. La fuente luce absolutamente magnífica, especialmente cuando se ilumina de noche."
+      },
+      {
+        "name": "Marco P.",
+        "rating": 5,
+        "date": "2026-04-20",
+        "text": "Una plaza enorme y muy limpia. Ves esta espectacular fuente justo al bajar del autobús, dejando una profunda impresión."
+      },
+      {
+        "name": "Elena R.",
+        "rating": 4,
+        "date": "2026-03-10",
+        "text": "Una de las estructuras emblemáticas de Malta. Sentarse junto a la fuente, descansar y ver pasar a la gente se siente muy relajante."
+      },
+      {
+        "name": "David T.",
+        "rating": 5,
+        "date": "2026-02-28",
+        "text": "Tras la renovación, toda la plaza se convirtió en zona peatonal, libre de las antiguas multitudes y los gases de escape. Perfecto para sacar fotos."
+      },
+      {
+        "name": "Anna K.",
+        "rating": 5,
+        "date": "2025-11-12",
+        "text": "Las tres estatuas de tritones son muy realistas, y la combinación de bronce y agua muestra la estrecha conexión de Malta con el mar."
+      },
+      {
+        "name": "James M.",
+        "rating": 4,
+        "date": "2025-09-05",
+        "text": "Aunque es solo una fuente, es el punto de partida de cada viaje a la capital Valletta y lleva los recuerdos de esta ciudad."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el mapa",
+    "subtitle": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "Tritons’ Fountain",
+    "brandSubtitle": "Monumento · Malta",
+    "rights": "© 2026 Proyecto independiente de investigación turística · Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos e información relacionados",
+    "officialLinks": {
+      "gov": "Gobierno de Malta",
+      "visitmalta": "Visit Malta (Oficina de Turismo Oficial)",
+      "localgov": "Consejo Local de Floriana",
+      "heritage": "Superintendence of Cultural Heritage",
+      "planning": "Planning Authority"
+    },
+    "disclaimer": "Este sitio web es un proyecto de información turística independiente de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: mayo de 2026",
+    "sections": [
+      {
+        "title": "Recopilación de información",
+        "content": "Cuando visitas nuestro sitio web, podemos recopilar automáticamente información básica sobre tu dispositivo, navegador y comportamiento de navegación para ofrecer una mejor experiencia de usuario. Esta información no contiene tu identidad personal."
+      },
+      {
+        "title": "Uso de cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puedes gestionar tus preferencias en cualquier momento a través de la opción \"Configuración de cookies\" en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y protección de datos",
+        "content": "Nos comprometemos a proteger la seguridad de tus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con tus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos del servicio",
+    "lastUpdated": "Última actualización: mayo de 2026",
+    "sections": [
+      {
+        "title": "Contenido y uso del sitio web",
+        "content": "Este sitio web ofrece información de viaje e histórica sobre Tritons’ Fountain en Malta. Todo el contenido es solo de referencia. Las condiciones reales de la atracción pueden cambiar en cualquier momento; consulta los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad intelectual",
+        "content": "Los textos, imágenes y diseños de diseño de este sitio web están protegidos por derechos de autor. Sin permiso escrito explícito, nadie puede utilizar el contenido del sitio web con fines de lucro comercial."
+      },
+      {
+        "title": "Aviso legal",
+        "content": "Hacemos todo lo posible por garantizar la precisión y actualidad de la información, pero no nos hacemos responsables legalmente por retrasos de viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestiona tus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Necesarias para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Analítica",
+      "description": "Nos ayuda a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Se utiliza para el seguimiento entre sitios y la entrega de anuncios personalizados."
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre Tritons’ Fountain",
+    "text": "Tritons’ Fountain es un monumento y hito público importante en Malta. La estructura es mantenida y gestionada rutinariamente por los departamentos municipales pertinentes y las autoridades de patrimonio para garantizar su estado prístino como símbolo nacional."
+  },
+  "entity": {
+    "aboutHeading": "Sobre Tritons’ Fountain",
+    "aboutText": "Bienvenido a Tritons’ Fountain, ampliamente reconocida como la fuente central de Tritons. Ubicada en el corazón de Floriana, Malta, este hito es la puerta principal de entrada para los viajeros que llegan a la histórica capital de Valletta.",
+    "breadcrumbRoot": "Tritons’ Fountain",
+    "locationHeading": "Ubicación y cómo visitar Tritons’ Fountain en Floriana",
+    "locationText": "Tritons’ Fountain se encuentra en una plaza pública abierta justo frente a la Puerta de la Ciudad de Valletta, en Floriana (Il-Furjana), Malta. La plaza es amplia, llana y de visita gratuita las 24 horas, lo que la convierte en una primera parada fácil en cualquier viaje a la capital.",
+    "landmarksHeading": "Monumentos y atracciones cerca de Tritons’ Fountain",
+    "landmarksText": "Al visitar Tritons’ Fountain, los viajeros pueden explorar fácilmente monumentos históricos y puntos de interés de los alrededores, incluyendo la Puerta de la Ciudad de Valletta y la Catedral de San Juan.",
+    "historyHeading": "Historia y significado de Tritons’ Fountain",
+    "historyText": "Diseñada por el escultor maltés Vincent Apap y completada en 1959, Tritons’ Fountain se convirtió rápidamente en un símbolo de la independencia y la identidad nacional de Malta, y hoy en día sirve de entrada al casco antiguo de Valletta, declarado Patrimonio de la Humanidad por la UNESCO.",
+    "officialPortalPrefix": "Para actualizaciones oficiales e información turística regional, visita el",
+    "officialPortalLabel": "Portal Oficial de Turismo de Malta"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "items": [
+      { "question": "¿Dónde se encuentra Tritons’ Fountain?", "answer": "Tritons’ Fountain está situada en Floriana (Il-Furjana), Malta, justo afuera de la Puerta de la Ciudad de Valletta." },
+      { "question": "¿La entrada a Tritons’ Fountain es gratuita?", "answer": "Sí, Tritons’ Fountain es un monumento público y se puede visitar gratis durante todo el año, abierto las 24 horas del día." },
+      { "question": "¿Cuál es el horario de Tritons’ Fountain?", "answer": "La fuente se encuentra en una plaza pública abierta y es accesible las 24 horas del día, todos los días del año." },
+      { "question": "¿Cómo llego a Tritons’ Fountain?", "answer": "Está a unos 1 minuto a pie de la Puerta de la Ciudad de Valletta y justo al lado de la terminal de autobuses de Valletta; los autobuses directos del aeropuerto también paran cerca." },
+      { "question": "¿Quién diseñó Tritons’ Fountain?", "answer": "Fue diseñada por el escultor maltés Vincent Apap junto con el dibujante Victor Anastasi, y se completó en 1959." },
+      { "question": "¿Qué hay para ver cerca de Tritons’ Fountain?", "answer": "Justo al lado se encuentra la Puerta de la Ciudad de Valletta, y a pocos minutos a pie están la Catedral de San Juan, los Upper Barrakka Gardens y la Plaza de la República en Valletta." },
+      { "question": "¿Hay playas cerca de Tritons’ Fountain y Valletta?", "answer": "Valletta es una ciudad fortificada con una costa rocosa en lugar de playas de arena. Para nadar, los puntos más cercanos son el paseo marítimo de Sliema y la Exiles Bay (un corto transbordador o paseo a pie cruzando el puerto), mientras que playas de arena más grandes como St. Julian’s, Mellieħa y Golden Bay se encuentran a un trayecto en autobús." },
+      { "question": "¿Cuál es la mejor época para visitar y fotografiar Tritons’ Fountain?", "answer": "La plaza está a cielo abierto, por lo que la hora dorada y la hora azul dan la luz más cálida sobre los tritones de bronce, mientras que tras la puesta del sol la fuente se ilumina y refleja, ideal para la fotografía nocturna. Las mañanas son las más tranquilas." }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y referencias oficiales",
+    "subtitle": "Referencias gubernamentales y de patrimonio autorizadas para Tritons’ Fountain y Malta.",
+    "items": [
+      { "label": "Government of Malta", "url": "https://www.gov.mt/", "desc": "El portal oficial del Gobierno de Malta." },
+      { "label": "Visit Malta (Official Tourism Board)", "url": "https://www.visitmalta.com/en/", "desc": "La información oficial de visitantes de la autoridad turística nacional para Malta." },
+      { "label": "Floriana Local Council", "url": "https://localgovernment.gov.mt/", "desc": "Consejo local y servicios municipales para la zona de Floriana." },
+      { "label": "Superintendence of Cultural Heritage", "url": "https://schmalta.mt/", "desc": "El organismo nacional de Malta responsable de la protección del patrimonio cultural." },
+      { "label": "Planning Authority", "url": "https://www.pa.org.mt/", "desc": "La autoridad que regula la planificación y el desarrollo en Malta." }
+    ]
+  },
+  "facilities": {
+    "title": "Servicios para visitantes y equipamientos cercanos",
+    "subtitle": "Comodidades prácticas alrededor de la plaza de la fuente: solo indicamos categorías, no negocios concretos, para mantenernos independientes y neutrales.",
+    "items": [
+      { "icon": "wc", "name": "Aseos públicos", "desc": "Hay aseos públicos cerca de la terminal de autobuses de Valletta y alrededor de la Puerta de la Ciudad; algunos cuestan una pequeña moneda." },
+      { "icon": "parking", "name": "Estacionamiento", "desc": "Hay parkings públicos de pago justo fuera de las murallas de Valletta (como MCP / Mateo Falcón). El estacionamiento en la calle en Floriana es limitado y con horario restringido." },
+      { "icon": "dining", "name": "Cafés y restaurantes", "desc": "Una amplia variedad de cafés, bares de aperitivos y restaurantes bordea el acceso a la Puerta de la Ciudad y las calles de Floriana y Valletta." },
+      { "icon": "lodging", "name": "Hoteles y alojamientos", "desc": "El alojamiento va desde hoteles boutique dentro de las murallas de Valletta hasta resorts más grandes a un corto trayecto en autobús en Sliema y St. Julian’s." },
+      { "icon": "market", "name": "Supermercados y tiendas", "desc": "Tiendas de conveniencia y pequeños supermercados se encuentran dispersos por Floriana y el lado de Valletta de la puerta para agua, snacks y artículos esenciales." },
+      { "icon": "fuel", "name": "Gasolineras y carga de VE", "desc": "Hay gasolineras y puntos de carga para vehículos eléctricos en los accesos principales a Valletta y en toda la zona del Gran Puerto." }
+    ]
+  },
+  "weather": {
+    "title": "Clima actual y previsión a 7 días",
+    "subtitle": "Condiciones en vivo en Tritons’ Fountain, Floriana, actualizadas automáticamente para que puedas planificar tu visita.",
+    "feelsLike": "Sensación térmica",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precip": "Precip",
+    "precipShort": "Lluvia",
+    "sevenDay": "Previsión a 7 días",
+    "umbrellaYes": "Lleva paraguas o impermeable: hay bastante probabilidad de lluvia.",
+    "umbrellaNo": "No se espera lluvia: con una prenda ligera basta.",
+    "outfitCold": "Lleva un abrigo caliente; las tardes en la plaza son frescas.",
+    "outfitCool": "Lleva una chaqueta o suéter ligero para la brisa.",
+    "outfitWarm": "Usa ropa ligera y transpirable y protégete del sol.",
+    "planRain": "Si llegan chubascos, los museos y arcadas cubiertas de Valletta son una buena alternativa.",
+    "planSun": "Ideal para fotos al aire libre y un paseo tranquilo por la plaza.",
+    "uvLow": "Baja",
+    "uvModerate": "Moderada",
+    "uvHigh": "Alta",
+    "uvVeryHigh": "Muy alta",
+    "updated": "Las condiciones se actualizan automáticamente cada pocos minutos."
+  },
+  "seasonal": {
+    "title": "Estrategia de viaje por estación",
+    "subtitle": "Malta tiene un clima mediterráneo. La tabla resume condiciones típicas basadas en los promedios climáticos 1991–2020, útil para planificar qué llevar y cuándo ir.",
+    "note": "Las cifras son promedios a largo plazo, no un pronóstico. Consulta siempre el clima en vivo de arriba antes de salir.",
+    "cols": { "season": "Estación", "weather": "Clima típico", "wear": "Qué llevar", "tip": "Recomendado" },
+    "rows": [
+      { "season": "Primavera (mar–may)", "weather": "Templado y soleado, 15–22 °C, chubascos ocasionales", "wear": "Capas ligeras, una chaqueta ligera", "tip": "Excelente para visitas a pie y fotografía antes de las multitudes de verano." },
+      { "season": "Verano (jun–sep)", "weather": "Caluroso y seco, 28–34 °C, sol intensa", "wear": "Ropa transpirable, sombrero, protector solar", "tip": "Visita temprano por la mañana o tras la puesta de sol; lleva agua y busca sombra." },
+      { "season": "Otoño (oct–nov)", "weather": "Templado y estable, 20–26 °C, algunas tormentas", "wear": "Capas ligeras, una chaqueta de lluvia plegable", "tip": "Mar en calma y luz suave hacen de esta una estación favorita." },
+      { "season": "Invierno (dic–feb)", "weather": "Templado y húmedo, 10–16 °C, ventoso", "wear": "Abrigo caliente, capa impermeable", "tip": "Plazas tranquilas y campo verde; la fuente está iluminada y llena de atmósfera." }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerarios recomendados",
+    "subtitle": "Elige una ruta que se ajuste a tu grupo y a tu ritmo.",
+    "audienceTitle": "Por tipo de visitante",
+    "genericTitle": "Planes de medio y día completo",
+    "audiences": [
+      { "key": "family", "name": "Familias con niños", "desc": "Deja que los niños vean el juego del agua, luego cruza a Valletta para los jardines y un almuerzo relajado. Mantén la ruta llana y corta.", "steps": ["Plaza de la fuente (espacio abierto, seguro para niños)", "Ascensor a los Upper Barrakka Gardens", "Paseo marítimo de Valletta para un helado"] },
+      { "key": "photo", "name": "Fotografía y naturaleza", "desc": "Fotografía los tritones en la hora azul y la hora dorada, luego capta el contraste de la Puerta de la Ciudad y las vistas del puerto.", "steps": ["Foto en hora azul desde la plaza", "Hora dorada en la Puerta de la Ciudad", "Salida del sol sobre el Gran Puerto"] },
+      { "key": "accessible", "name": "Movilidad reducida / Accesible", "desc": "La plaza es sin escalones y la zona de la Puerta de la Ciudad de Valletta es accesible en silla de ruedas, con ascensores a los jardines.", "steps": ["Recorrido sin escalones por la plaza", "Camino sin barreras por la Puerta de la Ciudad", "Ascensor a los Upper Barrakka Gardens"] }
+    ],
+    "generic": [
+      { "key": "half", "name": "Plan de medio día", "desc": "Una visita enfocada para viajeros con poco tiempo.", "steps": ["Llegada a la plaza de la fuente", "Paseo de 10 minutos por la Puerta de la Ciudad hasta Valletta", "Café y un corto paseo por la Republic Street", "Regresa para una foto nocturna de la fuente iluminada"] },
+      { "key": "full", "name": "Plan de día completo", "desc": "Explora la fuente y los puntos destacados de Valletta en un día.", "steps": ["Mañana en la fuente y la Puerta de la Ciudad", "Catedral de San Juan", "Almuerzo en Valletta", "Upper Barrakka Gardens y vista del Gran Puerto", "Iluminación nocturna de la fuente"] }
+    ]
+  },
+  "responsibility": {
+    "title": "Responsabilidad del visitante y cuidado del patrimonio",
+    "subtitle": "Unos hábitos sencillos mantienen este espacio público compartido agradable para todos.",
+    "items": [
+      { "key": "monument", "name": "Respeto al monumento", "desc": "Los tritones y la cuenca son patrimonio protegido. Por favor, no subas, te sientes encima ni entres en el agua: es decorativa, no para bañarse ni beber." },
+      { "key": "waste", "name": "Cero basura", "desc": "Usa las papeleras públicas de la plaza. Durante los festivales la zona se llena, así que llévate tu basura si las papeleras están llenas." },
+      { "key": "wildlife", "name": "Vida silvestre urbana", "desc": "Palomas y gaviotas se reúnen aquí. Disfrútalas desde lejos y evita alimentarlas, pues perjudica su salud y la plaza." },
+      { "key": "water", "name": "Seguridad con el agua y el sol", "desc": "El sol de Malta es fuerte en verano. Lleva agua, usa protector solar y haz pausas a la sombra: la plaza tiene poca sombra natural." },
+      { "key": "events", "name": "Eventos y multitudes", "desc": "La plaza acoge celebraciones nacionales. Consulta la programación local y espera más gente en los días festivos." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Cómo llegar a Tritons’ Fountain — paso a paso",
+    "subtitle": "La fuente está justo en la terminal de autobuses de Valletta, fuera de la Puerta de la Ciudad.",
+    "airport": { "name": "Desde el Aeropuerto Internacional de Malta (MLA)", "steps": ["Toma el autobús directo del aeropuerto (línea X4) a la terminal de Valletta: unos 40 minutos.", "Los taxis y las apps de transporte cubren el mismo trayecto en unos 20–25 minutos.", "Desde la terminal, la fuente está a 1 minuto a pie cruzando la plaza principal."] },
+    "public": { "name": "En autobús público", "steps": ["Casi todas las líneas de Malta terminan en la terminal de autobuses de Valletta.", "Compra una tarjeta tallinja o usa pago sin contacto antes de subir.", "La fuente es lo primero que ves al salir a la plaza."] },
+    "taxi": { "name": "En taxi / transporte por app", "steps": ["Los taxis blancos autorizados y los servicios por app pueden dejarte en la Puerta de la Ciudad.", "Pide al conductor \"Valletta City Gate\" o \"Tritons Fountain\".", "Hay un punto de descenso designado al borde de la plaza."] },
+    "parking": { "name": "En coche y estacionamiento", "steps": ["La entrada en coche a Valletta está restringida; aparca en un parking público fuera de las murallas (MCP / Mateo Falcón).", "Desde el parking hay un corto paseo hasta la plaza.", "Evita aparcar en la calle en Floriana en horas punta."] }
+  },
+  "stories": {
+    "title": "Historias, simbolismo y patrimonio",
+    "subtitle": "Más allá del bronce y el agua, la fuente lleva décadas de memoria maltesa.",
+    "items": [
+      { "id": "myth", "title": "Los tritones de la mitología", "content": "En la mitología griega, los tritones eran dioses mensajeros del mar con cuerpo de pez y torso de hombre. El escultor Vincent Apap imaginó a tres de ellos levantando una gran cuenca en forma de concha, un guiño a la duradera conexión de Malta con el Mediterráneo." },
+      { "id": "independence", "title": "Un símbolo de independencia", "content": "Inaugurada en 1959, la fuente surgió cuando Malta avanzaba hacia el autogobierno y, más tarde, a la plena independencia en 1964. Para muchos malteses se convirtió en un emblema de identidad nacional." },
+      { "id": "gate", "title": "Guardián de la Puerta de la Ciudad", "content": "Durante generaciones, la fuente ha sido el umbral entre la ciudad moderna y la ciudad vieja fortificada de Valletta, Patrimonio de la Humanidad de la UNESCO desde 1980." },
+      { "id": "restore", "title": "La restauración 2017–2018", "content": "Una restauración integral eliminó décadas de suciedad, reparó el bronce y devolvió la plaza a los peatones, una transformación de la que los lugareños todavía hablan." }
+    ]
+  }
+}

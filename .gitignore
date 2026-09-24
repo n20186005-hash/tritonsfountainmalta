@@ -32,3 +32,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cloudflare workers (opennext build output)
+/.open-next/
+/.wrangler/
+.dev.vars
+
+# local logs / build artifacts (do not upload)
+*.log
+install.log
+build.log
+dist/

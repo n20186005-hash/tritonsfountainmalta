@@ -1,7 +1,9 @@
 import { useTranslations, useMessages } from 'next-intl';
+import { SITE } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const tEntity = useTranslations('entity');
   const messages = useMessages() as any;
 
   return (
@@ -26,7 +28,7 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Tritons'+Fountain,+Malta&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
@@ -58,6 +60,21 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Official tourism portal reference (E-E-A-T) */}
+        <p className="mt-6 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {tEntity('officialPortalPrefix')}{' '}
+          <a
+            href={SITE.govtTourismUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {tEntity('officialPortalLabel')}
+          </a>
+          .
+        </p>
       </div>
     </section>
   );

@@ -9,8 +9,8 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <Image
-          src="/gallery/tritons-fountain (1).jpg"
-          alt="Tritons’ Fountain"
+          src="/images/hero.jpg"
+          alt="Tritons’ Fountain - Main view in Floriana, Malta"
           fill
           priority
           className="object-cover"

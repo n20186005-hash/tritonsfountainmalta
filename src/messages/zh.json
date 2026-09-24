@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "海神喷泉 (Tritons’ Fountain)",
-    "description": "马耳他海神喷泉的完整旅游指南。了解这座位于弗洛里亚纳的标志性喷泉，获取位置和游览信息。"
+    "title": "海神喷泉 瓦莱塔 — 免费24小时游客指南、历史与拍照攻略",
+    "description": "马耳他瓦莱塔城门外的海神喷泉免费全天开放。了解历史、最佳拍照点、夜间灯光、周边景点与交通方式，规划你的行程。"
   },
   "header": {
     "home": "首页",
@@ -11,10 +11,10 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "海神喷泉",
+    "title": "海神喷泉（弗洛里亚纳）",
     "subtitle": "喷泉 · 马耳他",
     "rating": "4.7",
-    "reviewCount": "27,532 条评价",
+    "reviewCount": "28,583 条评价",
     "type": "喷泉",
     "openMaps": "在 Google Maps 查看",
     "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
@@ -76,7 +76,7 @@
     "city": "城市",
     "cityValue": "弗洛里亚纳 (Floriana)",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.7 (27,532)",
+    "googleRatingValue": "4.7 (28,583)",
     "address": "地址",
     "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
     "plusCode": "Plus Code",
@@ -137,25 +137,25 @@
         "title": "喷泉正面全景",
         "description": "站在广场正前方，捕捉三个海神托起水盆的壮观画面。",
         "location": "喷泉正前方",
-        "image": "/gallery/tritons-fountain (1).jpg"
+        "image": "/gallery/tritons-fountain-floriana-1.jpg"
       },
       {
         "title": "瓦莱塔城门背景",
         "description": "以现代化的瓦莱塔城门为背景，拍摄古老喷泉与现代建筑的交融。",
         "location": "喷泉侧面",
-        "image": "/gallery/tritons-fountain (2).jpg"
+        "image": "/gallery/tritons-fountain-floriana-2.jpg"
       },
       {
         "title": "夜间灯光秀",
         "description": "夜晚灯光亮起时，喷泉呈现出金色的光芒，是拍摄夜景的绝佳时机。",
         "location": "广场任意角度",
-        "image": "/gallery/tritons-fountain (3).jpg"
+        "image": "/gallery/tritons-fountain-floriana-3.jpg"
       },
       {
         "title": "水花特写",
         "description": "近距离拍摄水流从巨大水盆中倾泻而下的动态美感。",
         "location": "喷泉边缘",
-        "image": "/gallery/tritons-fountain (4).jpg"
+        "image": "/gallery/tritons-fountain-floriana-4.jpg"
       }
     ]
   },
@@ -327,5 +327,132 @@
   "officialManagement": {
     "title": "关于海神喷泉",
     "text": "海神喷泉 (Tritons’ Fountain) 是马耳他重要的地标性公共纪念碑。该建筑由相关市政部门及历史遗产机构进行日常维护与管理，确保其作为国家象征的完好状态。"
+  },
+  "entity": {
+    "aboutHeading": "关于海神喷泉",
+    "aboutText": "欢迎来到海神喷泉 (Tritons’ Fountain)，它被广泛认为是核心的 Tritons Fountain。海神喷泉位于马耳他弗洛里亚纳的中心地带，是游客进入历史悠久的首都瓦莱塔的主要门户。",
+    "breadcrumbRoot": "海神喷泉",
+    "locationHeading": "海神喷泉在弗洛里亚纳的位置与游览方式",
+    "locationText": "海神喷泉位于瓦莱塔城门外的开放公共广场，地处弗洛里亚纳 (Il-Furjana)，马耳他。广场宽敞平坦，全天候免费开放，是前往首都游览的便捷第一站。",
+    "landmarksHeading": "海神喷泉周边的地标与景点",
+    "landmarksText": "游览海神喷泉时，游客可以轻松探索周边的历史地标与景点，包括瓦莱塔城门 (Valletta City Gate) 和圣约翰大教堂 (St. John’s Co-Cathedral)。",
+    "historyHeading": "海神喷泉的历史与意义",
+    "historyText": "海神喷泉由马耳他雕塑家文森特·阿帕普设计，于 1959 年落成，迅速成为马耳他独立与国家认同的象征，如今守护着瓦莱塔联合国教科文组织世界遗产老城的入口。",
+    "officialPortalPrefix": "如需官方更新与地区旅游信息，请访问",
+    "officialPortalLabel": "马耳他官方旅游门户"
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      { "question": "海神喷泉位于哪里？", "answer": "海神喷泉位于马耳他弗洛里亚纳 (Il-Furjana)，紧邻瓦莱塔城门外侧。" },
+      { "question": "参观海神喷泉免费吗？", "answer": "是的，海神喷泉是公共纪念碑，全年免费开放，每天 24 小时均可参观。" },
+      { "question": "海神喷泉的开放时间是？", "answer": "喷泉位于开放的公共广场，全年每天 24 小时均可进入。" },
+      { "question": "如何前往海神喷泉？", "answer": "从瓦莱塔城门步行约 1 分钟即可到达，喷泉紧邻瓦莱塔公交总站；机场直达巴士也在附近停靠。" },
+      { "question": "海神喷泉是谁设计的？", "answer": "它由马耳他雕塑家文森特·阿帕普与绘图员维克多·阿纳斯塔西共同设计，于 1959 年落成。" },
+      { "question": "海神喷泉附近有什么可看的？", "answer": "喷泉旁即是瓦莱塔城门，步行不远便可到达圣约翰大教堂、上巴拉卡花园以及瓦莱塔的共和国广场。" },
+      { "question": "海神喷泉与瓦莱塔附近有海滩吗？", "answer": "瓦莱塔是设防古城，海岸多为岩岸而非沙滩。想游泳的话，最近的是斯利马（Sliema）海滨与 Exiles Bay（渡轮或步行横渡港口即达）；更大型的沙滩如圣朱利安斯、梅利哈（Mellieħa）与 Golden Bay 需乘巴士前往。" },
+      { "question": "什么时候最适合游览和拍摄海神喷泉？", "answer": "广场开阔无遮挡，黄金时刻与蓝调时刻的暖光打在青铜 Triton 上最为动人；日落后喷泉灯光亮起、水面倒影，是夜景拍摄的好时机。早晨人流最少。" }
+    ]
+  },
+  "sources": {
+    "title": "资料来源与官方参考",
+    "subtitle": "关于海神喷泉与马耳他的权威政府与遗产参考。",
+    "items": [
+      { "label": "马耳他政府", "url": "https://www.gov.mt/", "desc": "马耳他政府的官方门户。" },
+      { "label": "Visit Malta（官方旅游局）", "url": "https://www.visitmalta.com/en/", "desc": "马耳他国家旅游局的官方游客信息。" },
+      { "label": "弗洛里亚纳地方政府", "url": "https://localgovernment.gov.mt/", "desc": "弗洛里亚纳地区的市政与地方议会服务。" },
+      { "label": "文化遗产监督局", "url": "https://schmalta.mt/", "desc": "负责保护马耳他文化遗产的国家机构。" },
+      { "label": "规划局", "url": "https://www.pa.org.mt/", "desc": "负责马耳他规划与发展的主管机构。" }
+    ]
+  },
+  "facilities": {
+    "title": "游客服务与周边设施",
+    "subtitle": "喷泉广场周边的实用配套——我们只列举类型，不推荐具体商家，保持中立客观。",
+    "items": [
+      { "icon": "wc", "name": "公共卫生间", "desc": "瓦莱塔公交总站附近及城门区域设有公共厕所，部分需投币小额费用。" },
+      { "icon": "parking", "name": "停车场", "desc": "瓦莱塔城墙外有收费公共停车场（如 MCP / Mateo Falcón）。弗洛里亚纳的路边停车有限且限时。" },
+      { "icon": "dining", "name": "咖啡馆与餐厅", "desc": "从城门通往瓦莱塔的街道以及弗洛里亚纳一带，分布着各式咖啡馆、小吃店与餐厅。" },
+      { "icon": "lodging", "name": "酒店与住宿", "desc": "住宿从瓦莱塔城墙内的精品酒店，到斯利马、圣朱利安斯乘巴士不远的大型度假村都有。" },
+      { "icon": "market", "name": "超市与商店", "desc": "弗洛里亚纳及城门瓦莱塔一侧散布着便利店与小型超市，可购买饮水、零食与日用。" },
+      { "icon": "fuel", "name": "加油与充电", "desc": "瓦莱塔主要出入口及大港一带设有加油站与电动车充电点。" }
+    ]
+  },
+  "weather": {
+    "title": "实时天气与未来 7 天预报",
+    "subtitle": "马耳他弗洛里亚纳海神喷泉的实时天气——自动更新，帮你规划出行。",
+    "feelsLike": "体感",
+    "humidity": "湿度",
+    "wind": "风力",
+    "precip": "降水",
+    "precipShort": "雨",
+    "sevenDay": "未来 7 天",
+    "umbrellaYes": "请带伞或雨衣——降雨概率较高。",
+    "umbrellaNo": "预计无雨——带一件薄外套即可。",
+    "outfitCold": "备好保暖外套；广场夜间偏凉。",
+    "outfitCool": "带一件薄夹克或毛衣以防海风。",
+    "outfitWarm": "穿轻薄透气的衣物并做好防晒。",
+    "planRain": "若遇阵雨，瓦莱塔的博物馆与有顶长廊是不错的备选。",
+    "planSun": "非常适合户外拍照与悠闲漫步广场。",
+    "uvLow": "低",
+    "uvModerate": "中等",
+    "uvHigh": "高",
+    "uvVeryHigh": "极高",
+    "updated": "天气数据每隔几分钟自动刷新。"
+  },
+  "seasonal": {
+    "title": "季节性游览策略",
+    "subtitle": "马耳他属地中海气候。下表依据 1991–2020 气候态（常年平均）总结典型状况，便于规划穿搭与出行时机。",
+    "note": "以上为长期平均，并非预报。出发前请以上方实时天气为准。",
+    "cols": { "season": "季节", "weather": "典型天气", "wear": "建议穿搭", "tip": "推荐" },
+    "rows": [
+      { "season": "春季（3–5 月）", "weather": "温和晴朗，15–22°C，偶有阵雨", "wear": "轻薄叠穿，备薄外套", "tip": "夏季人流前最适合步行游览与拍照。" },
+      { "season": "夏季（6–9 月）", "weather": "炎热干燥，28–34°C，日照强烈", "wear": "透气衣物、帽子、防晒", "tip": "清晨或日落后前往；备足饮水并寻找遮阴。" },
+      { "season": "秋季（10–11 月）", "weather": "温暖稳定，20–26°C，偶有风暴", "wear": "轻薄叠穿，备折叠雨具", "tip": "海面平静、光线柔和，是最受欢迎的季节。" },
+      { "season": "冬季（12–2 月）", "weather": "温和多雨，10–16°C，多风", "wear": "保暖外套、防水外层", "tip": "广场清静、乡野青翠；夜间喷泉灯光氛围感十足。" }
+    ]
+  },
+  "itineraries": {
+    "title": "推荐游览路线",
+    "subtitle": "按出行人群与节奏选择合适的路线。",
+    "audienceTitle": "按游客类型",
+    "genericTitle": "半日与全日方案",
+    "audiences": [
+      { "key": "family", "name": "亲子家庭", "desc": "让孩子看水景嬉戏，再走进瓦莱塔逛花园、悠闲午餐。路线平坦、距离短。", "steps": ["喷泉广场（开阔安全，适合孩子）", "上巴拉卡花园电梯", "瓦莱塔海滨吃冰淇淋"] },
+      { "key": "photo", "name": "摄影与自然", "desc": "在蓝调时刻与黄金时刻拍摄三 Triton，再捕捉城门对比与大港景色。", "steps": ["广场蓝调时刻拍摄", "城门黄金时刻拍摄", "大港日出"] },
+      { "key": "accessible", "name": "低体力 / 无障碍", "desc": "广场无台阶，瓦莱塔城门区域对轮椅友好，并设有通往花园的电梯。", "steps": ["广场无障碍环线", "无障碍穿越城门", "电梯至上巴拉卡花园"] }
+    ],
+    "generic": [
+      { "key": "half", "name": "半日方案", "desc": "为时间有限的旅客设计的集中游览。", "steps": ["抵达喷泉广场", "步行约 10 分钟经城门进入瓦莱塔", "在共和街喝杯咖啡、短途漫步", "返回拍摄夜间灯光喷泉"] },
+      { "key": "full", "name": "全日方案", "desc": "一天内游览喷泉与瓦莱塔主要景点。", "steps": ["上午喷泉与城门", "圣约翰大教堂", "瓦莱塔午餐", "上巴拉卡花园与大港观景", "傍晚欣赏喷泉灯光"] }
+    ]
+  },
+  "responsibility": {
+    "title": "访客责任与遗产保护",
+    "subtitle": "几个简单的习惯，让这处共享公共空间人人都舒适。",
+    "items": [
+      { "key": "monument", "name": "爱护纪念碑", "desc": "Triton 与水池属受保护遗产。请勿攀爬、坐卧或进入水中——其为装饰性水景，不可游泳或饮用。" },
+      { "key": "waste", "name": "零垃圾", "desc": "请使用广场周边的公共垃圾桶。节庆期间人流密集，若桶已满请自行带走垃圾。" },
+      { "key": "wildlife", "name": "城市野生动物", "desc": "广场有鸽子和海鸥聚集。请保持距离欣赏，勿投喂，以免损害它们的健康与广场环境。" },
+      { "key": "water", "name": "饮水与防晒", "desc": "马耳他夏季日照强烈。请随身带水、涂抹防晒，并在遮阴处休息——广场自然遮阴有限。" },
+      { "key": "events", "name": "活动与客流", "desc": "广场会举办国家级庆典。请留意当地活动安排，公共假日人流会明显增多。" }
+    ]
+  },
+  "transportGuide": {
+    "title": "前往海神喷泉——分步攻略",
+    "subtitle": "喷泉就位于瓦莱塔公交总站旁、城门外侧。",
+    "airport": { "name": "从马耳他国际机场（MLA）", "steps": ["乘坐直达机场巴士（X4 路）前往瓦莱塔总站，约 40 分钟。", "出租车与网约车约 20–25 分钟可达。", "出站后穿过主广场步行约 1 分钟即到喷泉。"] },
+    "public": { "name": "乘公共巴士", "steps": ["马耳他几乎所有线路都终到瓦莱塔公交总站。", "上车前请购买 tallinja 卡或使用非接触支付。", "步出总站，喷泉便是映入眼帘的第一道景观。"] },
+    "taxi": { "name": "出租车 / 网约车", "steps": ["持证白色出租车与网约车可送至城门。", "告诉司机“瓦莱塔城门”或“Tritons Fountain”。", "广场边缘设有专门的落客点。"] },
+    "parking": { "name": "自驾与停车", "steps": ["驾车进入瓦莱塔受限；请停在城外的公共停车场（MCP / Mateo Falcón）。", "从停车场步行片刻即到广场。", "高峰时段避免在弗洛里亚纳路边停车。"] }
+  },
+  "stories": {
+    "title": "故事、象征与遗产",
+    "subtitle": "青铜与流水之外，喷泉承载着马耳他数十年的集体记忆。",
+    "items": [
+      { "id": "myth", "title": "神话中的 Triton", "content": "在希腊神话中，Triton 是人身鱼尾的海之信使神。雕塑家文森特·阿帕普让三位 Triton 共同托起巨大的贝壳形水盆——呼应马耳他与地中海历久弥新的羁绊。" },
+      { "id": "independence", "title": "独立的象征", "content": "喷泉于 1959 年揭幕，正值马耳他迈向自治、并于 1964 年完全独立之际。对许多马耳他人而言，它成为国家认同的标志。" },
+      { "id": "gate", "title": "城门的守护者", "content": "数十年来，喷泉始终是现代城市与瓦莱塔设防老城之间的门槛；瓦莱塔自 1980 年起即为联合国教科文组织世界遗产。" },
+      { "id": "restore", "title": "2017–2018 年修复", "content": "一次全面修复清除了数十年的污垢、修复了青铜，并将广场交还行人——这一变化至今仍为当地人所津津乐道。" }
+    ]
   }
 }

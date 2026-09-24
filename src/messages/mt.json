@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Il-Funtana tat-Tritoni",
-    "description": "Gwida sħiħa għall-Funtana tat-Tritoni f'Malta. Tgħallem dwar din il-funtana ikonika fil-Furjana, inkluż il-post u l-informazzjoni għall-viżitaturi."
+    "title": "Il-Funtana tat-Tritoni Valletta — Gwida b'xejn 24/7, Storja u Ritratti",
+    "description": "Żur b'xejn u 24/7 il-Funtana tat-Tritoni ħdejn id-Daħla tal-Belt, Valletta, Malta. Storja, l-aħjar ritratti, tidwil bil-lejl, x'arak u kif wasal."
   },
   "header": {
     "home": "Id-Dar",
@@ -11,10 +11,10 @@
     "backToHome": "Lura għad-Dar"
   },
   "hero": {
-    "title": "Il-Funtana tat-Tritoni",
+    "title": "Il-Funtana tat-Tritoni (Floriana)",
     "subtitle": "Funtana · Malta",
     "rating": "4.7",
-    "reviewCount": "27,532 reviżjoni",
+    "reviewCount": "28,583 reviżjoni",
     "type": "Funtana",
     "openMaps": "Ara fuq Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
@@ -76,7 +76,7 @@
     "city": "Belt",
     "cityValue": "Il-Furjana",
     "googleRating": "Klassifikazzjoni Google",
-    "googleRatingValue": "4.7 (27,532)",
+    "googleRatingValue": "4.7 (28,583)",
     "address": "Indirizz",
     "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
     "plusCode": "Plus Code",
@@ -137,25 +137,25 @@
         "title": "Panorama ta' Quddiem",
         "description": "Iqiegħed direttament quddiem il-pjazza biex taqbad il-veduta spettakolari.",
         "location": "Quddiem il-Funtana",
-        "image": "/gallery/tritons-fountain (1).jpg"
+        "image": "/gallery/tritons-fountain-floriana-1.jpg"
       },
       {
         "title": "Sfond tad-Daħla tal-Belt",
         "description": "Uża d-Daħla tal-Belt moderna bħala sfond biex taqbad it-taħlita tal-qedem u l-modern.",
         "location": "Ġenb tal-Funtana",
-        "image": "/gallery/tritons-fountain (2).jpg"
+        "image": "/gallery/tritons-fountain-floriana-2.jpg"
       },
       {
         "title": "Illuminazzjoni ta' Bil-lejl",
         "description": "Meta jinxtegħlu d-dwal bil-lejl, il-funtana tiddi deheb.",
         "location": "Kwalunkwe Angolu",
-        "image": "/gallery/tritons-fountain (3).jpg"
+        "image": "/gallery/tritons-fountain-floriana-3.jpg"
       },
       {
         "title": "Mill-Qrib tal-Kaskati",
         "description": "Qorob biex taqbad is-sbuħija dinamika tal-ilma li jinżel mill-baċin enormi.",
         "location": "Tarf tal-Funtana",
-        "image": "/gallery/tritons-fountain (4).jpg"
+        "image": "/gallery/tritons-fountain-floriana-4.jpg"
       }
     ]
   },
@@ -327,5 +327,132 @@
   "officialManagement": {
     "title": "Dwar il-Funtana tat-Tritoni",
     "text": "Il-Funtana tat-Tritoni hija għeliem sinifikanti u monument pubbliku f'Malta. L-istruttura tinżamm u tiġi ġestita ta' rutina mid-dipartimenti muniċipali u l-awtoritajiet tal-wirt rilevanti biex tiġi żgurata l-kundizzjoni verġni tagħha bħala simbolu nazzjonali."
+  },
+  "entity": {
+    "aboutHeading": "Dwar il-Funtana tat-Tritoni",
+    "aboutText": "Merħba fil-Funtana tat-Tritoni, rikonoxxuta b'mod wiesa' bħala l-Funtana tat-Tritoni ċentrali. Tinsab fi ħdan il-Furjana, Malta, u hija d-daħla prinċipali għall-viżitaturi li jidħlu fil-belt kapitali storika tal-Belt Valletta.",
+    "breadcrumbRoot": "Il-Funtana tat-Tritoni",
+    "locationHeading": "Post u Kif Iżżur il-Funtana tat-Tritoni fil-Furjana",
+    "locationText": "Il-Funtana tat-Tritoni tinsab fi pjazza pubblika miftuħa eżatt barra d-Daħla tal-Belt tal-Belt Valletta, fil-Furjana (Il-Furjana), Malta. Il-pjazza hija wiesgħa, ċatta, u miftuħa b'xejn f'kull ħin.",
+    "landmarksHeading": "Monumenti u Attrazzjonijiet Madwar il-Funtana tat-Tritoni",
+    "landmarksText": "Meta tiżżur il-Funtana tat-Tritoni, il-viżitaturi jistgħu jesploraw faċilment il-monumenti storici tal-madwar, inkluż id-Daħla tal-Belt Valletta u l-Kattedral ta' San Ġwann.",
+    "historyHeading": "Storja u Sinifikat tal-Funtana tat-Tritoni",
+    "historyText": "Ddisinjata mill-iskultur Malti Vincent Apap u mtlesta fl-1959, il-Funtana tat-Tritoni saret malajr simbolu tal-indipendenza u l-identità nazzjonali ta' Malta, u llum tħares id-daħla lejn iċ-ċentru storiku tal-Belt Valletta, li huwa Sit ta' Wirt Dinji tal-UNESCO.",
+    "officialPortalPrefix": "Għal aġġornamenti uffiċjali u informazzjoni dwar it-turiżmu, żur il-",
+    "officialPortalLabel": "Portalu Uffiċjali tat-Turiżmu ta' Malta"
+  },
+  "faq": {
+    "title": "Mistoqsijiet Frekwenti",
+    "items": [
+      { "question": "Fejn tinsab il-Funtana tat-Tritoni?", "answer": "Il-Funtana tat-Tritoni tinsab fil-Furjana (Il-Furjana), Malta, eżatt barra d-Daħla tal-Belt tal-Belt Valletta." },
+      { "question": "L-għalfar tidħol bla ħlas fil-Funtana tat-Tritoni?", "answer": "Iva, il-Funtana tat-Tritoni hija monument pubbliku u l-għalfar tidħol bla ħlas is-sena kollha, 24 siegħa kuljum." },
+      { "question": "X'inhuma l-ħinijiet tal-Funtana tat-Tritoni?", "answer": "Il-funtana tinsab fi pjazza pubblika miftuħa u hija aċċessibbli 24 siegħa kuljum, matul is-sena kollha." },
+      { "question": "Kif nasal il-Funtana tat-Tritoni?", "answer": "Tinsab madwar minuta wieqfa mid-Daħla tal-Belt u ħdejn it-terminus tal-karozzi tal-linja; xarabanks diretti mill-ajruport jieqfu fil-viċin." },
+      { "question": "Min iddisinja l-Funtana tat-Tritoni?", "answer": "Ġiet iddisinjata mill-iskultur Malti Vincent Apap flimkien mad-draughtsman Victor Anastasi, u tlesta fl-1959." },
+      { "question": "X'hemm x'nara ħdejn il-Funtana tat-Tritoni?", "answer": "Ħdejha hemm id-Daħla tal-Belt Valletta, u fi triq qasira hemm il-Kattedral ta' San Ġwann, il-Ġonna ta' Barrakka ta' Fuq, u Pjazza Reppubblika fil-Belt Valletta." },
+      { "question": "Hemm bajjiet ħdejn il-Funtana tat-Tritoni u Valletta?", "answer": "Valletta hija belt iffurtifikata b'kosta rokkjusa, mhux bajjiet tar-ramel. Biex tgħum, l-eqreb postijiet huma l-xatt ta' Sliema u Exiles Bay (trajġġit qasir jew mixja lejn in-naħa l-oħra tal-port); bajjiet ikbar tar-ramel bħal St. Julian's, Mellieħa u Golden Bay jintlaħqu bil-karozza tal-linja." },
+      { "question": "X'hu l-aħjar ħin biex iżżur u tirtokka l-Funtana tat-Tritoni?", "answer": "Il-pjazza mhijiex imdawra; l-ora tal-ġebla u l-ora blu jagħtu l-iktar dawl sħun fuq it-Tritoni tal-bronż, filwaqt li wara n-nofs in-nhar il-fontana tidwil u tirrifletti fl-ilma — idea għar-ritratti bil-lejl. Is-sbħijiet huma l-iktar kwiet." }
+    ]
+  },
+  "sources": {
+    "title": "Sorsi u Referenzi Uffiċjali",
+    "subtitle": "Referenzi awtorevoli governattivi u tal-wirt għall-Funtana tat-Tritoni u Malta.",
+    "items": [
+      { "label": "Gvern ta' Malta", "url": "https://www.gov.mt/", "desc": "Il-portal uffiċjali tal-Gvern ta' Malta." },
+      { "label": "Visit Malta (Bord Uffiċjali tat-Turiżmu)", "url": "https://www.visitmalta.com/en/", "desc": "L-informazzjoni uffiċjali għall-viżitaturi tal-awtorità nazionali tat-turiżmu ta' Malta." },
+      { "label": "Kunsill Lokali tal-Furjana", "url": "https://localgovernment.gov.mt/", "desc": "Servizzi municipali u tal-kunsill lokali għaż-żona tal-Furjana." },
+      { "label": "Sovrintendenza tal-Patrimonju Kulturali", "url": "https://schmalta.mt/", "desc": "L-awtorità nazzjonali ta' Malta responsabbli għall-protezzjoni tal-patrimonju kulturali." },
+      { "label": "Awtorità tal-Ippjanar", "url": "https://www.pa.org.mt/", "desc": "L-awtorità li tirregola l-ippjanar u l-iżvilupp f'Malta." }
+    ]
+  },
+  "facilities": {
+    "title": "Servizzi għall-Viżitaturi u Faċilitajiet fil-Qrib",
+    "subtitle": "Kumoditajiet prattiċi madwar pjazza l-fontana — nsemmu tipi biss, mhux negozji speċifiċi, biex nibqgħu indipendenti u newnrali.",
+    "items": [
+      { "icon": "wc", "name": "Toilets Pubbliċi", "desc": "Toilets pubbliċi jinsabu qrib it-terminal tal-karozzi tal-linja ta' Belt Valletta u madwar il-Bieb tal-Belt; xi wħud jeħtieġu ħlas żgħir bil-munita." },
+      { "icon": "parking", "name": "Parkeġġ", "desc": "Parkeġġ pubbliku bi ħlas jinsab eżatt barra s-swar ta' Belt Valletta (bħal MCP / Mateo Falcón). Il-parkeġġ fit-triq f'Il-Furjana hu limitat u b'ħin." },
+      { "icon": "dining", "name": "Kafetteriji u Ristoranti", "desc": "Għażla wiesgħa ta' kafetteriji, snack bars u ristoranti tmiss l-approċċ lejn il-Bieb tal-Belt u t-toroq ta' Il-Furjana u Belt Valletta." },
+      { "icon": "lodging", "name": "Lukandi u Residenzi", "desc": "Il-allogġ jvarja minn lukandi boutique ġewwa s-swar ta' Belt Valletta għal resorts akbar fi Sliema u San Ġiljan fi triq qasira bil-karozza." },
+      { "icon": "market", "name": "Supermarkets u Ħwienet", "desc": "Ħwienet konvenjenza u supermarkets żgħar huma mifruxa f'Il-Furjana u fuq in-naħa ta' Belt Valletta tal-bieb, għall-ilma, l-ikel ħafif u l-essenzjali." },
+      { "icon": "fuel", "name": "Karburant u Ċarġjar EV", "desc": "Stazzjonijiet tal-karburant u punti ta' ċarġjar għal vetturi elettriċi jinsabu fl-aċċessi prinċipali lejn Belt Valletta u fiż-żona tal-Grand Harbour." }
+    ]
+  },
+  "weather": {
+    "title": "Il-Meteo Attwali u Tbassir ta' 7 Jiem",
+    "subtitle": "Kondizzjonijiet f'ħin reali fil-Funtana tat-Tritoni, Il-Furjana — aġġornati awtomatikament biex tippjana ż-żjara.",
+    "feelsLike": "Jħossu",
+    "humidity": "Ummidu",
+    "wind": "Riħ",
+    "precip": "Xita",
+    "precipShort": "Xita",
+    "sevenDay": "Tbassir ta' 7 Jiem",
+    "umbrellaYes": "Ġib umbrella jew ponċo — hemm ċans tajjeb ta' xita.",
+    "umbrellaNo": "Ebda xita mistennija — ġakketta ħfifa tbiżża.",
+    "outfitCold": "Ġib kowt sħun; il-lejla fil-pjazza tkun kesħa.",
+    "outfitCool": "Ġib ġakketta ħfifa jew sweater għar-riħ.",
+    "outfitWarm": "Ilbes ħwejjeġ ħfif u li jressqu l-arma, u uża protezzjoni mix-xemx.",
+    "planRain": "Jekk jiġu xita, il-mużewijiet u l-arkati koperti ta' Belt Valletta huma alternattiva tajba.",
+    "planSun": "Ideali għal ritratti barra u mixja rilassata fil-pjazza.",
+    "uvLow": "Baxx",
+    "uvModerate": "Moderat",
+    "uvHigh": "Għoli",
+    "uvVeryHigh": "Għoli Ħafna",
+    "updated": "Il-kondizzjonijiet j.aġġornaw awtomatikament kull ftit minuti."
+  },
+  "seasonal": {
+    "title": "Strategija ta' Vjaġġ skont l-Istaġun",
+    "subtitle": "Malta għandha klima Mediterranja. It-tabella tissommarja l-kondizzjonijiet tipiċi abbażi tan-normali klimatiċi 1991–2020 — utli biex tippjana l-ħwejjeġ u l-ħin.",
+    "note": "Ċ-ċifri huma medji ta' tul ta' żmien, mhux tbassir. Dejjem iċċekkja l-meteo live hawn fuq qabel tmur.",
+    "cols": { "season": "Istaġun", "weather": "Temp Tipiku", "wear": "Ħwejjeġ", "tip": "Rakkomandat" },
+    "rows": [
+      { "season": "Rebbiegħa (Mar–Mej)", "weather": "Ħafif u xemxi, 15–22°C, xi xita", "wear": "Saffi ħfif, ġakketta ħfifa", "tip": "Eccellenti għal mixjiet u ritratti qabel il-folla tas-sajf." },
+      { "season": "Sajf (Ġun–Set)", "weather": "Sħun u niexef, 28–34°C, xemx qawwija", "wear": "Ħwejjeġ li jressqu l-arma, kappell, protezzjoni mix-xemx", "tip": "Żur kmieni filgħodu jew wara n-nofs in-nhar; ġib ilma u fittex dell." },
+      { "season": "Harifa (Ott–Nov)", "weather": "Sħun u stabbli, 20–26°C, xi maltemp", "wear": "Saffi ħfif, ġakketta li tinqabbel", "tip": "Baħar kalm u dawl artab jagħmluha staġun favorit." },
+      { "season": "Xitwa (Diċ–Fev)", "weather": "Ħafif u xħit, 10–16°C, riħ", "wear": "Kowt sħun, saff impermeabbli", "tip": "Pjazez kwiet u pajjiż aħdar; il-fontana tedwi u tkun atmoferika." }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerarji Rakkomandati",
+    "subtitle": "Agħżel triq adattata għall-grupp u r-ritmu tiegħek.",
+    "audienceTitle": "Skont it-Tip ta' Viżitatur",
+    "genericTitle": "Pjanijiet ta' Nofsinhar u Ġurnata Sħiħa",
+    "audiences": [
+      { "key": "family", "name": "Familji bit-Tfal", "desc": "Ħalli t-tfal jaraw il-logħob tal-ilma, imbagħad aqbeż għall-ġonna u pranzu rilassat. Żomm it-triq ċatta u qasira.", "steps": ["Pjazza tal-fontana (spazju miftuħ, sigur għat-tfal)", "Lift tal-Ġonna Upper Barrakka", "Xatt Belt Valletta għal ġelat"] },
+      { "key": "photo", "name": "Fotografija u Natura", "desc": "Ikklikkja lit-Tritoni fil-blue hour u golden hour, imbagħad aqbad il-kuntrast tal-Bieb u l-vista tal-port.", "steps": ["Ritratta fil-blue hour mill-pjazza", "Golden hour fil-Bieb tal-Belt", "Żerniq fuq il-Grand Harbour"] },
+      { "key": "accessible", "name": "Mobbiltà Ridotta / Aċċessibbli", "desc": "Il-pjazza hija mingħajr tarġiet u ż-żona tal-Bieb tal-Belt hija aċċessibbli bir-roti b'liftijiet għall-ġonna.", "steps": ["Dawra aċċessibbli tal-pjazza", "Mogħdija mingħajr ostakli mill-Bieb", "Lift għall-Ġonna Upper Barrakka"] }
+    ],
+    "generic": [
+      { "key": "half", "name": "Pjan ta' Nofsinhar", "desc": "Żjara ffukata għal min għandu ftit ħin.", "steps": ["Wasal fil-pjazza tal-fontana", "Mixja ta' 10 minuti mill-Bieb lejn Belt Valletta", "Kafè u mixja qasira fi Republic Street", "Erġa' lura għal ritratt bil-lejl tal-fontana midwi"] },
+      { "key": "full", "name": "Pjan ta' Ġurnata Sħiħa", "desc": "Esplora l-fontana u l-punti ewlenin ta' Belt Valletta f'ġurnata.", "steps": ["Filgħodu fil-fontana u l-Bieb", "Katidral ta' San Ġwann", "Pranzu f'Belt Valletta", "Ġonna Upper Barrakka u vista fuq il-Grand Harbour", "Dawl tas-serħan tal-fontana"] }
+    ]
+  },
+  "responsibility": {
+    "title": "Responsabbiltà tal-Viżitaturi u Ħarsien tal-Patrimonju",
+    "subtitle": "Ftit abitudni sempliċi iżommu dan l-ispazju pubbliku pjaċevoli għal kulħadd.",
+    "items": [
+      { "key": "monument", "name": "Irrispetta l-Monument", "desc": "It-Tritoni u l-baskija huma patrimonju protett. Jekk jogħġbok toqgħodx, tpoġġox, jew tidħol fl-ilma — hu dekorattiv, mhux għall-għawm jew xorb." },
+      { "key": "waste", "name": "Żero Skart", "desc": "Uża l-basktijiet pubbliċi madwar il-pjazza. Matul il-festi l-inħawi jimtlew; emmen ix-xortok jekk il-basktijiet huma miksuja." },
+      { "key": "wildlife", "name": "Fauna Urbana", "desc": "Ħamiem u gawwi jiġbru hawn. Tigewda minn bogħod u tħallihom ma jittimgħux, peress li jagħmel ħsara lis-saħħithom u l-pjazza." },
+      { "key": "water", "name": "Ilma u Sigurtà mix-Xemx", "desc": "Ix-xemx f'Malta hija qawwija fis-sajf. Ġib ilma, uża protezzjoni mix-xemx, u tieħu mistrieħ fid-dell — il-pjazza għandha dell naturali limitat." },
+      { "key": "events", "name": "Avvenimenti u Folla", "desc": "Il-pjazza tospita ċelebrazzjonijiet nazzjonali. Iċċekkja l-programm lokali u stenna aktar nies fil-ġranet ta' festa." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Kif Wasal fil-Funtana tat-Tritoni — Pass pass",
+    "subtitle": "Il-fontana tinsab eżatt fit-terminal tal-karozzi tal-linja ta' Belt Valletta, eżatt barra l-Bieb tal-Belt.",
+    "airport": { "name": "Mill-Ajruport Internazzjonali ta' Malta (MLA)", "steps": ["Ħu l-karozza tal-linja diretta tal-ajruport (rotta X4) għat-terminal ta' Belt Valletta — madwar 40 minuta.", "Taxi u apps ta' ride-hailing jagħmlu l-istess triq f'madwar 20–25 minuta.", "Mit-terminal, il-fontana hija miexi ta' 1 minuta mill-pjazza prinċipali."] },
+    "public": { "name": "Bil-Karozza tal-Linja", "steps": ["Kważi kull rotta f'Malta tispiċċa fit-terminal ta' Belt Valletta.", "Ixtri tallinja card jew uża ħlas mingħajr kontatt qabel tizbogħ.", "Il-fontana hija l-ewwel ħaġa li tar meta tidħol fil-pjazza."] },
+    "taxi": { "name": "Bil-Taxi / Ride-Hailing", "steps": ["Taxi bajdħa liċenzjati u servizzi bl-app jistgħu jaħtlewk fil-Bieb tal-Belt.", "Staqsi lis-sewwieq 'Bieb Belt Valletta' jew 'Tritons Fountain'.", "Hemm punt ta' tniżżil iddisinjat fit-tarf tal-pjazza."] },
+    "parking": { "name": "Bil-Karozza u Parkeġġ", "steps": ["Issuq ġewwa Belt Valletta hu ristrett; ipparkja f'parkeġġ pubbliku barra s-swar (MCP / Mateo Falcón).", "Mit-parkeġġ hija mixja qasira sal-pjazza.", "Evita l-parkeġġ fit-triq f'Il-Furjana fil-ħinijiet ta' quċċata."] }
+  },
+  "stories": {
+    "title": "Stejjer, Simboliżmu u Patrimonju",
+    "subtitle": "Lil hinn mill-bronż u l-ilma, il-fontana fiha għexieren ta' snin ta' memorja Maltija.",
+    "items": [
+      { "id": "myth", "title": "It-Tritoni tal-Mit", "content": "Fil-mitoloġija Griega, it-Tritoni kienu divinitajiet messaġġieri tal-baħar, b'ġisem ta' ħuta u bejnna ta' bniedem. L-iskultur Vincent Apap immaġina tlieta li jolqotu baskija kbira f'għamla qoxra — ġieħ għall-rabta twila ta' Malta mal-Mediterran." },
+      { "id": "independence", "title": "Simbolu ta' Indipendenza", "content": "Inkitbet fl-1959, il-fontana spuntew hekk kif Malta leħqet lejn l-awto-gvern u, wara, l-indipendenza sħiħa fl-1964. Għal ħafna Maltin saret emblema tal-identità nazzjonali." },
+      { "id": "gate", "title": "Ragħaj tal-Bieb tal-Belt", "content": "Għal ġenerazzjonijiet, il-fontana kienet il-limitu bejn il-belt moderna u l-belt iffortifikata ta' Belt Valletta, Sit ta' Wirt Dinji tal-UNESCO mill-1980." },
+      { "id": "restore", "title": "Ir-Restawr 2017–2018", "content": "Restawr sħiħ neħħa għexieren ta' snin ta' ħmieġ, sewwa l-bronż, u restitwixxa l-pjazza lill-persuni pedoni — bidla li l-lokal jitkellmu dwarha għadha." }
+    ]
   }
 }

@@ -8,10 +8,14 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://willowcreekhoodoos.com';
-  const zhUrl = `${baseUrl}/terms-of-service`;
+  const baseUrl = 'https://tritonsfountainmalta.com';
+  const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const itUrl = `${baseUrl}/it/terms-of-service`;
+  const mtUrl = `${baseUrl}/mt/terms-of-service`;
+  const deUrl = `${baseUrl}/de/terms-of-service`;
+  const esUrl = `${baseUrl}/es/terms-of-service`;
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'it' ? itUrl : locale === 'mt' ? mtUrl : locale === 'de' ? deUrl : locale === 'es' ? esUrl : enUrl;
 
   return {
     alternates: {
@@ -19,7 +23,11 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'x-default': zhUrl,
+        'it': itUrl,
+        'mt': mtUrl,
+        'de': deUrl,
+        'es': esUrl,
+        'x-default': enUrl,
       },
     },
   };
@@ -31,7 +39,7 @@ function TermsContent() {
   const locale = useLocale();
   const messages = useMessages() as any;
   const homeHref = `/${locale}`;
-  const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
+  const sections = (messages?.terms?.sections || []) as Array<{ title: string; content: string }>;
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
@@ -58,7 +66,7 @@ function TermsContent() {
           {sections.map((section, i) => (
             <div key={i}>
               <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-                {section.heading}
+                {section.title}
               </h2>
               <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
                 {section.content}

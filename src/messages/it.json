@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Fontana dei Tritoni",
-    "description": "Guida di viaggio completa alla Fontana dei Tritoni a Malta. Scopri questa iconica fontana a Floriana, incluse posizione e informazioni per i visitatori."
+    "title": "Fontana dei Tritoni Valletta — Guida gratuita 24/7, storia e foto",
+    "description": "Visita gratuita e aperta 24/7 alla Fontana dei Tritoni presso la Porta della Città di La Valletta, Malta. Storia, migliori scatti, illuminazione notturna, cosa vedere e come arrivare."
   },
   "header": {
     "home": "Home",
@@ -11,10 +11,10 @@
     "backToHome": "Torna alla Home"
   },
   "hero": {
-    "title": "Fontana dei Tritoni",
+    "title": "Fontana dei Tritoni (Floriana)",
     "subtitle": "Fontana · Malta",
     "rating": "4.7",
-    "reviewCount": "27.532 recensioni",
+    "reviewCount": "28.583 recensioni",
     "type": "Fontana",
     "openMaps": "Vedi su Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
@@ -76,7 +76,7 @@
     "city": "Città",
     "cityValue": "Floriana",
     "googleRating": "Valutazione Google",
-    "googleRatingValue": "4.7 (27.532)",
+    "googleRatingValue": "4.7 (28.583)",
     "address": "Indirizzo",
     "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
     "plusCode": "Plus Code",
@@ -137,25 +137,25 @@
         "title": "Panorama Frontale",
         "description": "Posizionati direttamente di fronte alla piazza per catturare la vista spettacolare dei tre Tritoni che sorreggono il bacino.",
         "location": "Di Fronte alla Fontana",
-        "image": "/gallery/tritons-fountain (1).jpg"
+        "image": "/gallery/tritons-fountain-floriana-1.jpg"
       },
       {
         "title": "Sfondo della Porta della Città",
         "description": "Usa la moderna Porta della Città di La Valletta come sfondo per catturare la fusione tra l'antica fontana e l'architettura moderna.",
         "location": "Lato della Fontana",
-        "image": "/gallery/tritons-fountain (2).jpg"
+        "image": "/gallery/tritons-fountain-floriana-2.jpg"
       },
       {
         "title": "Illuminazione Notturna",
         "description": "Quando le luci si accendono di notte, la fontana brilla d'oro, rendendola un momento eccellente per la fotografia notturna.",
         "location": "Qualsiasi Angolazione",
-        "image": "/gallery/tritons-fountain (3).jpg"
+        "image": "/gallery/tritons-fountain-floriana-3.jpg"
       },
       {
         "title": "Primo Piano delle Cascate",
         "description": "Avvicinati per catturare la bellezza dinamica dell'acqua che scende dall'enorme bacino.",
         "location": "Bordo della Fontana",
-        "image": "/gallery/tritons-fountain (4).jpg"
+        "image": "/gallery/tritons-fountain-floriana-4.jpg"
       }
     ]
   },
@@ -327,5 +327,132 @@
   "officialManagement": {
     "title": "Informazioni sulla Fontana dei Tritoni",
     "text": "La Fontana dei Tritoni è un importante punto di riferimento e monumento pubblico a Malta. La struttura è regolarmente mantenuta e gestita dai dipartimenti municipali e dalle autorità per il patrimonio competenti per garantire le sue condizioni incontaminate come simbolo nazionale."
+  },
+  "entity": {
+    "aboutHeading": "Informazioni sulla Fontana dei Tritoni",
+    "aboutText": "Benvenuti alla Fontana dei Tritoni, ampiamente riconosciuta come la Fontana dei Tritoni centrale. Situata nel cuore di Floriana, Malta, questo monumento è la porta principale per i viaggiatori che entrano nella storica capitale La Valletta.",
+    "breadcrumbRoot": "Fontana dei Tritoni",
+    "locationHeading": "Posizione e Come Visitare la Fontana dei Tritoni a Floriana",
+    "locationText": "La Fontana dei Tritoni si trova in una piazza pubblica aperta appena fuori la Porta della Città di La Valletta, a Floriana (Il-Furjana), Malta. La piazza è spaziosa, pianeggiante e visitabile gratuitamente a qualsiasi ora.",
+    "landmarksHeading": "Monumenti e Attrazioni intorno alla Fontana dei Tritoni",
+    "landmarksText": "Visitando la Fontana dei Tritoni, i visitatori possono esplorare facilmente i monumenti storici circostanti, tra cui la Porta della Città di La Valletta e la Cattedrale di San Giovanni.",
+    "historyHeading": "Storia e Importanza della Fontana dei Tritoni",
+    "historyText": "Progettata dallo scultore maltese Vincent Apap e completata nel 1959, la Fontana dei Tritoni è diventata rapidamente un simbolo dell'indipendenza e dell'identità nazionale di Malta, e oggi custodisce l'ingresso alla città vecchia di La Valletta, patrimonio UNESCO.",
+    "officialPortalPrefix": "Per aggiornamenti ufficiali e informazioni turistiche, visita il",
+    "officialPortalLabel": "Portale Ufficiale del Turismo di Malta"
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "items": [
+      { "question": "Dove si trova la Fontana dei Tritoni?", "answer": "La Fontana dei Tritoni si trova a Floriana (Il-Furjana), Malta, immediatamente fuori la Porta della Città di La Valletta." },
+      { "question": "L'ingresso alla Fontana dei Tritoni è gratuito?", "answer": "Sì, la Fontana dei Tritoni è un monumento pubblico e l'ingresso è gratuito tutto l'anno, 24 ore su 24." },
+      { "question": "Quali sono gli orari di apertura della Fontana dei Tritoni?", "answer": "La fontana si trova in una piazza pubblica aperta ed è accessibile 24 ore su 24, tutti i giorni dell'anno." },
+      { "question": "Come arrivo alla Fontana dei Tritoni?", "answer": "Si trova a circa 1 minuto a piedi dalla Porta della Città di La Valletta e accanto al capolinea degli autobus; gli autobus diretti dall'aeroporto fermano nelle vicinanze." },
+      { "question": "Chi ha progettato la Fontana dei Tritoni?", "answer": "È stata progettata dallo scultore maltese Vincent Apap insieme al disegnatore Victor Anastasi, e completata nel 1959." },
+      { "question": "Cosa c'è da vedere vicino alla Fontana dei Tritoni?", "answer": "Accanto si trova la Porta della Città di La Valletta, e a breve passeggiata ci sono la Cattedrale di San Giovanni, i Giardini Upper Barrakka e Piazza della Repubblica a La Valletta." },
+      { "question": "Ci sono spiagge vicino alla Fontana dei Tritoni e a La Valletta?", "answer": "La Valletta è una città fortificata con costa rocciosa, non spiagge sabbiose. Per nuotare, i punti più vicini sono il lungomare di Sliema e Exiles Bay (un breve traghetto o passeggiata dall'altro lato del porto); spiagge sabbiose più ampie come St. Julian's, Mellieħa e Golden Bay sono raggiungibili in autobus." },
+      { "question": "Qual è il momento migliore per visitare e fotografare la Fontana dei Tritoni?", "answer": "La piazza è a cielo aperto: l'ora d'oro e l'ora blu regalano la luce più calda sui Tritoni di bronzo, mentre dopo il tramonto la fontana è illuminata e riflessa nell'acqua — ideale per foto notturne. I mattini sono i più tranquilli." }
+    ]
+  },
+  "sources": {
+    "title": "Fonti e Riferimenti Ufficiali",
+    "subtitle": "Riferimenti governativi e del patrimonio autorevoli per la Fontana dei Tritoni e Malta.",
+    "items": [
+      { "label": "Governo di Malta", "url": "https://www.gov.mt/", "desc": "Il portale ufficiale del Governo di Malta." },
+      { "label": "Visit Malta (Ente Ufficiale per il Turismo)", "url": "https://www.visitmalta.com/en/", "desc": "Le informazioni ufficiali per i visitatori dell'autorità nazionale del turismo di Malta." },
+      { "label": "Consiglio Locale di Floriana", "url": "https://localgovernment.gov.mt/", "desc": "Servizi comunali e del consiglio locale per la zona di Floriana." },
+      { "label": "Sovrintendenza ai Beni Culturali", "url": "https://schmalta.mt/", "desc": "L'ente nazionale maltese responsabile della protezione del patrimonio culturale." },
+      { "label": "Autorità di Pianificazione", "url": "https://www.pa.org.mt/", "desc": "L'autorità che regola la pianificazione e lo sviluppo a Malta." }
+    ]
+  },
+  "facilities": {
+    "title": "Servizi per i visitatori e strutture nei dintorni",
+    "subtitle": "Comodità pratiche intorno alla piazza della fontana — elenchiamo solo tipologie, non attività specifiche, per restare indipendenti e neutrali.",
+    "items": [
+      { "icon": "wc", "name": "Servizi igienici pubblici", "desc": "Bagni pubblici si trovano vicino al terminal bus di La Valletta e intorno alla Porta della Città; alcuni richiedono una piccola tariffa a moneta." },
+      { "icon": "parking", "name": "Parcheggio", "desc": "Parcheggi pubblici a pagamento sorgono appena fuori le mura di La Valletta (come MCP / Mateo Falcón). La sosta su strada a Floriana è limitata e a tempo." },
+      { "icon": "dining", "name": "Caffè e ristoranti", "desc": "Un'ampia scelta di caffè, snack bar e ristoranti costeggia l'approccio alla Porta della Città e le strade di Floriana e La Valletta." },
+      { "icon": "lodging", "name": "Hotel e alloggi", "desc": "Gli alloggi spaziano da boutique hotel dentro le mura di La Valletta a resort più grandi a breve tratta in bus a Sliema e St. Julian's." },
+      { "icon": "market", "name": "Supermercati e negozi", "desc": "Minimarket e piccoli supermercati sono sparsi a Floriana e sul lato di La Valletta della porta, per acqua, snack ed essenziali." },
+      { "icon": "fuel", "name": "Carburante e ricarica EV", "desc": "Stazioni di servizio e punti di ricarica per veicoli elettrici si trovano sugli accessi principali a La Valletta e nell'area del Grand Harbour." }
+    ]
+  },
+  "weather": {
+    "title": "Meteo attuale e previsioni a 7 giorni",
+    "subtitle": "Condizioni in tempo reale a Fontana dei Tritoni, Floriana — aggiornate automaticamente per pianificare la visita.",
+    "feelsLike": "Percepita",
+    "humidity": "Umidità",
+    "wind": "Vento",
+    "precip": "Precip",
+    "precipShort": "Pioggia",
+    "sevenDay": "Previsioni 7 giorni",
+    "umbrellaYes": "Porta ombrello o impermeabile — probabilità di pioggia discreta.",
+    "umbrellaNo": "Nessuna pioggia attesa — una leggera giacca basta.",
+    "outfitCold": "Metti un cappotto caldo; le sere in piazza si rinfrescano.",
+    "outfitCool": "Porta una giacca leggera o un maglione per la brezza.",
+    "outfitWarm": "Indossa abiti leggeri e traspiranti e usa la protezione solare.",
+    "planRain": "Se arrivano acquazzoni, i musei e i portici coperti di La Valletta sono un'ottima alternativa.",
+    "planSun": "Ideale per foto all'aperto e una passeggiata rilassante in piazza.",
+    "uvLow": "Basso",
+    "uvModerate": "Moderato",
+    "uvHigh": "Alto",
+    "uvVeryHigh": "Molto alto",
+    "updated": "Le condizioni si aggiornano automaticamente ogni pochi minuti."
+  },
+  "seasonal": {
+    "title": "Strategia di viaggio per stagione",
+    "subtitle": "Malta ha un clima mediterraneo. La tabella riassume le condizioni tipiche basate sulle medie climatiche 1991–2020 — utili per pianificare abbigliamento e periodo.",
+    "note": "I valori sono medie di lungo periodo, non previsioni. Controlla sempre il meteo live qui sopra prima di partire.",
+    "cols": { "season": "Stagione", "weather": "Tempo tipico", "wear": "Abbigliamento", "tip": "Consigliato" },
+    "rows": [
+      { "season": "Primavera (mar–mag)", "weather": "Mite e soleggiato, 15–22°C, qualche pioggia", "wear": "Strati leggeri, giacca leggera", "tip": "Ottima per tour a piedi e foto prima degli affollamenti estivi." },
+      { "season": "Estate (giu–set)", "weather": "Caldo e secco, 28–34°C, sole intenso", "wear": "Abbigliamento traspirante, cappello, crema solare", "tip": "Visita al mattino presto o dopo il tramonto; porta acqua e cerca ombra." },
+      { "season": "Autunno (ott–nov)", "weather": "Tiepido e stabile, 20–26°C, qualche temporale", "wear": "Strati leggeri, giacca pieghevole", "tip": "Mare calmo e luce soffusa la rendono una stagione preferita." },
+      { "season": "Inverno (dic–feb)", "weather": "Mite e umido, 10–16°C, ventilato", "wear": "Cappotto caldo, strato impermeabile", "tip": "Piazze tranquille e campagna verde; la fontana è illuminata e suggestiva." }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerari consigliati",
+    "subtitle": "Scegli un percorso adatto al tuo gruppo e al tuo ritmo.",
+    "audienceTitle": "Per tipo di visitatore",
+    "genericTitle": "Piani di mezza giornata e giornata intera",
+    "audiences": [
+      { "key": "family", "name": "Famiglie con bambini", "desc": "Lascia che i bambini guardino il gioco dell'acqua, poi attraversa per i giardini e un pranzo rilassato. Mantieni il percorso piano e breve.", "steps": ["Piazza della fontana (spazio aperto, sicuro per i bambini)", "Ascensore dei Giardini Upper Barrakka", "Lungomare di La Valletta per un gelato"] },
+      { "key": "photo", "name": "Fotografia e natura", "desc": "Spara ai Tritoni in blue hour e golden hour, poi cattura il contrasto della Porta e la vista del porto.", "steps": ["Scatto in blue hour dalla piazza", "Golden hour alla Porta della Città", "Alba sul Grand Harbour"] },
+      { "key": "accessible", "name": "Mobilità ridotta / accessibile", "desc": "La piazza è senza gradini e l'area della Porta della Città è accessibile in carrozzina con ascensori ai giardini.", "steps": ["Giro accessibile della piazza", "Percorso senza barriere attraverso la Porta", "Ascensore ai Giardini Upper Barrakka"] }
+    ],
+    "generic": [
+      { "key": "half", "name": "Piano di mezza giornata", "desc": "Una visita mirata per chi ha poco tempo.", "steps": ["Arrivo in piazza alla fontana", "Passeggiata di 10 minuti attraverso la Porta nella città", "Caffè e breve giro in Republic Street", "Ritorno per una foto notturna della fontana illuminata"] },
+      { "key": "full", "name": "Piano di giornata intera", "desc": "Esplora la fontana e i punti salienti di La Valletta in un giorno.", "steps": ["Mattina alla fontana e alla Porta", "Cattedrale di San Giovanni", "Pranzo a La Valletta", "Giardini Upper Barrakka e vista sul Grand Harbour", "Illuminazione serale della fontana"] }
+    ]
+  },
+  "responsibility": {
+    "title": "Responsabilità dei visitatori e cura del patrimonio",
+    "subtitle": "Poche semplici abitudini rendono questo spazio pubblico gradevole per tutti.",
+    "items": [
+      { "key": "monument", "name": "Rispetta il monumento", "desc": "I Tritoni e la vasca sono patrimonio protetto. Non arrampicarsi, sedersi o entrare nell'acqua — è decorativa, non per nuotare o bere." },
+      { "key": "waste", "name": "Zero rifiuti", "desc": "Usa i cestini pubblici intorno alla piazza. Durante le feste l'area si riempie: porta via i rifiuti se i cestini sono pieni." },
+      { "key": "wildlife", "name": "Fauna urbana", "desc": "Piccioni e gabbiani si radunano qui. Godili da lontano e non dar loro da mangiare, perché nuoce alla loro salute e alla piazza." },
+      { "key": "water", "name": "Acqua e sicurezza solare", "desc": "Il sole a Malta è forte in estate. Porta acqua, usa la crema solare e fai pause all'ombra — la piazza ha poca ombra naturale." },
+      { "key": "events", "name": "Eventi e folla", "desc": "La piazza ospita celebrazioni nazionali. Controlla il programma locale e aspettati più folla nei giorni festivi." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Come arrivare a Fontana dei Tritoni — passo dopo passo",
+    "subtitle": "La fontana si trova proprio al terminal bus di La Valletta, appena fuori la Porta della Città.",
+    "airport": { "name": "Dall'Aeroporto Internazionale di Malta (MLA)", "steps": ["Prendi l'autobus diretto per l'aeroporto (linea X4) per il terminal di La Valletta — circa 40 minuti.", "Taxi e app di ride-hailing coprono lo stesso tragitto in circa 20–25 minuti.", "Dal terminal, la fontana è a 1 minuto a piedi attraverso la piazza principale."] },
+    "public": { "name": "In autobus pubblico", "steps": ["Quasi ogni linea a Malta termina al terminal bus di La Valletta.", "Compra una tallinja card o usa il pagamento contactless prima di salire.", "La fontana è la prima cosa che vedi entrando in piazza."] },
+    "taxi": { "name": "In taxi / ride-hailing", "steps": ["Taxi bianchi autorizzati e servizi app possono lasciarti alla Porta della Città.", "Chiedi all'autista 'Porta della Città di La Valletta' o 'Tritons Fountain'.", "C'è un punto di discesa designato al limite della piazza."] },
+    "parking": { "name": "In auto e parcheggio", "steps": ["Guidare dentro La Valletta è limitato; parcheggia in un parcheggio pubblico fuori le mura (MCP / Mateo Falcón).", "Dal parcheggio è una breve passeggiata fino alla piazza.", "Evita la sosta su strada a Floriana nelle ore di punta."] }
+  },
+  "stories": {
+    "title": "Storie, simbolismo e patrimonio",
+    "subtitle": "Oltre il bronzo e l'acqua, la fontana custodisce decenni di memoria maltese.",
+    "items": [
+      { "id": "myth", "title": "I Tritoni del mito", "content": "Nella mitologia greca, i Tritoni erano divinità messaggere del mare, con corpo di pesce e torso umano. Lo scultore Vincent Apap ne immaginò tre che sollevano una grande conchiglia — un omaggio al legame duraturo di Malta con il Mediterraneo." },
+      { "id": "independence", "title": "Simbolo di indipendenza", "content": "Inaugurata nel 1959, la fontana sorse mentre Malta andava verso l'autogoverno e, poi, la piena indipendenza nel 1964. Per molti maltesi divenne un emblema dell'identità nazionale." },
+      { "id": "gate", "title": "Custode della Porta della Città", "content": "Per generazioni la fontana è stata la soglia tra la città moderna e la vecchia città fortificata di La Valletta, Patrimonio dell'Umanità UNESCO dal 1980." },
+      { "id": "restore", "title": "Il restauro 2017–2018", "content": "Un restauro completo ha rimosso decenni di sporcizia, riparato il bronzo e restituito la piazza ai pedoni — un cambiamento di cui i locali parlano ancora." }
+    ]
   }
 }

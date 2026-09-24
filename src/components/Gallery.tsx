@@ -5,22 +5,22 @@ import { useState, useCallback } from 'react';
 import Image from 'next/image';
 
 const photos = [
-  { src: '/gallery/tritons-fountain (1).jpg', alt: 'Tritons’ Fountain Photo 1' },
-  { src: '/gallery/tritons-fountain (2).jpg', alt: 'Tritons’ Fountain Photo 2' },
-  { src: '/gallery/tritons-fountain (3).jpg', alt: 'Tritons’ Fountain Photo 3' },
-  { src: '/gallery/tritons-fountain (4).jpg', alt: 'Tritons’ Fountain Photo 4' },
-  { src: '/gallery/tritons-fountain (5).jpg', alt: 'Tritons’ Fountain Photo 5' },
-  { src: '/gallery/tritons-fountain (6).jpg', alt: 'Tritons’ Fountain Photo 6' },
-  { src: '/gallery/tritons-fountain (7).jpg', alt: 'Tritons’ Fountain Photo 7' },
-  { src: '/gallery/tritons-fountain (8).jpg', alt: 'Tritons’ Fountain Photo 8' },
-  { src: '/gallery/tritons-fountain (9).jpg', alt: 'Tritons’ Fountain Photo 9' },
-  { src: '/gallery/tritons-fountain (10).jpg', alt: 'Tritons’ Fountain Photo 10' },
-  { src: '/gallery/tritons-fountain (11).jpg', alt: 'Tritons’ Fountain Photo 11' },
-  { src: '/gallery/tritons-fountain (12).jpg', alt: 'Tritons’ Fountain Photo 12' },
-  { src: '/gallery/tritons-fountain (13).jpg', alt: 'Tritons’ Fountain Photo 13' },
-  { src: '/gallery/tritons-fountain (14).jpg', alt: 'Tritons’ Fountain Photo 14' },
-  { src: '/gallery/tritons-fountain (15).jpg', alt: 'Tritons’ Fountain Photo 15' },
-  { src: '/gallery/tritons-fountain (16).jpg', alt: 'Tritons’ Fountain Photo 16' },
+  { src: '/gallery/tritons-fountain-floriana-1.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 1' },
+  { src: '/gallery/tritons-fountain-floriana-2.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 2' },
+  { src: '/gallery/tritons-fountain-floriana-3.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 3' },
+  { src: '/gallery/tritons-fountain-floriana-4.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 4' },
+  { src: '/gallery/tritons-fountain-floriana-5.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 5' },
+  { src: '/gallery/tritons-fountain-floriana-6.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 6' },
+  { src: '/gallery/tritons-fountain-floriana-7.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 7' },
+  { src: '/gallery/tritons-fountain-floriana-8.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 8' },
+  { src: '/gallery/tritons-fountain-floriana-9.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 9' },
+  { src: '/gallery/tritons-fountain-floriana-10.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 10' },
+  { src: '/gallery/tritons-fountain-floriana-11.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 11' },
+  { src: '/gallery/tritons-fountain-floriana-12.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 12' },
+  { src: '/gallery/tritons-fountain-floriana-13.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 13' },
+  { src: '/gallery/tritons-fountain-floriana-14.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 14' },
+  { src: '/gallery/tritons-fountain-floriana-15.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 15' },
+  { src: '/gallery/tritons-fountain-floriana-16.jpg', alt: 'Tritons’ Fountain in Floriana, Malta - photo 16' },
 ];
 
 export default function Gallery() {

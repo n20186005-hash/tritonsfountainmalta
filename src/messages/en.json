@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Tritons’ Fountain",
-    "description": "Complete travel guide to Tritons’ Fountain in Malta. Learn about this iconic fountain in Floriana, including location and visitor information."
+    "title": "Tritons’ Fountain Valletta — Free 24/7 Visitor Guide, History & Photos",
+    "description": "Plan your free visit to Tritons’ Fountain by Valletta’s City Gate, Malta. Open 24/7. History, best photo spots, night illumination, things to do nearby & how to get here."
   },
   "header": {
     "home": "Home",
@@ -11,10 +11,10 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Tritons’ Fountain",
+    "title": "Tritons’ Fountain (Floriana)",
     "subtitle": "Fountain · Malta",
     "rating": "4.7",
-    "reviewCount": "27,532 reviews",
+    "reviewCount": "28,583 reviews",
     "type": "Fountain",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6"
@@ -76,7 +76,7 @@
     "city": "City",
     "cityValue": "Floriana",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7 (27,532)",
+    "googleRatingValue": "4.7 (28,583)",
     "address": "Address",
     "addressValue": "VGW5+783, Vjal Nelson, Il-Furjana, Malta",
     "plusCode": "Plus Code",
@@ -137,25 +137,25 @@
         "title": "Fountain Front Panorama",
         "description": "Stand directly in front of the square to capture the spectacular view of the three Tritons holding the basin.",
         "location": "Front of Fountain",
-        "image": "/gallery/tritons-fountain (1).jpg"
+        "image": "/gallery/tritons-fountain-floriana-1.jpg"
       },
       {
         "title": "Valletta City Gate Background",
         "description": "Use the modern Valletta City Gate as a backdrop to capture the blend of the ancient fountain and modern architecture.",
         "location": "Side of Fountain",
-        "image": "/gallery/tritons-fountain (2).jpg"
+        "image": "/gallery/tritons-fountain-floriana-2.jpg"
       },
       {
         "title": "Night Illumination",
         "description": "When the lights turn on at night, the fountain glows golden, making it an excellent time for night photography.",
         "location": "Any Angle in the Square",
-        "image": "/gallery/tritons-fountain (3).jpg"
+        "image": "/gallery/tritons-fountain-floriana-3.jpg"
       },
       {
         "title": "Water Cascades Close-up",
         "description": "Get close to capture the dynamic beauty of water cascading from the massive basin.",
         "location": "Edge of Fountain",
-        "image": "/gallery/tritons-fountain (4).jpg"
+        "image": "/gallery/tritons-fountain-floriana-4.jpg"
       }
     ]
   },
@@ -327,5 +327,132 @@
   "officialManagement": {
     "title": "About Tritons’ Fountain",
     "text": "Tritons’ Fountain is a significant landmark and public monument in Malta. The structure is routinely maintained and managed by relevant municipal departments and heritage authorities to ensure its pristine condition as a national symbol."
+  },
+  "entity": {
+    "aboutHeading": "About Tritons’ Fountain",
+    "aboutText": "Welcome to Tritons’ Fountain, widely recognized as the central Tritons Fountain. Located in the heart of Floriana, Malta, this landmark is the main gateway for travelers entering the historic capital of Valletta.",
+    "breadcrumbRoot": "Tritons’ Fountain",
+    "locationHeading": "Location & How to Visit Tritons Fountain in Floriana",
+    "locationText": "Tritons’ Fountain stands in an open public square just outside the City Gate of Valletta, in Floriana (Il-Furjana), Malta. The square is spacious, flat, and free to visit around the clock, making it an easy first stop on any trip to the capital.",
+    "landmarksHeading": "Landmarks & Attractions Around Tritons Fountain",
+    "landmarksText": "When visiting Tritons’ Fountain, visitors can easily explore surrounding historical landmarks and points of interest, including the Valletta City Gate and St. John’s Co-Cathedral.",
+    "historyHeading": "History & Significance of Tritons’ Fountain",
+    "historyText": "Designed by Maltese sculptor Vincent Apap and completed in 1959, Tritons’ Fountain quickly became a symbol of Malta’s independence and national identity, and today anchors the entrance to Valletta’s UNESCO-listed old town.",
+    "officialPortalPrefix": "For official updates and regional tourism information, visit the",
+    "officialPortalLabel": "Malta Official Tourism Portal"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      { "question": "Where is Tritons’ Fountain located?", "answer": "Tritons’ Fountain is located in Floriana (Il-Furjana), Malta, immediately outside the City Gate of Valletta." },
+      { "question": "Is Tritons Fountain free to visit?", "answer": "Yes, Tritons’ Fountain is a public monument and is free to visit year-round, open 24 hours a day." },
+      { "question": "What are the opening hours of Tritons’ Fountain?", "answer": "The fountain stands in an open public square and is accessible 24 hours a day, every day of the year." },
+      { "question": "How do I get to Tritons’ Fountain?", "answer": "It is about a 1-minute walk from the Valletta City Gate and sits right next to the Valletta bus terminus; direct airport buses also stop nearby." },
+      { "question": "Who designed Tritons’ Fountain?", "answer": "It was designed by the Maltese sculptor Vincent Apap together with draughtsman Victor Anastasi, and was completed in 1959." },
+      { "question": "What is there to see near Tritons’ Fountain?", "answer": "Right beside it is the Valletta City Gate, and within a short walk are St. John’s Co-Cathedral, the Upper Barrakka Gardens, and Republic Square in Valletta." },
+      { "question": "Are there beaches near Tritons’ Fountain and Valletta?", "answer": "Valletta is a fortified city with a rocky coastline rather than sandy beaches. For swimming, the closest spots are the Sliema waterfront and Exiles Bay (a short ferry or walk across the harbour), with larger sandy beaches such as St. Julian’s, Mellieħa and Golden Bay a bus ride away." },
+      { "question": "When is the best time to visit and photograph Tritons’ Fountain?", "answer": "The square faces open sky, so golden hour and blue hour give the warmest light on the bronze Tritons, while after sunset the fountain is illuminated and reflective — ideal for night photography. Mornings are the quietest." }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Official References",
+    "subtitle": "Authoritative government and heritage references for Tritons’ Fountain and Malta.",
+    "items": [
+      { "label": "Government of Malta", "url": "https://www.gov.mt/", "desc": "The official portal of the Government of Malta." },
+      { "label": "Visit Malta (Official Tourism Board)", "url": "https://www.visitmalta.com/en/", "desc": "The national tourism authority’s official visitor information for Malta." },
+      { "label": "Floriana Local Council", "url": "https://localgovernment.gov.mt/", "desc": "Local council and municipal services for the Floriana area." },
+      { "label": "Superintendence of Cultural Heritage", "url": "https://schmalta.mt/", "desc": "Malta’s national body responsible for the protection of cultural heritage." },
+      { "label": "Planning Authority", "url": "https://www.pa.org.mt/", "desc": "The authority regulating planning and development in Malta." }
+    ]
+  },
+  "facilities": {
+    "title": "Visitor Services & Nearby Facilities",
+    "subtitle": "Practical amenities around the fountain square — we list types only, not specific businesses, to stay independent and neutral.",
+    "items": [
+      { "icon": "wc", "name": "Public Restrooms", "desc": "Public toilets are available near the Valletta bus terminus and around the City Gate; some require a small coin fee." },
+      { "icon": "parking", "name": "Parking", "desc": "Paid public car parks sit just outside Valletta's walls (such as MCP / Mateo Falcón). On-street parking in Floriana is limited and time-restricted." },
+      { "icon": "dining", "name": "Cafés & Restaurants", "desc": "A wide choice of cafés, snack bars and restaurants lines the approach to the City Gate and the streets of Floriana and Valletta." },
+      { "icon": "lodging", "name": "Hotels & Stays", "desc": "Accommodation ranges from boutique hotels inside Valletta's walls to larger resorts a short bus ride away in Sliema and St. Julian's." },
+      { "icon": "market", "name": "Supermarkets & Shops", "desc": "Convenience stores and small supermarkets are scattered around Floriana and the Valletta side of the gate for water, snacks and essentials." },
+      { "icon": "fuel", "name": "Fuel & EV Charging", "desc": "Fuel stations and electric-vehicle charging points are found on the main approaches to Valletta and across the Grand Harbour area." }
+    ]
+  },
+  "weather": {
+    "title": "Current Weather & 7-Day Forecast",
+    "subtitle": "Live conditions at Tritons' Fountain, Floriana — refreshed automatically so you can plan your visit.",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precip": "Precip",
+    "precipShort": "Rain",
+    "sevenDay": "7-Day Forecast",
+    "umbrellaYes": "Bring an umbrella or raincoat — there's a fair chance of rain.",
+    "umbrellaNo": "No rain expected — a light layer is enough.",
+    "outfitCold": "Pack a warm coat; evenings by the square get chilly.",
+    "outfitCool": "Bring a light jacket or sweater for the breeze.",
+    "outfitWarm": "Wear light, breathable clothing and use sun protection.",
+    "planRain": "If showers arrive, Valletta's museums and covered arcades make a great backup.",
+    "planSun": "Ideal for outdoor photos and a relaxed stroll through the square.",
+    "uvLow": "Low",
+    "uvModerate": "Moderate",
+    "uvHigh": "High",
+    "uvVeryHigh": "Very High",
+    "updated": "Conditions refresh automatically every few minutes."
+  },
+  "seasonal": {
+    "title": "Seasonal Travel Strategy",
+    "subtitle": "Malta has a Mediterranean climate. The table summarises typical conditions based on 1991–2020 climate normals — useful for planning what to wear and when to go.",
+    "note": "Figures are long-term averages, not a forecast. Always check the live weather above before you set out.",
+    "cols": { "season": "Season", "weather": "Typical Weather", "wear": "What to Wear", "tip": "Recommended" },
+    "rows": [
+      { "season": "Spring (Mar–May)", "weather": "Mild and sunny, 15–22°C, occasional showers", "wear": "Light layers, a light jacket", "tip": "Excellent for walking tours and photography before the summer crowds." },
+      { "season": "Summer (Jun–Sep)", "weather": "Hot and dry, 28–34°C, intense sun", "wear": "Breathable clothing, hat, sunscreen", "tip": "Visit early morning or after sunset; carry water and seek shade." },
+      { "season": "Autumn (Oct–Nov)", "weather": "Warm and settled, 20–26°C, some storms", "wear": "Light layers, a foldable rain layer", "tip": "Calm seas and soft light make this a favourite season." },
+      { "season": "Winter (Dec–Feb)", "weather": "Mild and wet, 10–16°C, breezy", "wear": "Warm jacket, waterproof layer", "tip": "Quiet squares and green countryside; the fountain is lit and atmospheric." }
+    ]
+  },
+  "itineraries": {
+    "title": "Recommended Itineraries",
+    "subtitle": "Pick a route that matches your group and pace.",
+    "audienceTitle": "By Visitor Type",
+    "genericTitle": "Half-Day & Full-Day Plans",
+    "audiences": [
+      { "key": "family", "name": "Families with Kids", "desc": "Let children watch the water play, then cross into Valletta for the gardens and a relaxed lunch. Keep the route flat and short.", "steps": ["Fountain square (open space, safe for kids)", "Upper Barrakka Gardens lift", "Valletta waterfront for ice cream"] },
+      { "key": "photo", "name": "Photography & Nature", "desc": "Shoot the Tritons at blue hour and golden hour, then capture the City Gate contrast and harbour views.", "steps": ["Blue-hour shot from the square", "Golden-hour at the City Gate", "Sunrise over the Grand Harbour"] },
+      { "key": "accessible", "name": "Low-Mobility / Accessible", "desc": "The square is step-free and the Valletta City Gate area is wheelchair friendly with lifts to the gardens.", "steps": ["Step-free circuit of the square", "Barrier-free path through the City Gate", "Lift to Upper Barrakka Gardens"] }
+    ],
+    "generic": [
+      { "key": "half", "name": "Half-Day Plan", "desc": "A focused visit for travellers with limited time.", "steps": ["Arrive at the fountain square", "10-minute walk through the City Gate into Valletta", "Coffee and a short stroll on Republic Street", "Return for a night photo of the illuminated fountain"] },
+      { "key": "full", "name": "Full-Day Plan", "desc": "Explore the fountain and the highlights of Valletta in one day.", "steps": ["Morning at the fountain and City Gate", "St. John's Co-Cathedral", "Lunch in Valletta", "Upper Barrakka Gardens & Grand Harbour view", "Evening illumination of the fountain"] }
+    ]
+  },
+  "responsibility": {
+    "title": "Visitor Responsibility & Heritage Care",
+    "subtitle": "A few simple habits keep this shared public space enjoyable for everyone.",
+    "items": [
+      { "key": "monument", "name": "Respect the Monument", "desc": "The Tritons and basin are protected heritage. Please do not climb, sit on, or enter the water — it is decorative, not for swimming or drinking." },
+      { "key": "waste", "name": "Zero Litter", "desc": "Use the public bins around the square. During festivals the area gets busy, so take your rubbish with you if bins are full." },
+      { "key": "wildlife", "name": "Urban Wildlife", "desc": "Pigeons and gulls gather here. Enjoy them from a distance and avoid feeding them, which harms their health and the square." },
+      { "key": "water", "name": "Water & Sun Safety", "desc": "Malta's sun is strong in summer. Carry water, use sunscreen, and take shade breaks — the square has limited natural shade." },
+      { "key": "events", "name": "Events & Crowds", "desc": "The square hosts national celebrations. Check local listings and expect larger crowds on public holidays." }
+    ]
+  },
+  "transportGuide": {
+    "title": "Getting to Tritons' Fountain — Step by Step",
+    "subtitle": "The fountain sits right at the Valletta bus terminus, just outside the City Gate.",
+    "airport": { "name": "From Malta International Airport (MLA)", "steps": ["Take the direct airport bus (route X4) to the Valletta terminus — about 40 minutes.", "Taxis and ride-hailing apps cover the same trip in roughly 20–25 minutes.", "From the terminus, the fountain is a 1-minute walk through the main square."] },
+    "public": { "name": "By Public Bus", "steps": ["Almost every route on Malta terminates at the Valletta bus terminus.", "Buy a tallinja card or use contactless payment before boarding.", "The fountain is the first thing you see as you step into the square."] },
+    "taxi": { "name": "By Taxi / Ride-Hailing", "steps": ["Licensed white taxis and app-based services can drop you at the City Gate.", "Ask the driver for 'Valletta City Gate' or 'Tritons Fountain'.", "There is a designated set-down point at the edge of the square."] },
+    "parking": { "name": "By Car & Parking", "steps": ["Driving into Valletta is restricted; park at a public car park outside the walls (MCP / Mateo Falcón).", "From the car park it is a short walk to the square.", "Avoid on-street parking in Floriana during peak hours."] }
+  },
+  "stories": {
+    "title": "Stories, Symbolism & Heritage",
+    "subtitle": "Beyond the bronze and water, the fountain carries decades of Maltese memory.",
+    "items": [
+      { "id": "myth", "title": "The Tritons of Myth", "content": "In Greek myth, Tritons were messenger-gods of the sea with the body of a fish and the torso of a man. Sculptor Vincent Apap reimagined three of them heaving up a great shell-shaped basin — a nod to Malta's enduring bond with the Mediterranean." },
+      { "id": "independence", "title": "A Symbol of Independence", "content": "Unveiled in 1959, the fountain rose as Malta moved toward self-government and, later, full independence in 1964. For many Maltese it became an emblem of national identity." },
+      { "id": "gate", "title": "Guardian of the City Gate", "content": "For generations the fountain has been the threshold between the modern city and the fortified old town of Valletta, a UNESCO World Heritage Site since 1980." },
+      { "id": "restore", "title": "The 2017–2018 Restoration", "content": "A full restoration stripped decades of grime, repaired the bronze, and returned the square to pedestrians — a transformation locals still talk about." }
+    ]
   }
 }
