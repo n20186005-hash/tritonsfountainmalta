@@ -31,6 +31,9 @@ export async function generateMetadata({
     metadataBase: new URL(baseUrl),
     title: messages.meta.title,
     description: messages.meta.description,
+    keywords: locale === 'en'
+      ? ['Tritons Fountain', 'Triton Fountain Valletta', 'Tritons Fountain Malta', 'Valletta fountain', 'Tritons Fountain photos', 'Il-Funtana tat-Tritoni']
+      : undefined,
     alternates: {
       canonical: selfUrl,
       languages: {
