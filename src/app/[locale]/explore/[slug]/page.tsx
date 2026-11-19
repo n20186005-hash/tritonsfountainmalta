@@ -46,11 +46,13 @@ export default async function ExplorePage({params}: {params: Params}) {
   const dt = exploreDetailUi[locale];
   const map = place.map;
   const articleUrl = `${SITE.baseUrl}/${locale}/explore/${slug}`;
-  const sourceName = ['hastings-gardens', 'upper-barrakka-gardens'].includes(slug) ? 'Parks in Malta' : slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta';
+  const sourceName = ['hastings-gardens', 'upper-barrakka-gardens', 'lower-barrakka-gardens'].includes(slug) ? 'Parks in Malta' : slug === 'siege-bell-memorial' ? 'Heritage Malta' : slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta';
   const operatorName: Record<ExploreSlug, string> = {
     'valletta-city-gate':'Visit Malta — Valletta',
     'hastings-gardens':'Parks in Malta — Hastings Garden',
     'upper-barrakka-gardens':'Parks in Malta — Upper Barrakka Gardens',
+    'lower-barrakka-gardens':'Parks in Malta — Lower Barrakka Gardens',
+    'siege-bell-memorial':'Heritage Malta — memorial conservation',
     'the-mall-gardens':'Ambjent Malta',
     'floriana-granaries':'Floriana Local Council',
     'tritons-fountain-photography':'Public Works Department',
