@@ -43,7 +43,7 @@ export default async function ExplorePage({params}: {params: Params}) {
   const t = exploreUi[locale];
   const map = place.map;
   const articleUrl = `${SITE.baseUrl}/${locale}/explore/${slug}`;
-  const jsonLd = slug === 'valletta-city-gate' ? {
+  const jsonLd = slug !== 'tritons-fountain-photography' ? {
     '@context': 'https://schema.org', '@type': 'TouristAttraction',
     name: c.name, description: c.intro, url: articleUrl,
     image: `${SITE.baseUrl}${place.image}`, hasMap: map,
@@ -70,7 +70,7 @@ export default async function ExplorePage({params}: {params: Params}) {
         </header>
         <figure className="mb-10">
           <Image src={place.image} alt={c.name} width={1280} height={800} unoptimized className="w-full rounded-2xl object-cover max-h-[520px]" />
-          <figcaption className="text-xs mt-2" style={{color:'var(--text-secondary)'}}>{slug === 'valletta-city-gate' ? 'Valletta City Gate · Wikimedia Commons' : 'Tritons’ Fountain · site gallery'}</figcaption>
+          <figcaption className="text-xs mt-2" style={{color:'var(--text-secondary)'}}>{slug === 'tritons-fountain-photography' ? 'Tritons’ Fountain · site gallery' : `${c.name} · Wikimedia Commons`}</figcaption>
         </figure>
         <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-4">{t.about}</h2><p className="leading-8">{c.intro}</p></section>
         <section className="rounded-2xl p-6 sm:p-8 mb-10" style={{background:'var(--bg-secondary)', border:'1px solid var(--border-color)'}}>
@@ -90,9 +90,9 @@ export default async function ExplorePage({params}: {params: Params}) {
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.highlights}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.highlights.map(item => <li className="rounded-xl p-5" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.tips}</h2><ul className="list-disc pl-6 space-y-3 leading-8">{c.tips.map(item => <li key={item}>{item}</li>)}</ul></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.route}</h2><ol className="space-y-4">{c.route.map((item,i) => <li key={item} className="flex gap-4"><span className="shrink-0 rounded-full w-9 h-9 flex items-center justify-center" style={{background:'var(--accent)',color:'#fff'}}>{i+1}</span><p className="leading-8">{item}</p></li>)}</ol></section>
-        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.photos}</h2><div className="grid sm:grid-cols-2 gap-4 mb-5">{place.extraImages.map(src => <Image key={src} src={src} alt={`${c.name} — ${t.photos}`} width={640} height={420} unoptimized className="rounded-xl object-cover w-full h-64" />)}</div><ul className="list-disc pl-6 space-y-3">{c.photoTips.map(item => <li key={item}>{item}</li>)}</ul></section>
+        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.photos}</h2>{place.extraImages.length > 0 && <div className="grid sm:grid-cols-2 gap-4 mb-5">{place.extraImages.map(src => <Image key={src} src={src} alt={`${c.name} — ${t.photos}`} width={640} height={420} unoptimized className="rounded-xl object-cover w-full h-64" />)}</div>}<ul className="list-disc pl-6 space-y-3">{c.photoTips.map(item => <li key={item}>{item}</li>)}</ul></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.faq}</h2><div className="space-y-3">{c.faq.map(([q,a]) => <details key={q} className="rounded-xl p-5" style={{background:'var(--bg-secondary)'}}><summary className="font-semibold cursor-pointer">{q}</summary><p className="mt-3 leading-7">{a}</p></details>)}</div></section>
-        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{t.sources}</h2><ul className="list-disc pl-6 space-y-2"><li><a className="underline" href={place.factSource} target="_blank" rel="noopener noreferrer">Visit Malta</a></li><li><a className="underline" href={place.operatorSource} target="_blank" rel="noopener noreferrer">{slug === 'valletta-city-gate' ? 'Visit Malta — Valletta' : 'Public Works Department — maintenance procurement'}</a></li></ul></section>
+        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{t.sources}</h2><ul className="list-disc pl-6 space-y-2"><li><a className="underline" href={place.factSource} target="_blank" rel="noopener noreferrer">{slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta'}</a></li><li><a className="underline" href={place.operatorSource} target="_blank" rel="noopener noreferrer">{{'valletta-city-gate':'Visit Malta — Valletta','the-mall-gardens':'Ambjent Malta','floriana-granaries':'Floriana Local Council','tritons-fountain-photography':'Public Works Department'}[slug]}</a></li></ul></section>
         <aside className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-2xl mb-4">{t.section}</h2><div className="flex flex-wrap gap-4">{exploreSlugs.filter(other => other !== slug).map(other => <a className="underline underline-offset-4" key={other} href={`/${locale}/explore/${other}`}>{explorePlaces[other].copy[locale].name}</a>)}<a className="underline underline-offset-4" href={`/${locale}`}>{t.back}</a></div></aside>
       </article>
     </main>
