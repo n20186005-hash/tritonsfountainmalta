@@ -4,6 +4,7 @@ import {notFound} from 'next/navigation';
 import {explorePlaces, exploreSlugs, exploreUi, type ExploreLocale, type ExploreSlug} from '@/lib/explore';
 import {exploreDetails, exploreDetailUi} from '@/lib/exploreDetails';
 import {exploreFacts, factLabels} from '@/lib/exploreFacts';
+import {exploreDeepDive, deepDiveLabels} from '@/lib/exploreDeepDive';
 import {routing} from '@/i18n/routing';
 import {SITE} from '@/lib/site';
 import Header from '@/components/Header';
@@ -47,6 +48,8 @@ export default async function ExplorePage({params}: {params: Params}) {
   const dt = exploreDetailUi[locale];
   const facts = exploreFacts[slug][locale];
   const fl = factLabels[locale];
+  const deep = exploreDeepDive[slug][locale];
+  const dl = deepDiveLabels[locale];
   const map = place.map;
   const articleUrl = `${SITE.baseUrl}/${locale}/explore/${slug}`;
   const sourceName = ['hastings-gardens', 'upper-barrakka-gardens', 'lower-barrakka-gardens'].includes(slug) ? 'Parks in Malta' : slug === 'siege-bell-memorial' ? 'Heritage Malta' : slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta';
@@ -113,9 +116,15 @@ export default async function ExplorePage({params}: {params: Params}) {
           <section><h2 className="font-display text-3xl font-semibold mb-4">{t.design}</h2><p className="leading-8">{c.design}</p></section>
         </div>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.culture}</h2><p className="leading-8">{detail.culture}</p></section>
+        <section className="mb-12 rounded-2xl p-6 sm:p-8" style={{background:'var(--bg-secondary)'}}>
+          <h2 className="font-display text-3xl font-semibold mb-4">{dl.story}</h2><p className="leading-8 mb-7">{deep.story}</p>
+          <h3 className="font-display text-2xl font-semibold mb-3">{dl.detail}</h3><p className="leading-8">{deep.detail}</p>
+        </section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.route}</h2><ol className="space-y-4">{c.route.map((item,i) => <li key={item} className="flex gap-4"><span className="shrink-0 rounded-full w-9 h-9 flex items-center justify-center" style={{background:'var(--accent)',color:'#fff'}}>{i+1}</span><p className="leading-8">{item}</p></li>)}</ol></section>
+        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{dl.walk}</h2><ol className="space-y-4">{deep.walk.map((item,i) => <li key={item} className="flex gap-4"><span className="shrink-0 rounded-full w-9 h-9 flex items-center justify-center" style={{background:'var(--accent)',color:'#fff'}}>{i+1}</span><p className="leading-8">{item}</p></li>)}</ol></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.notice}</h2><p className="leading-8">{detail.notice}</p></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.photos}</h2>{place.extraImages.length > 0 && <div className="grid sm:grid-cols-2 gap-4 mb-5">{place.extraImages.map(src => <Image key={src} src={src} alt={`${c.name} — ${t.photos}`} width={640} height={420} unoptimized className="rounded-xl object-cover w-full h-64" />)}</div>}<ul className="list-disc pl-6 space-y-3">{c.photoTips.map(item => <li key={item}>{item}</li>)}</ul></section>
+        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{dl.shots}</h2><ul className="grid sm:grid-cols-2 gap-3">{deep.shots.map(item => <li key={item} className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}}>{item}</li>)}</ul></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.stay}</h2><p className="leading-8">{detail.stay}</p></section>
         <section className="mb-12 rounded-2xl p-6 sm:p-8" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-3xl font-semibold mb-4">{dt.reviews}</h2><p className="leading-7 mb-4">{dt.noRating}</p><a className="underline underline-offset-4" href={map} target="_blank" rel="noopener noreferrer">{dt.reviewsLink} ↗</a></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.gettingThere}</h2><address className="not-italic leading-8 mb-4">{place.address}</address><p className="leading-7 mb-5">{detail.transport[0]}</p><a className="inline-block rounded-full px-5 py-3 font-semibold" style={{background:'var(--accent)',color:'#fff'}} href={map} target="_blank" rel="noopener noreferrer">{t.map} ↗</a></section>
