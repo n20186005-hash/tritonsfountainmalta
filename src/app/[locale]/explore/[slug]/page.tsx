@@ -3,6 +3,7 @@ import Image from 'next/image';
 import {notFound} from 'next/navigation';
 import {explorePlaces, exploreSlugs, exploreUi, type ExploreLocale, type ExploreSlug} from '@/lib/explore';
 import {exploreDetails, exploreDetailUi} from '@/lib/exploreDetails';
+import {exploreFacts, factLabels} from '@/lib/exploreFacts';
 import {routing} from '@/i18n/routing';
 import {SITE} from '@/lib/site';
 import Header from '@/components/Header';
@@ -44,6 +45,8 @@ export default async function ExplorePage({params}: {params: Params}) {
   const t = exploreUi[locale];
   const detail = exploreDetails[slug][locale];
   const dt = exploreDetailUi[locale];
+  const facts = exploreFacts[slug][locale];
+  const fl = factLabels[locale];
   const map = place.map;
   const articleUrl = `${SITE.baseUrl}/${locale}/explore/${slug}`;
   const sourceName = ['hastings-gardens', 'upper-barrakka-gardens', 'lower-barrakka-gardens'].includes(slug) ? 'Parks in Malta' : slug === 'siege-bell-memorial' ? 'Heritage Malta' : slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta';
@@ -80,7 +83,8 @@ export default async function ExplorePage({params}: {params: Params}) {
           <div className="flex flex-wrap gap-3 mt-6">
             <span className="rounded-full px-4 py-2 text-sm" style={{background:'var(--bg-secondary)'}}>{t.free}</span>
             <span className="rounded-full px-4 py-2 text-sm" style={{background:'var(--bg-secondary)'}}>{detail.duration}</span>
-            <span className="rounded-full px-4 py-2 text-sm" style={{background:'var(--bg-secondary)'}}>{dt.noRating}</span>
+            <a href="#opening" className="rounded-full px-4 py-2 text-sm underline underline-offset-4" style={{background:'var(--bg-secondary)'}}>{dt.opening} ↓</a>
+            <a href={map} target="_blank" rel="noopener noreferrer" className="rounded-full px-4 py-2 text-sm underline underline-offset-4" style={{background:'var(--bg-secondary)'}}>{dt.reviews} ↗</a>
             <a href={map} target="_blank" rel="noopener noreferrer" className="rounded-full px-5 py-2 text-sm font-semibold" style={{background:'var(--accent)', color:'#fff'}}>{t.map} ↗</a>
           </div>
         </header>
@@ -96,12 +100,12 @@ export default async function ExplorePage({params}: {params: Params}) {
         <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-5">{t.highlights}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.highlights.map(item => <li className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.facts}</h2>
           <dl className="grid sm:grid-cols-2 gap-4">
-            {[[t.address,place.address],[dt.duration,detail.duration],[t.hours,detail.opening],[t.admission,t.free]].map(([label,txt]) =>
+            {[[fl.type,facts.type],[fl.area,facts.area],[fl.focus,facts.focus],[t.address,place.address],[dt.duration,detail.duration],[t.hours,detail.opening],[t.admission,t.free],[fl.reference,operatorName[slug]]].map(([label,txt]) =>
               <div key={label} className="rounded-xl p-5" style={{background:'var(--bg-secondary)'}}><dt className="text-sm mb-2" style={{color:'var(--text-secondary)'}}>{label}</dt><dd className="font-medium">{txt}</dd></div>)}
           </dl>
           <a className="inline-block mt-5 underline underline-offset-4" href={map} target="_blank" rel="noopener noreferrer">{t.map} ↗</a>
         </section>
-        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.opening}</h2><p className="leading-8">{detail.opening}</p></section>
+        <section id="opening" className="mb-12 scroll-mt-28"><h2 className="font-display text-3xl font-semibold mb-4">{dt.opening}</h2><p className="leading-8">{detail.opening}</p></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.admission}</h2><p className="leading-8">{t.free}</p></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{dt.mobility}</h2><ul className="list-disc pl-6 space-y-3 leading-8">{detail.transport.map(item => <li key={item}>{item}</li>)}</ul></section>
         <div className="grid md:grid-cols-2 gap-10 mb-12">
