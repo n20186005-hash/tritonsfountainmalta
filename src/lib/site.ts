@@ -28,6 +28,7 @@ export const SITE = {
 
   // Maps
   mapsShareUrl: 'https://maps.app.goo.gl/Fm5kTdRDa9nBYwtY6',
+  reviewsSourceUrl: 'https://maps.google.com/?cid=9486064826506292598&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=zh-CN&source=embed',
   mapsEmbedSrc: "https://maps.google.com/maps?q=Tritons'+Fountain,+Malta&output=embed",
 
   // Nearby landmarks (semantic cluster)
@@ -40,7 +41,7 @@ export const SITE = {
 
   // Ratings (synced with Google Maps, 2026)
   rating: 4.7,
-  reviewCount: 28583,
+  reviewCount: 29230,
 
   // SEO site name: "Attraction Name + City + Travel Guide" per locale
   siteName: {
