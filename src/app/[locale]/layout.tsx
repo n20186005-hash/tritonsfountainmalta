@@ -58,7 +58,7 @@ export async function generateMetadata({
           url: SITE.heroImage,
           width: 1200,
           height: 800,
-          alt: `${SITE.fullName} in ${SITE.city}`,
+          alt: messages.accessibility.heroImage,
         },
       ],
     },

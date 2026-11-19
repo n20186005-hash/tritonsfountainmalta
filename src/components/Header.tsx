@@ -8,6 +8,7 @@ import {exploreUi, type ExploreLocale} from '@/lib/explore';
 
 export default function Header() {
   const t = useTranslations('header');
+  const entity = useTranslations('entity');
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -30,7 +31,7 @@ export default function Header() {
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <a href={logoHref} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
-          Tritons’ Fountain
+          {entity('breadcrumbRoot')}
         </a>
 
         <nav className="hidden md:flex items-center gap-6">

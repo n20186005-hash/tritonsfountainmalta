@@ -10,6 +10,7 @@
     "map": "Mappa",
     "backToHome": "Lura għad-Dar"
   },
+  "accessibility": {"languageSwitch":"Ibdel il-lingwa","themeSwitch":"Ibdel it-tema tal-kulur","cookieToggle":"Ibdel {label}","previousPhoto":"Ritratt ta’ qabel","nextPhoto":"Ritratt li jmiss","closeLightbox":"Agħlaq ir-ritratt","heroImage":"Il-Funtana tat-Tritoni fil-Furjana, Malta","mapTitle":"Google Maps — Il-Funtana tat-Tritoni","breadcrumb":"Ġerarkija tal-post"},
   "hero": {
     "title": "Il-Funtana tat-Tritoni (Floriana)",
     "subtitle": "Funtana · Malta",
@@ -254,7 +255,7 @@
   },
   "footer": {
     "brandName": "Il-Funtana tat-Tritoni",
-    "brandSubtitle": "Monument · Malta",
+    "brandSubtitle": "Monument storiku · Malta",
     "rights": "© 2026 Proġett ta' Riċerka dwar it-Turiżmu Indipendenti · Id-Drittijiet Kollha Riżervati.",
     "privacy": "Politika ta' Privatezza",
     "terms": "Termini ta' Servizz",

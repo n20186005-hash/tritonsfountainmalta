@@ -10,6 +10,7 @@
     "map": "Mappa",
     "backToHome": "Torna alla Home"
   },
+  "accessibility": {"languageSwitch":"Cambia lingua","themeSwitch":"Cambia tema colore","cookieToggle":"Attiva o disattiva {label}","previousPhoto":"Foto precedente","nextPhoto":"Foto successiva","closeLightbox":"Chiudi visualizzatore foto","heroImage":"Fontana dei Tritoni a Floriana, Malta","mapTitle":"Google Maps — Fontana dei Tritoni","breadcrumb":"Gerarchia delle località"},
   "hero": {
     "title": "Fontana dei Tritoni (Floriana)",
     "subtitle": "Fontana · Malta",

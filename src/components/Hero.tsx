@@ -3,6 +3,7 @@ import Image from 'next/image';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const a11y = useTranslations('accessibility');
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -10,7 +11,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <Image
           src="/images/hero.jpg"
-          alt="Tritons’ Fountain - Main view in Floriana, Malta"
+          alt={a11y('heroImage')}
           fill
           priority
           className="object-cover"

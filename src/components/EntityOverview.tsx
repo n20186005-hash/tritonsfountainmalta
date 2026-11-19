@@ -5,6 +5,8 @@ import { SITE } from '@/lib/site';
 
 export default function EntityOverview() {
   const t = useTranslations('entity');
+  const info = useTranslations('basicInfo');
+  const a11y = useTranslations('accessibility');
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>
@@ -23,15 +25,15 @@ export default function EntityOverview() {
 
         {/* Geographic breadcrumb / hierarchy */}
         <nav
-          aria-label="breadcrumb"
+          aria-label={a11y('breadcrumb')}
           className="inline-flex flex-wrap items-center gap-2 mb-12 text-sm font-medium px-4 py-2 rounded-full"
           style={{ background: 'var(--bg-tertiary)', color: 'var(--text-muted)' }}
         >
           <span style={{ color: 'var(--accent)' }}>{t('breadcrumbRoot')}</span>
           <span aria-hidden="true">→</span>
-          <span>{SITE.city}</span>
+          <span>{info('cityValue')}</span>
           <span aria-hidden="true">→</span>
-          <span>{SITE.country}</span>
+          <span>{info('countryValue')}</span>
         </nav>
 
         <h2

@@ -10,6 +10,7 @@
     "map": "地图",
     "backToHome": "返回首页"
   },
+  "accessibility": {"languageSwitch":"切换语言","themeSwitch":"切换明暗主题","cookieToggle":"切换{label}","previousPhoto":"上一张照片","nextPhoto":"下一张照片","closeLightbox":"关闭照片查看器","heroImage":"马耳他弗洛里亚纳海神喷泉实景","mapTitle":"Google 地图—海神喷泉","breadcrumb":"地点层级"},
   "hero": {
     "title": "海神喷泉（弗洛里亚纳）",
     "subtitle": "喷泉 · 马耳他",

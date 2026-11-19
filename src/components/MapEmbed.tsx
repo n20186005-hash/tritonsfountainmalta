@@ -3,6 +3,7 @@ import { SITE } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const a11y = useTranslations('accessibility');
   const tEntity = useTranslations('entity');
   const messages = useMessages() as any;
 
@@ -35,7 +36,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Tritons' Fountain"
+            title={a11y('mapTitle')}
           />
         </div>
 

@@ -10,6 +10,7 @@
     "map": "Map",
     "backToHome": "Back to Home"
   },
+  "accessibility": {"languageSwitch":"Switch language","themeSwitch":"Toggle colour theme","cookieToggle":"Toggle {label}","previousPhoto":"Previous photo","nextPhoto":"Next photo","closeLightbox":"Close photo viewer","heroImage":"Tritons’ Fountain in Floriana, Malta","mapTitle":"Google Maps — Tritons’ Fountain","breadcrumb":"Location hierarchy"},
   "hero": {
     "title": "Tritons’ Fountain (Floriana)",
     "subtitle": "Fountain · Malta",

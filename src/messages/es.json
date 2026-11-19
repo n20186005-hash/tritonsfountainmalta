@@ -10,8 +10,9 @@
     "map": "Mapa",
     "backToHome": "Volver al inicio"
   },
+  "accessibility": {"languageSwitch":"Cambiar idioma","themeSwitch":"Cambiar tema de color","cookieToggle":"Cambiar {label}","previousPhoto":"Foto anterior","nextPhoto":"Foto siguiente","closeLightbox":"Cerrar visor de fotos","heroImage":"Fuente de los Tritones en Floriana, Malta","mapTitle":"Google Maps — Fuente de los Tritones","breadcrumb":"Jerarquía de ubicación"},
   "hero": {
-    "title": "Tritons’ Fountain (Floriana)",
+    "title": "Fuente de los Tritones (Floriana)",
     "subtitle": "Fuente · Malta",
     "rating": "4,7",
     "reviewCount": "28.583 reseñas",
@@ -253,7 +254,7 @@
     "openMaps": "Ver en Google Maps"
   },
   "footer": {
-    "brandName": "Tritons’ Fountain",
+    "brandName": "Fuente de los Tritones",
     "brandSubtitle": "Monumento · Malta",
     "rights": "© 2026 Proyecto independiente de investigación turística · Todos los derechos reservados.",
     "privacy": "Política de privacidad",
@@ -331,7 +332,7 @@
   "entity": {
     "aboutHeading": "Sobre Tritons’ Fountain",
     "aboutText": "Bienvenido a Tritons’ Fountain, ampliamente reconocida como la fuente central de Tritons. Ubicada en el corazón de Floriana, Malta, este hito es la puerta principal de entrada para los viajeros que llegan a la histórica capital de Valletta.",
-    "breadcrumbRoot": "Tritons’ Fountain",
+    "breadcrumbRoot": "Fuente de los Tritones",
     "locationHeading": "Ubicación y cómo visitar Tritons’ Fountain en Floriana",
     "locationText": "Tritons’ Fountain se encuentra en una plaza pública abierta justo frente a la Puerta de la Ciudad de Valletta, en Floriana (Il-Furjana), Malta. La plaza es amplia, llana y de visita gratuita las 24 horas, lo que la convierte en una primera parada fácil en cualquier viaje a la capital.",
     "landmarksHeading": "Monumentos y atracciones cerca de Tritons’ Fountain",

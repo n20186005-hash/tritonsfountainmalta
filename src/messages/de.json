@@ -10,8 +10,9 @@
     "map": "Karte",
     "backToHome": "Zurück zur Startseite"
   },
+  "accessibility": {"languageSwitch":"Sprache wechseln","themeSwitch":"Farbschema wechseln","cookieToggle":"{label} umschalten","previousPhoto":"Vorheriges Foto","nextPhoto":"Nächstes Foto","closeLightbox":"Fotoansicht schließen","heroImage":"Tritonenbrunnen in Floriana, Malta","mapTitle":"Google Maps — Tritonenbrunnen","breadcrumb":"Ortsübersicht"},
   "hero": {
-    "title": "Tritons’ Fountain (Floriana)",
+    "title": "Tritonenbrunnen (Floriana)",
     "subtitle": "Brunnen · Malta",
     "rating": "4,7",
     "reviewCount": "28.583 Bewertungen",
@@ -253,7 +254,7 @@
     "openMaps": "Auf Google Maps ansehen"
   },
   "footer": {
-    "brandName": "Tritons’ Fountain",
+    "brandName": "Tritonenbrunnen",
     "brandSubtitle": "Denkmal · Malta",
     "rights": "© 2026 Unabhängiges Tourismus-Forschungsprojekt · Alle Rechte vorbehalten.",
     "privacy": "Datenschutzbestimmungen",
@@ -331,7 +332,7 @@
   "entity": {
     "aboutHeading": "Über Tritons’ Fountain",
     "aboutText": "Willkommen bei Tritons’ Fountain, weithin bekannt als der zentrale Tritons-Brunnen. Inmitten von Floriana, Malta gelegen, ist dieses Wahrzeichen der Haupteingang für Reisende, die in die historische Hauptstadt Valletta kommen.",
-    "breadcrumbRoot": "Tritons’ Fountain",
+    "breadcrumbRoot": "Tritonenbrunnen",
     "locationHeading": "Lage & Besuch von Tritons’ Fountain in Floriana",
     "locationText": "Tritons’ Fountain steht auf einem offenen öffentlichen Platz direkt vor dem Stadttor von Valletta, in Floriana (Il-Furjana), Malta. Der Platz ist geräumig, eben und rund um die Uhr kostenlos zugänglich – ein einfacher erster Stopp auf jeder Reise in die Hauptstadt.",
     "landmarksHeading": "Wahrzeichen & Sehenswürdigkeiten rund um Tritons’ Fountain",
