@@ -24,6 +24,7 @@ import ResponsibilitySection from '@/components/ResponsibilitySection';
 import TransportGuideSection from '@/components/TransportGuideSection';
 import StoriesSection from '@/components/StoriesSection';
 import Footer from '@/components/Footer';
+import NearbyExplore from '@/components/NearbyExplore';
 
 // Render per-request so the weather module always shows fresh conditions.
 export const dynamic = 'force-dynamic';
@@ -55,6 +56,7 @@ export default async function HomePage({
         <SeasonalSection />
         <RouteSection />
         <ItinerariesSection />
+        <NearbyExplore />
         <PhotoSpotsSection />
         <Gallery />
         <HotelsSection />

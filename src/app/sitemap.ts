@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
+import { exploreSlugs } from '@/lib/explore';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://tritonsfountainmalta.com';
@@ -32,6 +33,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     });
+    exploreSlugs.forEach(slug => sitemapEntries.push({
+      url: `${baseUrl}/${locale}/explore/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.75,
+    }));
   });
 
   return sitemapEntries;

@@ -4,6 +4,7 @@ import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
+import {exploreUi, type ExploreLocale} from '@/lib/explore';
 
 export default function Header() {
   const t = useTranslations('header');
@@ -33,6 +34,9 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
+          <a href={`/${locale}#nearby-explore`} className="text-sm font-medium transition-colors" style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}>
+            {exploreUi[locale as ExploreLocale]?.nearby || exploreUi.en.nearby}
+          </a>
           {(['gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
