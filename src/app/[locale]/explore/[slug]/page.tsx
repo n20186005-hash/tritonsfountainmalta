@@ -46,6 +46,15 @@ export default async function ExplorePage({params}: {params: Params}) {
   const dt = exploreDetailUi[locale];
   const map = place.map;
   const articleUrl = `${SITE.baseUrl}/${locale}/explore/${slug}`;
+  const sourceName = ['hastings-gardens', 'upper-barrakka-gardens'].includes(slug) ? 'Parks in Malta' : slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta';
+  const operatorName: Record<ExploreSlug, string> = {
+    'valletta-city-gate':'Visit Malta — Valletta',
+    'hastings-gardens':'Parks in Malta — Hastings Garden',
+    'upper-barrakka-gardens':'Parks in Malta — Upper Barrakka Gardens',
+    'the-mall-gardens':'Ambjent Malta',
+    'floriana-granaries':'Floriana Local Council',
+    'tritons-fountain-photography':'Public Works Department',
+  };
   const jsonLd = slug !== 'tritons-fountain-photography' ? {
     '@context': 'https://schema.org', '@type': 'TouristAttraction',
     name: c.name, description: c.intro, url: articleUrl,
@@ -61,7 +70,7 @@ export default async function ExplorePage({params}: {params: Params}) {
     <Header />
     <main className="min-h-screen pt-24 pb-16" style={{background: 'var(--bg-primary)', color: 'var(--text-primary)'}}>
       <article className="max-w-5xl mx-auto px-4 sm:px-6">
-        <nav className="text-sm mb-6" aria-label="Breadcrumb"><a href={`/${locale}`} className="underline underline-offset-4">{t.back}</a> / {c.name}</nav>
+        <nav className="text-sm mb-6" aria-label={exploreDetailUi[locale].gettingThere}><a href={`/${locale}`} className="underline underline-offset-4">{t.back}</a> / {c.name}</nav>
         <header className="mb-10">
           <p className="uppercase tracking-[0.2em] text-xs mb-3" style={{color:'var(--accent)'}}>{t.nearby}</p>
           <h1 className="font-display text-4xl sm:text-5xl font-semibold leading-tight">{c.name}</h1>
@@ -75,7 +84,7 @@ export default async function ExplorePage({params}: {params: Params}) {
         </header>
         <figure className="mb-10">
           <Image src={place.image} alt={c.name} width={1280} height={800} unoptimized className="w-full rounded-2xl object-cover max-h-[520px]" />
-          <figcaption className="text-xs mt-2" style={{color:'var(--text-secondary)'}}>{slug === 'tritons-fountain-photography' ? 'Tritons’ Fountain · site gallery' : `${c.name} · Wikimedia Commons`}</figcaption>
+          <figcaption className="text-xs mt-2" style={{color:'var(--text-secondary)'}}>{slug === 'tritons-fountain-photography' ? `${c.name} · ${t.photos}` : `${c.name} · Wikimedia Commons`}</figcaption>
         </figure>
         <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-4">{t.about}</h2><p className="leading-8">{c.intro}</p></section>
         <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-5">{t.tips}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.tips.map(item => <li className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
@@ -105,7 +114,7 @@ export default async function ExplorePage({params}: {params: Params}) {
         <section className="mb-12 rounded-2xl p-6 sm:p-8" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-3xl font-semibold mb-4">{dt.reviews}</h2><p className="leading-7 mb-4">{dt.noRating}</p><a className="underline underline-offset-4" href={map} target="_blank" rel="noopener noreferrer">{dt.reviewsLink} ↗</a></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.gettingThere}</h2><address className="not-italic leading-8 mb-4">{place.address}</address><p className="leading-7 mb-5">{detail.transport[0]}</p><a className="inline-block rounded-full px-5 py-3 font-semibold" style={{background:'var(--accent)',color:'#fff'}} href={map} target="_blank" rel="noopener noreferrer">{t.map} ↗</a></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.faq}</h2><div className="space-y-3">{c.faq.map(([q,a]) => <details key={q} className="rounded-xl p-5" style={{background:'var(--bg-secondary)'}}><summary className="font-semibold cursor-pointer">{q}</summary><p className="mt-3 leading-7">{a}</p></details>)}</div></section>
-        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{t.sources}</h2><ul className="list-disc pl-6 space-y-2"><li><a className="underline" href={place.factSource} target="_blank" rel="noopener noreferrer">{slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta'}</a></li><li><a className="underline" href={place.operatorSource} target="_blank" rel="noopener noreferrer">{{'valletta-city-gate':'Visit Malta — Valletta','the-mall-gardens':'Ambjent Malta','floriana-granaries':'Floriana Local Council','tritons-fountain-photography':'Public Works Department'}[slug]}</a></li></ul></section>
+        <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{t.sources}</h2><ul className="list-disc pl-6 space-y-2"><li><a className="underline" href={place.factSource} target="_blank" rel="noopener noreferrer">{sourceName}</a></li><li><a className="underline" href={place.operatorSource} target="_blank" rel="noopener noreferrer">{operatorName[slug]}</a></li></ul></section>
         <aside className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-2xl mb-4">{t.section}</h2><div className="flex flex-wrap gap-4">{exploreSlugs.filter(other => other !== slug).map(other => <a className="underline underline-offset-4" key={other} href={`/${locale}/explore/${other}`}>{explorePlaces[other].copy[locale].name}</a>)}<a className="underline underline-offset-4" href={`/${locale}`}>{t.back}</a></div></aside>
       </article>
     </main>
