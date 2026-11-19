@@ -13,6 +13,30 @@ export const factLabels: Record<ExploreLocale, {type:string; area:string; focus:
 
 // Location-specific, editorial visitor facts. These do not imply verified review scores or fixed opening hours.
 export const exploreFacts: Record<ExploreSlug, Record<ExploreLocale, Fact>> = {
+  'st-johns-co-cathedral': {
+    en:{type:'Historic Catholic co-cathedral and art landmark',area:'St John’s Street, central Valletta',focus:'Baroque interior, marble tombstones and Caravaggio'},
+    zh:{type:'历史天主教共主教座堂与艺术地标',area:'瓦莱塔旧城中心圣约翰街',focus:'巴洛克内饰、大理石墓碑与卡拉瓦乔作品'},
+    mt:{type:'Kon-katidral storiku u wirt artistiku',area:'Triq San Ġwann, fiċ-ċentru tal-Belt',focus:'Barokk, art tal-irħam u Caravaggio'},
+    it:{type:'Concattedrale storica e patrimonio artistico',area:'Triq San Gwann, centro di La Valletta',focus:'Interni barocchi, marmi e Caravaggio'},
+    de:{type:'Historische Konkathedrale und Kunstdenkmal',area:'St John’s Street im Zentrum Vallettas',focus:'Barock, Marmorgrabplatten und Caravaggio'},
+    es:{type:'Concatedral histórica y monumento artístico',area:'Calle de San Juan, centro de La Valeta',focus:'Barroco, mármoles y Caravaggio'},
+  },
+  'republic-street': {
+    en:{type:'Historic public street and walking axis',area:'From City Gate through central Valletta',focus:'Limestone façades, street grid and civic landmarks'},
+    zh:{type:'历史公共街道与步行主轴',area:'从瓦莱塔城门贯穿旧城中心',focus:'石灰岩立面、棋盘式街网与城市地标'},
+    mt:{type:'Triq pubblika storika u assi għall-mixi',area:'Minn Bieb il-Belt għaċ-ċentru',focus:'Faċċati tal-franka, toroq u monumenti'},
+    it:{type:'Strada storica pubblica e asse pedonale',area:'Da City Gate attraverso il centro',focus:'Facciate in calcare e monumenti civici'},
+    de:{type:'Historische Straße und Fußgängerachse',area:'Vom Stadttor durch die Altstadt',focus:'Kalksteinfassaden und städtische Sehenswürdigkeiten'},
+    es:{type:'Calle histórica pública y eje peatonal',area:'Desde City Gate por el centro histórico',focus:'Fachadas de caliza y monumentos cívicos'},
+  },
+  'st-georges-square': {
+    en:{type:'Historic public civic square',area:'Central Valletta, beside Republic Street',focus:'Grand Master’s Palace and Main Guard façades'},
+    zh:{type:'历史公共市民广场',area:'瓦莱塔旧城中心，共和国街旁',focus:'大团长宫与卫队楼建筑立面'},
+    mt:{type:'Pjazza ċivika pubblika storika',area:'Ċentru tal-Belt, ħdejn Triq ir-Repubblika',focus:'Il-Palazz tal-Gran Mastru u l-Main Guard'},
+    it:{type:'Piazza civica pubblica storica',area:'Centro di La Valletta, presso Republic Street',focus:'Facciate del Palazzo e del Main Guard'},
+    de:{type:'Historischer öffentlicher Stadtplatz',area:'Valletta-Zentrum an der Republic Street',focus:'Großmeisterpalast und Main Guard'},
+    es:{type:'Plaza cívica pública histórica',area:'Centro de La Valeta, junto a Republic Street',focus:'Palacio del Gran Maestre y Main Guard'},
+  },
   'valletta-city-gate': {
     en:{type:'Contemporary city gate and pedestrian entrance',area:'Western entrance to Valletta, beside the bus terminus',focus:'Renzo Piano’s entrance, bridge and city-wall threshold'},
     zh:{type:'当代城门与步行入口',area:'瓦莱塔西侧入口，邻近巴士总站',focus:'伦佐·皮亚诺设计的城门、桥梁与城墙交界'},
