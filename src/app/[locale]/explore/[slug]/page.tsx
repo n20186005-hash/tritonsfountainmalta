@@ -87,11 +87,11 @@ export default async function ExplorePage({params}: {params: Params}) {
           <figcaption className="text-xs mt-2" style={{color:'var(--text-secondary)'}}>{slug === 'tritons-fountain-photography' ? `${c.name} · ${t.photos}` : `${c.name} · Wikimedia Commons`}</figcaption>
         </figure>
         <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-4">{t.about}</h2><p className="leading-8">{c.intro}</p></section>
-        <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-5">{t.tips}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.tips.map(item => <li className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
-        <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-5">{t.highlights}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.highlights.map(item => <li className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
         <section className="rounded-2xl p-6 sm:p-8 mb-10" style={{background:'var(--bg-secondary)', border:'1px solid var(--border-color)'}}>
           <h2 className="font-display text-3xl font-semibold mb-4">{c.aboutTitle}</h2><p className="leading-8">{c.about}</p>
         </section>
+        <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-5">{t.tips}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.tips.map(item => <li className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
+        <section className="mb-10"><h2 className="font-display text-3xl font-semibold mb-5">{t.highlights}</h2><ul className="grid sm:grid-cols-2 gap-3">{c.highlights.map(item => <li className="rounded-xl p-5 leading-7" style={{background:'var(--bg-secondary)'}} key={item}>{item}</li>)}</ul></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.facts}</h2>
           <dl className="grid sm:grid-cols-2 gap-4">
             {[[t.address,place.address],[dt.duration,detail.duration],[t.hours,detail.opening],[t.admission,t.free]].map(([label,txt]) =>
