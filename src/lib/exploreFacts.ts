@@ -1,4 +1,4 @@
-import type {ExploreLocale, ExploreSlug} from './explore';
+import type {ExploreLocale, OriginalExploreSlug} from './explore';
 
 type Fact = {type: string; area: string; focus: string};
 
@@ -12,7 +12,7 @@ export const factLabels: Record<ExploreLocale, {type:string; area:string; focus:
 };
 
 // Location-specific, editorial visitor facts. These do not imply verified review scores or fixed opening hours.
-export const exploreFacts: Record<ExploreSlug, Record<ExploreLocale, Fact>> = {
+export const exploreFacts: Record<OriginalExploreSlug, Record<ExploreLocale, Fact>> = {
   'st-johns-co-cathedral': {
     en:{type:'Historic Catholic co-cathedral and art landmark',area:'St John’s Street, central Valletta',focus:'Baroque interior, marble tombstones and Caravaggio'},
     zh:{type:'历史天主教共主教座堂与艺术地标',area:'瓦莱塔旧城中心圣约翰街',focus:'巴洛克内饰、大理石墓碑与卡拉瓦乔作品'},

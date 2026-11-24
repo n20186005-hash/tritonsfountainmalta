@@ -1,10 +1,10 @@
-import type {ExploreLocale, ExploreSlug} from './explore';
+import type {ExploreLocale, OriginalExploreSlug} from './explore';
 
 type Details = {duration: string; opening: string; transport: string[]; culture: string; stay: string; notice: string};
 
 // Public outdoor access is described separately from the schedules of adjacent buildings.
 // Ratings are deliberately linked live, rather than displaying invented or stale counts.
-export const exploreDetails: Record<ExploreSlug, Record<ExploreLocale, Details>> = {
+export const exploreDetails: Record<OriginalExploreSlug, Record<ExploreLocale, Details>> = {
   'st-johns-co-cathedral': {
     en:{duration:'60–90 minutes for the interior; longer with exhibitions.',opening:'Sightseeing hours are normally Monday–Saturday; the Foundation lists 09:00–16:45, subject to services, holidays and temporary closures. Check the official visit page before travelling.',transport:['From Valletta bus terminus walk through City Gate and along Republic Street toward the cathedral district.','Use the visitor entrance designated by the Cathedral Foundation; it may differ from the façade entrance facing St John’s Square.','The historic streets are best explored on foot; park outside the pedestrian core.'],culture:'The cathedral is both an active worship space and a treasury of Knights’ Baroque culture. Respect religious services and any temporary restrictions in the Caravaggio areas.',stay:'Stay in central Valletta for an early cathedral visit and nearby museum walk; Floriana offers easy access to the bus terminus.',notice:'Tourist visits require admission tickets; dress and photography restrictions apply. The Foundation announced a temporary Caravaggio Wing change from November 2026—confirm current availability.'},
     zh:{duration:'内部参观建议 60–90 分钟，若看展览需更久。',opening:'旅游参观一般安排在周一至周六；基金会官网列出 09:00–16:45，但礼拜、节假日和临时关闭可能调整，请出发前核对。',transport:['从瓦莱塔巴士总站经城门沿共和国街进入教堂周边街区。','按照基金会指定的游客入口进入，不要默认圣约翰广场的正面入口就是售票入口。','旧城适合步行，自驾应停在核心步行区外。'],culture:'这既是仍在使用的礼拜场所，也是骑士团巴洛克艺术宝库。应尊重礼拜活动与卡拉瓦乔展区的临时规定。',stay:'住瓦莱塔中心方便一早参观教堂及博物馆；弗洛里亚纳适合巴士接驳。',notice:'旅游参观需购票，并遵守着装与拍照限制。基金会曾公布 2026 年 11 月起卡拉瓦乔展翼的临时调整，请核对现况。'},

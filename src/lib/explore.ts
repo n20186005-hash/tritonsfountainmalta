@@ -1,5 +1,13 @@
-export const exploreSlugs = ['valletta-city-gate', 'st-johns-co-cathedral', 'republic-street', 'st-georges-square', 'hastings-gardens', 'upper-barrakka-gardens', 'lower-barrakka-gardens', 'siege-bell-memorial', 'the-mall-gardens', 'floriana-granaries', 'tritons-fountain-photography'] as const;
-export type ExploreSlug = (typeof exploreSlugs)[number];
+import {nearbyGuides, nearbyGuideSlugs, type NearbySlug} from './exploreNearby';
+
+export const originalExploreSlugs = ['valletta-city-gate', 'st-johns-co-cathedral', 'republic-street', 'st-georges-square', 'hastings-gardens', 'upper-barrakka-gardens', 'lower-barrakka-gardens', 'siege-bell-memorial', 'the-mall-gardens', 'floriana-granaries', 'tritons-fountain-photography'] as const;
+export type OriginalExploreSlug = (typeof originalExploreSlugs)[number];
+export type ExploreSlug = OriginalExploreSlug | NearbySlug;
+export const exploreSlugs: ExploreSlug[] = [...originalExploreSlugs, ...nearbyGuideSlugs];
+
+export function isNearbyGuide(slug: ExploreSlug): slug is NearbySlug {
+  return Object.hasOwn(nearbyGuides, slug);
+}
 export type ExploreLocale = 'en' | 'zh' | 'mt' | 'it' | 'de' | 'es';
 
 type LocalCopy = {
@@ -8,7 +16,7 @@ type LocalCopy = {
   route: string[]; photoTips: string[]; faq: [string, string][];
 };
 
-export const explorePlaces: Record<ExploreSlug, {
+export const explorePlaces: Record<OriginalExploreSlug, {
   image: string; extraImages: string[]; map: string; address: string;
   operatorSource: string; factSource: string; free: boolean;
   copy: Record<ExploreLocale, LocalCopy>;

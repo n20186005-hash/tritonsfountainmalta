@@ -1,0 +1,1430 @@
+{
+  "fort-st-elmo": {
+    "address": "Fort St Elmo, Mediterranean Street, Valletta",
+    "operator": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/",
+    "mode": "ticket",
+    "minutes": 90,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_St._Elmo_Place_-_Fort_St._Elmo_01.jpg",
+      "artist": "Txllxt TxllxT",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Fort St Elmo and the National War Museum",
+        "tagline": "A star fort where two harbours meet",
+        "history": "The fort guarded the entrances to Grand Harbour and Marsamxett and fell during the Great Siege of 1565. Heritage Malta uses the complex to trace military history through the Second World War.",
+        "route": "Walk down Republic Street to St Elmo Place, then use the signed museum entrance on Mediterranean Street. Start with the walls facing the harbour mouth before seeing the galleries.",
+        "observation": "Look for the angles of the bastions and compare the open approaches with the sheltered courtyards.",
+        "question": "Can I see the harbour from the fort?",
+        "answer": "Use the viewpoints on the open visitor route. Some passages and ramparts have restricted access."
+      },
+      "zh": {
+        "name": "圣埃尔莫堡与国家战争博物馆",
+        "tagline": "扼守两座港湾的星形堡垒",
+        "history": "堡垒控制大港和马尔萨姆谢特港的入口，于 1565 年大围城时失守。马耳他遗产局在此展示直至二战的军事史。",
+        "route": "沿共和国街走到圣埃尔莫广场，从地中海街有标识的博物馆入口进。先观察面向港口入口的堡墙，再看展厅。",
+        "observation": "留意棱堡夹角，对比开阔的外部通道与受遮挡的庭院。",
+        "question": "在堡内能看到港口吗？",
+        "answer": "从开放参观线路上的观景点看，部分通道和城墙有通行限制。"
+      },
+      "mt": {
+        "name": "Forti Sant’Iermu u l-Mużew Nazzjonali tal-Gwerra",
+        "tagline": "Fortizza stilla bejn żewġ portijiet",
+        "history": "Il-forti kien iħares id-daħliet tal-Port il-Kbir u Marsamxett u waqa’ fl-Assedju l-Kbir tal-1565. Heritage Malta turi l-istorja militari sat-Tieni Gwerra Dinjija.",
+        "route": "Inżel minn Triq ir-Repubblika sa Pjazza Sant’Iermu u uża d-daħla tal-mużew fi Triq il-Mediterran. Ibda mis-swar lejn id-daħla tal-port u wara idħol fil-galleriji.",
+        "observation": "Osserva l-angoli tas-swar u qabbel il-mogħdijiet miftuħa mal-btieħi protetti.",
+        "question": "Nista’ nara l-port mill-forti?",
+        "answer": "Uża l-punti panoramiċi fuq ir-rotta miftuħa. Xi siltiet u swar għandhom aċċess limitat."
+      },
+      "it": {
+        "name": "Forte Sant’Elmo e Museo nazionale della guerra",
+        "tagline": "Una fortezza a stella tra due porti",
+        "history": "Il forte difendeva l’imbocco del Porto Grande e di Marsamxett e cadde durante il Grande Assedio del 1565. Heritage Malta racconta qui la storia militare fino alla seconda guerra mondiale.",
+        "route": "Percorri Republic Street fino a St Elmo Place e usa l’ingresso del museo su Mediterranean Street. Inizia dai bastioni verso l’imbocco del porto, poi visita le sale.",
+        "observation": "Osserva gli angoli dei bastioni e confronta gli accessi aperti con i cortili riparati.",
+        "question": "Si vede il porto dal forte?",
+        "answer": "Usa i punti panoramici lungo il percorso aperto. Alcuni passaggi e bastioni hanno accesso limitato."
+      },
+      "de": {
+        "name": "Fort St Elmo und Nationales Kriegsmuseum",
+        "tagline": "Eine Sternfestung zwischen zwei Häfen",
+        "history": "Das Fort bewachte die Zufahrten zum Grand Harbour und zum Marsamxett und fiel bei der Großen Belagerung von 1565. Heritage Malta zeigt hier Militärgeschichte bis zum Zweiten Weltkrieg.",
+        "route": "Folge der Republic Street bis St Elmo Place und nimm den Museumseingang an der Mediterranean Street. Beginne an den Mauern zur Hafeneinfahrt und besuche dann die Galerien.",
+        "observation": "Achte auf die Winkel der Bastionen und vergleiche offene Zugänge mit geschützten Innenhöfen.",
+        "question": "Ist der Hafen vom Fort aus sichtbar?",
+        "answer": "Nutze die Aussichtspunkte der geöffneten Besucherroute. Manche Durchgänge und Mauerabschnitte sind gesperrt."
+      },
+      "es": {
+        "name": "Fuerte de San Telmo y Museo Nacional de la Guerra",
+        "tagline": "Una fortaleza en estrella entre dos puertos",
+        "history": "El fuerte vigilaba las entradas del Gran Puerto y Marsamxett y cayó durante el Gran Asedio de 1565. Heritage Malta presenta aquí la historia militar hasta la Segunda Guerra Mundial.",
+        "route": "Baja por Republic Street hasta St Elmo Place y sigue las señales de acceso al museo en Mediterranean Street. Empieza por las murallas orientadas a la bocana y después visita las salas.",
+        "observation": "Fíjate en los ángulos de los baluartes y compara los accesos abiertos con los patios protegidos.",
+        "question": "¿Se ve el puerto desde el fuerte?",
+        "answer": "Usa los miradores del recorrido abierto. Algunos pasajes y tramos de muralla tienen acceso limitado."
+      }
+    }
+  },
+  "grand-masters-palace": {
+    "address": "Grand Master’s Palace, St George’s Square, Valletta",
+    "operator": "Heritage Malta",
+    "source": "https://heritagemalta.mt/mt/explore/grand-masters-palace/",
+    "mode": "ticket",
+    "minutes": 75,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_St_George%27s_Square_-_Grandmaster%27s_Palace.jpg",
+      "artist": "Txllxt TxllxT",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Grand Master’s Palace",
+        "tagline": "State rooms and armour behind St George’s Square",
+        "history": "The palace has served as a centre of power for around 450 years. Heritage Malta presents the State Rooms and Palace Armoury in the restored building.",
+        "route": "Follow Republic Street to St George’s Square and look for the signed palace visitor entrance. Allow time for the Armoury after the State Rooms.",
+        "observation": "Compare the ceremonial scale of the State Rooms with the object labels in the Armoury. The courtyard offers an exterior break between enclosed spaces.",
+        "question": "Is the palace included with a walk across St George’s Square?",
+        "answer": "The square is public. Use the separate palace entrance and consult Heritage Malta on gallery admission."
+      },
+      "zh": {
+        "name": "大团长宫",
+        "tagline": "圣乔治广场一侧的国事厅与军械馆",
+        "history": "宫殿作为权力中心已有约 450 年历史。修复后，马耳他遗产局在此开放国事厅与宫殿军械馆。",
+        "route": "沿共和国街抵达圣乔治广场，寻找有标牌的宫殿访客入口。看完国事厅后，为军械馆另留时间。",
+        "observation": "比较国事厅的礼仪尺度与军械馆展品标签提供的细节。庭院可以作为两处室内展陈之间的休息点。",
+        "question": "走过圣乔治广场就能参观宫殿吗？",
+        "answer": "广场是公共空间，宫殿另设游客入口，入场安排以马耳他遗产局为准。"
+      },
+      "mt": {
+        "name": "Il-Palazz tal-Gran Mastru",
+        "tagline": "Swali statali u armerija wara Pjazza San Ġorġ",
+        "history": "Il-palazz ilu ċentru tal-poter għal madwar 450 sena. Heritage Malta tippreżenta s-Swali tal-Istat u l-Armerija fil-binja restawrata.",
+        "route": "Segwi Triq ir-Repubblika sa Pjazza San Ġorġ u sib id-daħla mmarkata. Ħalli ħin għall-Armerija wara s-Swali tal-Istat.",
+        "observation": "Qabbel il-kobor tas-swali ċerimonjali mat-tikketti tal-oġġetti fl-Armerija. Il-bitħa toffri waqfa bejn l-ispazji magħluqa.",
+        "question": "Nista’ nżur il-palazz meta naqsam il-pjazza?",
+        "answer": "Il-pjazza hija pubblika. Uża d-daħla separata u ara l-kundizzjonijiet ta’ Heritage Malta."
+      },
+      "it": {
+        "name": "Palazzo del Gran Maestro",
+        "tagline": "Sale di rappresentanza e armeria dietro St George’s Square",
+        "history": "Il palazzo è stato un centro del potere per circa 450 anni. Nell’edificio restaurato Heritage Malta presenta le Sale di Stato e l’Armeria del Palazzo.",
+        "route": "Segui Republic Street fino a St George’s Square e cerca l’ingresso indicato per i visitatori. Dopo le Sale di Stato riserva tempo all’Armeria.",
+        "observation": "Confronta la scala cerimoniale delle sale con le didascalie dei singoli oggetti nell’Armeria. Il cortile offre una pausa tra gli ambienti chiusi.",
+        "question": "Posso visitare il palazzo attraversando la piazza?",
+        "answer": "La piazza è pubblica. Usa l’ingresso separato e consulta Heritage Malta per l’accesso alle sale."
+      },
+      "de": {
+        "name": "Großmeisterpalast",
+        "tagline": "Prunkräume und Rüstkammer am St George’s Square",
+        "history": "Der Palast war rund 450 Jahre lang ein Machtzentrum. Heritage Malta zeigt im restaurierten Gebäude die Staatsräume und die Palastrüstkammer.",
+        "route": "Gehe über die Republic Street bis zum St George’s Square und suche den beschilderten Palasteingang. Plane nach den Staatsräumen Zeit für die Rüstkammer ein.",
+        "observation": "Vergleiche die repräsentative Größe der Staatsräume mit den Objektbeschriftungen der Rüstkammer. Der Hof eignet sich für eine Pause im Freien.",
+        "question": "Gehört der Palast zum Spaziergang über den Platz?",
+        "answer": "Der Platz ist öffentlich. Der Palast hat einen eigenen Zugang mit Einlassregeln von Heritage Malta."
+      },
+      "es": {
+        "name": "Palacio del Gran Maestre",
+        "tagline": "Salones de Estado y armería junto a St George’s Square",
+        "history": "El palacio ha sido centro del poder durante unos 450 años. Heritage Malta presenta los salones de Estado y la Armería del Palacio en el edificio restaurado.",
+        "route": "Sigue Republic Street hasta St George’s Square y busca el acceso señalizado. Después de los salones reserva tiempo para la armería.",
+        "observation": "Compara la escala ceremonial de los salones con las cartelas de las piezas en la armería. El patio permite hacer una pausa entre espacios cerrados.",
+        "question": "¿El palacio se visita al cruzar la plaza?",
+        "answer": "La plaza es pública. Usa el acceso independiente y consulta las condiciones de Heritage Malta."
+      }
+    }
+  },
+  "national-museum-of-archaeology": {
+    "address": "Auberge de Provence, Republic Street, Valletta",
+    "operator": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/national-museum-of-archaeology/",
+    "mode": "ticket",
+    "minutes": 60,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Auberge_de_Provence,_Valletta_001.jpg",
+      "artist": "Matthew Axiak",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "National Museum of Archaeology",
+        "tagline": "Prehistoric objects in a former Knights’ auberge",
+        "history": "The Auberge de Provence originally housed members of the Order of St John. Today Heritage Malta displays objects from the Neolithic through the early Phoenician period inside the building.",
+        "route": "Walk along Republic Street from City Gate and look for the Auberge de Provence façade. Start with the early galleries and leave time to see later material before returning to the street.",
+        "observation": "Read the findspot beside a figurine or carved object. Compare that small portable piece with the construction of the auberge around you.",
+        "question": "Can I see Malta’s early figurines without travelling to a temple site?",
+        "answer": "Yes. Heritage Malta shows excavated objects in central Valletta. Check the collection notes for the object you want to see."
+      },
+      "zh": {
+        "name": "马耳他国家考古博物馆",
+        "tagline": "骑士团旧馆舍中的史前藏品",
+        "history": "普罗旺斯馆舍原供圣约翰骑士团成员使用。今天马耳他遗产局在此展示从新石器时代到早期腓尼基时期的藏品。",
+        "route": "从城门沿共和国街步行，找普罗旺斯馆舍的立面。进场先看早期展厅，回到街面前留时间看看年代较晚的藏品。",
+        "observation": "选一件小雕像或雕刻物，读标签上的出土地。把眼前便于携带的小器物与周围的馆舍建筑作比较。",
+        "question": "不去神庙遗址也能看马耳他早期小雕像吗？",
+        "answer": "可以。马耳他遗产局在瓦莱塔中心展出考古发现。出发前可查阅馆藏说明，确认特定展品。"
+      },
+      "mt": {
+        "name": "Mużew Nazzjonali tal-Arkeoloġija",
+        "tagline": "Sejbiet preistoriċi f’berġa tal-Kavallieri",
+        "history": "Fl-Auberge de Provence kienu joqogħdu membri tal-Ordni ta’ San Ġwann. Illum Heritage Malta turi sejbiet min-Neolitiku sal-bidu tal-perjodu Feniċju.",
+        "route": "Imxi minn Bieb il-Belt tul Triq ir-Repubblika u fittex il-faċċata tal-Berġa ta’ Provenza. Ibda mill-galleriji tal-ewwel żminijiet u ħalli ħin għas-sejbiet ta’ wara.",
+        "observation": "Aqra fejn instabet figurina jew oġġett minqux. Qabbel iċ-ċokon tal-oġġett mal-binja tal-berġa ta’ madwarek.",
+        "question": "Nista’ nara l-figurini bikrin mingħajr ma mmur fit-tempji?",
+        "answer": "Iva. Heritage Malta turi sejbiet fil-qalba tal-Belt. Ara n-noti tal-kollezzjoni għall-oġġett li trid tara."
+      },
+      "it": {
+        "name": "Museo nazionale di archeologia",
+        "tagline": "Reperti preistorici in un’antica residenza dei Cavalieri",
+        "history": "L’Auberge de Provence ospitava membri dell’Ordine di San Giovanni. Oggi Heritage Malta vi espone reperti dal Neolitico al primo periodo fenicio.",
+        "route": "Da City Gate segui Republic Street e cerca la facciata dell’Auberge de Provence. Inizia dalle sale più antiche e lascia tempo anche ai reperti più recenti.",
+        "observation": "Leggi il luogo di ritrovamento di una figurina o di un oggetto scolpito. Confronta il piccolo manufatto con le proporzioni dell’edificio.",
+        "question": "Posso vedere le statuette antiche senza andare ai templi?",
+        "answer": "Sì. Heritage Malta espone reperti nel centro della Valletta. Consulta le schede della collezione per l’opera che cerchi."
+      },
+      "de": {
+        "name": "Nationales Archäologiemuseum",
+        "tagline": "Prähistorische Funde in einer ehemaligen Ordensherberge",
+        "history": "Die Auberge de Provence beherbergte Mitglieder des Johanniterordens. Heute zeigt Heritage Malta dort Funde aus dem Neolithikum bis zur frühen phönizischen Zeit.",
+        "route": "Gehe vom Stadttor über die Republic Street bis zur Fassade der Auberge de Provence. Beginne bei den frühen Funden und plane Zeit für die späteren Galerien ein.",
+        "observation": "Lies den Fundort einer Figur oder eines Schnitzobjekts. Vergleiche das kleine tragbare Stück mit dem Bau der Ordensherberge.",
+        "question": "Kann ich frühe Figuren sehen, ohne eine Tempelstätte zu besuchen?",
+        "answer": "Ja. Heritage Malta zeigt die Funde im Zentrum Vallettas. Prüfe die Sammlungsinformationen für das gewünschte Stück."
+      },
+      "es": {
+        "name": "Museo Nacional de Arqueología",
+        "tagline": "Piezas prehistóricas en un antiguo albergue de los caballeros",
+        "history": "El Auberge de Provence alojaba a miembros de la Orden de San Juan. Hoy Heritage Malta expone allí objetos del Neolítico al primer periodo fenicio.",
+        "route": "Desde City Gate sigue Republic Street hasta encontrar la fachada del Auberge de Provence. Empieza por las salas más antiguas y deja tiempo para las piezas posteriores.",
+        "observation": "Lee la procedencia de una figurilla o talla. Compara esa pieza portátil con la escala del albergue que la rodea.",
+        "question": "¿Puedo ver figurillas antiguas sin ir a un templo?",
+        "answer": "Sí. Heritage Malta exhibe objetos excavados en el centro de La Valeta. Consulta las fichas de la colección para la pieza que buscas."
+      }
+    }
+  },
+  "muza": {
+    "address": "MUŻA, Auberge d’Italie, Merchants Street, Valletta",
+    "operator": "Heritage Malta",
+    "source": "https://heritagemalta.mt/explore/muza/",
+    "mode": "ticket",
+    "minutes": 60,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Auberge_D.Italie,_Merchants_Street,_Valletta_Malta._Entrance.jpg",
+      "artist": "Bebbuxa",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "MUŻA National Community Art Museum",
+        "tagline": "Art collections in the Auberge d’Italie",
+        "history": "The museum moved the former National Museum of Fine Arts collection to the Auberge d’Italie, once associated with the Italian langue of the Order of St John.",
+        "route": "Enter through Merchants Street near Castille Square. Look into the historic courtyard before following the gallery signs, then continue to St James Cavalier if you want to compare art venues.",
+        "observation": "Look for labels that explain the local setting of a work. Compare the historic stone entrance with the contemporary exhibition spaces inside.",
+        "question": "Is MUŻA in the old Fine Arts Museum building?",
+        "answer": "The collection moved from Admiralty House to the Auberge d’Italie. Navigate to Merchants Street."
+      },
+      "zh": {
+        "name": "MUŻA 国家社区艺术博物馆",
+        "tagline": "意大利骑士馆舍里的艺术收藏",
+        "history": "美术馆把原国家美术馆藏迁入意大利馆舍。这栋建筑曾与圣约翰骑士团的意大利分部有关。",
+        "route": "在卡斯蒂利亚广场附近，从商人街入馆。先看历史庭院，再循展厅标牌参观。想比较艺术场馆时，可继续去圣詹姆斯高堡。",
+        "observation": "留意展签如何解释作品的地方背景。把入口的历史石构与里面的现代展陈空间作对照。",
+        "question": "MUŻA 在原国家美术馆那栋建筑吗？",
+        "answer": "馆藏已从海军部大楼搬到意大利馆舍，请导航至商人街。"
+      },
+      "mt": {
+        "name": "MUŻA, il-Mużew Nazzjonali tal-Arti",
+        "tagline": "Il-kollezzjoni tal-arti fil-Berġa tal-Italja",
+        "history": "Il-kollezzjoni tal-eks Mużew Nazzjonali tal-Arti ttieħdet fil-Berġa tal-Italja, marbuta mal-Lingwa Taljana tal-Ordni ta’ San Ġwann.",
+        "route": "Idħol minn Triq il-Merkanti qrib Pjazza Kastilja. Ara l-bitħa u segwi s-sinjali għall-galleriji, imbagħad mur lejn il-Kavallier ta’ San Ġakbu biex tqabbel iż-żewġ spazji.",
+        "observation": "Fittex tikketti li jispjegaw il-kuntest Malti ta’ xogħol. Qabbel id-daħla storika mal-wirjiet kontemporanji.",
+        "question": "MUŻA għadu fil-binja l-qadima?",
+        "answer": "Il-kollezzjoni mxiet minn Admiralty House għall-Berġa tal-Italja. Fittex Triq il-Merkanti."
+      },
+      "it": {
+        "name": "MUŻA, Museo nazionale d’arte comunitaria",
+        "tagline": "Collezioni d’arte nell’Auberge d’Italie",
+        "history": "Il museo ha trasferito la collezione dell’ex Museo nazionale di belle arti nell’Auberge d’Italie, legato alla lingua italiana dell’Ordine di San Giovanni.",
+        "route": "Entra da Merchants Street, vicino a Castille Square. Guarda il cortile storico, poi segui i cartelli delle sale. Prosegui verso St James Cavalier per confrontare i due centri d’arte.",
+        "observation": "Cerca le didascalie che spiegano il contesto locale di un’opera. Confronta l’ingresso storico in pietra con gli spazi espositivi contemporanei.",
+        "question": "MUŻA è nella vecchia sede del Museo di belle arti?",
+        "answer": "La collezione è stata spostata da Admiralty House all’Auberge d’Italie. Cerca l’ingresso in Merchants Street."
+      },
+      "de": {
+        "name": "MUŻA, Nationales Kunstmuseum",
+        "tagline": "Kunstsammlungen in der Auberge d’Italie",
+        "history": "Die Sammlung des früheren Nationalmuseums für Schöne Künste zog in die Auberge d’Italie, das ehemalige Haus der italienischen Zunge des Johanniterordens.",
+        "route": "Betritt das Haus von der Merchants Street nahe dem Castille Square. Sieh zuerst in den Hof und folge den Schildern zu den Galerien. Zum Vergleich kannst du danach St James Cavalier besuchen.",
+        "observation": "Suche Schilder zum lokalen Kontext eines Werks. Vergleiche den historischen Steineingang mit den modernen Ausstellungsräumen.",
+        "question": "Liegt MUŻA noch im alten Museumsgebäude?",
+        "answer": "Die Sammlung zog vom Admiralty House in die Auberge d’Italie. Der Zugang liegt in der Merchants Street."
+      },
+      "es": {
+        "name": "MUŻA, Museo Nacional de Arte Comunitario",
+        "tagline": "Colecciones de arte en el Auberge d’Italie",
+        "history": "El museo trasladó la colección del antiguo Museo Nacional de Bellas Artes al Auberge d’Italie, vinculado con la lengua italiana de la Orden de San Juan.",
+        "route": "Entra por Merchants Street, junto a Castille Square. Mira el patio histórico y después sigue las señales de las galerías. Puedes continuar a St James Cavalier para comparar ambos espacios.",
+        "observation": "Busca cartelas que expliquen el contexto local de una obra. Compara la entrada histórica de piedra con los espacios expositivos contemporáneos.",
+        "question": "¿MUŻA está en la antigua sede de Bellas Artes?",
+        "answer": "La colección pasó de Admiralty House al Auberge d’Italie. Busca la entrada en Merchants Street."
+      }
+    }
+  },
+  "teatru-manoel": {
+    "address": "Teatru Manoel, Old Theatre Street, Valletta",
+    "operator": "Teatru Manoel",
+    "source": "https://teatrumanoel.mt/about-us/",
+    "mode": "event",
+    "minutes": 45,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Manoel_theatre_(12843882153).jpg",
+      "artist": "R Muscat",
+      "license": "CC BY-SA 2.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Teatru Manoel",
+        "tagline": "An intimate theatre behind a narrow Valletta façade",
+        "history": "Grand Master António Manoel de Vilhena commissioned a public theatre here in 1731. Two houses on present-day Old Theatre Street were acquired for the project.",
+        "route": "Leave Republic Street for Old Theatre Street and check the theatre entrance for tours or your event. If the auditorium is open, start at the stalls and look up at the decorated boxes.",
+        "observation": "Compare the shallow street frontage with the height and close spacing of the auditorium’s tiers.",
+        "question": "Can I see the auditorium without attending a show?",
+        "answer": "Look for current guided visits and book the available option through Teatru Manoel."
+      },
+      "zh": {
+        "name": "马诺埃尔剧院",
+        "tagline": "狭窄街面背后的亲密演出空间",
+        "history": "大团长安东尼奥·马诺埃尔·德维列纳于 1731 年在此筹建公共剧院，项目购入今日旧剧院街上的两栋房屋。",
+        "route": "从共和国街转入旧剧院街，到剧院入口查导览或场次。若开放观众厅，可先站在池座层抬头看装饰包厢。",
+        "observation": "比较临街立面的有限宽度与观众厅内紧凑而高耸的层层包厢。",
+        "question": "不看演出也能进观众厅吗？",
+        "answer": "查看马诺埃尔剧院当前有无导览，从剧院渠道预订可用场次。"
+      },
+      "mt": {
+        "name": "It-Teatru Manoel",
+        "tagline": "Teatru intimu wara faċċata dejqa",
+        "history": "Fl-1731 il-Gran Mastru António Manoel de Vilhena ordna li jinbena teatru pubbliku. Inxtraw żewġt idjar fi Triq it-Teatru l-Antik.",
+        "route": "Minn Triq ir-Repubblika dur lejn Triq it-Teatru l-Antik u ċċekkja d-daħla għat-tours jew għall-ispettaklu. Jekk is-sala miftuħa, ħares ’il fuq mil-livell tal-platea.",
+        "observation": "Qabbel il-faċċata dejqa mal-għoli u l-kaxxi qrib xulxin fis-sala.",
+        "question": "Nista’ nara s-sala mingħajr spettaklu?",
+        "answer": "Ara jekk it-Teatru Manoel joffrix żjarat iggwidati u bbukkja waħda disponibbli."
+      },
+      "it": {
+        "name": "Teatro Manoel",
+        "tagline": "Una sala raccolta dietro una facciata stretta",
+        "history": "Nel 1731 il gran maestro António Manoel de Vilhena commissionò un teatro pubblico e fece acquistare due case nell’attuale Old Theatre Street.",
+        "route": "Da Republic Street svolta in Old Theatre Street. Cerca l’accesso per la visita o lo spettacolo. Se la sala è aperta, guarda i palchi dalla platea.",
+        "observation": "Confronta la stretta facciata con l’altezza e la vicinanza dei palchi all’interno.",
+        "question": "Posso vedere la sala senza assistere a uno spettacolo?",
+        "answer": "Verifica le visite guidate disponibili e prenota attraverso il teatro."
+      },
+      "de": {
+        "name": "Teatru Manoel",
+        "tagline": "Ein intimes Theater hinter einer schmalen Fassade",
+        "history": "Großmeister António Manoel de Vilhena gab 1731 ein öffentliches Theater in Auftrag. Für den Bau erwarb er zwei Häuser in der heutigen Old Theatre Street.",
+        "route": "Biege von der Republic Street in die Old Theatre Street ein und prüfe den Zugang für Führungen oder Vorstellungen. Ist der Saal offen, schau vom Parkett zu den Logen hinauf.",
+        "observation": "Vergleiche die schmale Straßenfront mit den hohen, dicht gestaffelten Logen im Saal.",
+        "question": "Kann ich den Saal ohne Vorstellung besichtigen?",
+        "answer": "Prüfe die angebotenen Führungen und buche einen verfügbaren Termin beim Theater."
+      },
+      "es": {
+        "name": "Teatro Manoel",
+        "tagline": "Una sala íntima tras una fachada estrecha",
+        "history": "En 1731 el gran maestre António Manoel de Vilhena encargó un teatro público. Para construirlo se compraron dos casas de la actual Old Theatre Street.",
+        "route": "Desde Republic Street gira hacia Old Theatre Street. Busca la entrada para la visita o función. Si la sala está abierta, mira los palcos desde el patio de butacas.",
+        "observation": "Compara la estrechez de la fachada con la altura y la cercanía de los palcos.",
+        "question": "¿Puedo conocer la sala sin asistir a una función?",
+        "answer": "Consulta las visitas guiadas de Teatru Manoel y reserva una opción disponible."
+      }
+    }
+  },
+  "casa-rocca-piccola": {
+    "address": "Casa Rocca Piccola, Republic Street, Valletta",
+    "operator": "Casa Rocca Piccola",
+    "source": "https://casaroccapiccola.com/bomb-shelter/",
+    "mode": "ticket",
+    "minutes": 45,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Casa_Rocca_Piccola_Valletta_02.jpg",
+      "artist": "Edelmauswaldgeist",
+      "license": "CC0"
+    },
+    "copy": {
+      "en": {
+        "name": "Casa Rocca Piccola",
+        "tagline": "A family palace with wartime shelters below",
+        "history": "This sixteenth-century house retains the scale of a Valletta family residence. The operator documents how its underground spaces became air-raid shelters during the Second World War.",
+        "route": "Follow Republic Street beyond St George’s Square and find the house entrance. Follow the offered visitor circuit and ask how to reach the underground shelter.",
+        "observation": "Note the contrast between furnished family rooms and the rough passages below. Check the steps before committing to the shelter section.",
+        "question": "Are the shelters part of the same visit?",
+        "answer": "They are beneath the house. Ask which visit includes them and whether you can use the stairs involved."
+      },
+      "zh": {
+        "name": "罗卡皮科拉宫",
+        "tagline": "家族宅邸下方的战时避难所",
+        "history": "这座 16 世纪的宅邸保留了瓦莱塔家族住宅的格局。运营方记录了下方空间在二战时改作防空避难所的经过。",
+        "route": "沿共和国街走过圣乔治广场，找宅邸入口。按开放的参观路线走，进门可问怎样去地下避难所。",
+        "observation": "比较有家具的家族起居室和下方粗糙的通道。下到避难所前先确认台阶条件。",
+        "question": "防空避难所和宅邸是同一场参观吗？",
+        "answer": "避难所在宅邸下方。向现场确认哪种参观包含这里，以及途中楼梯是否适合你。"
+      },
+      "mt": {
+        "name": "Casa Rocca Piccola",
+        "tagline": "Palazz tal-familja b’xelters taħtu",
+        "history": "Din id-dar tas-seklu sittax iżżomm l-iskala ta’ residenza tal-familja fil-Belt. L-operatur juri kif l-ispazji taħt l-art intużaw bħala xelters fit-Tieni Gwerra Dinjija.",
+        "route": "Kompli fi Triq ir-Repubblika lil hinn minn Pjazza San Ġorġ u sib id-daħla tad-dar. Segwi r-rotta offruta u staqsi kif tinżel fix-xelter.",
+        "observation": "Qabbel il-kmamar mgħammra mal-passaġġi mhux irfinuti taħt. Ara t-taraġ qabel tinżel.",
+        "question": "Ix-xelters huma parti mill-istess żjara?",
+        "answer": "Qegħdin taħt id-dar. Staqsi liema żjara tinkludihom u jekk it-taraġ huwiex adattat."
+      },
+      "it": {
+        "name": "Casa Rocca Piccola",
+        "tagline": "Una dimora familiare con rifugi antiaerei",
+        "history": "Questa casa cinquecentesca conserva la scala di una residenza familiare della Valletta. Il gestore spiega come i sotterranei divennero rifugi durante la seconda guerra mondiale.",
+        "route": "Prosegui su Republic Street oltre St George’s Square e cerca l’ingresso. Segui il percorso proposto e chiedi come accedere al rifugio sotterraneo.",
+        "observation": "Confronta le stanze arredate con i passaggi grezzi del sottosuolo. Controlla le scale prima di scendere.",
+        "question": "I rifugi fanno parte della stessa visita?",
+        "answer": "Si trovano sotto la casa. Chiedi quale visita li comprende e se le scale sono adatte a te."
+      },
+      "de": {
+        "name": "Casa Rocca Piccola",
+        "tagline": "Ein Familienpalast mit Luftschutzräumen",
+        "history": "Das Haus aus dem 16. Jahrhundert bewahrt die Proportionen eines Vallettaer Familienwohnsitzes. Der Betreiber dokumentiert die Nutzung der unterirdischen Räume als Luftschutzkeller im Zweiten Weltkrieg.",
+        "route": "Gehe auf der Republic Street über den St George’s Square hinaus bis zum Hauseingang. Folge der angebotenen Route und frage nach dem Zugang zum Schutzraum.",
+        "observation": "Vergleiche die möblierten Familienräume mit den groben Gängen darunter. Prüfe vor dem Abstieg die Treppen.",
+        "question": "Gehören die Schutzräume zum selben Besuch?",
+        "answer": "Sie liegen unter dem Haus. Frage, welche Besichtigung sie einschließt und ob die Treppen für dich geeignet sind."
+      },
+      "es": {
+        "name": "Casa Rocca Piccola",
+        "tagline": "Un palacio familiar sobre refugios de guerra",
+        "history": "La casa del siglo XVI conserva la escala de una residencia familiar de La Valeta. El operador documenta el uso de los espacios subterráneos como refugios durante la Segunda Guerra Mundial.",
+        "route": "Sigue Republic Street más allá de St George’s Square y busca la entrada. Sigue el recorrido ofrecido y pregunta cómo llegar al refugio.",
+        "observation": "Compara las habitaciones amuebladas con los pasajes de roca del subsuelo. Comprueba las escaleras antes de bajar.",
+        "question": "¿Los refugios forman parte de la misma visita?",
+        "answer": "Están debajo de la casa. Pregunta qué modalidad los incluye y si puedes usar sus escaleras."
+      }
+    }
+  },
+  "st-pauls-pro-cathedral": {
+    "address": "St Paul’s Pro-Cathedral, Independence Square, Valletta",
+    "operator": "St Paul’s Pro-Cathedral",
+    "source": "https://beltvallettalc.gov.mt/en/churches-chapels/",
+    "mode": "worship",
+    "minutes": 20,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Pro-Cathedral_in_Valletta,_Malta.jpg",
+      "artist": "Ladysheeku",
+      "license": "CC0"
+    },
+    "copy": {
+      "en": {
+        "name": "St Paul’s Anglican Pro-Cathedral",
+        "tagline": "A slender spire above Independence Square",
+        "history": "The Anglican pro-cathedral stands in Independence Square. Its nineteenth-century spire forms a recognisable part of the Marsamxett skyline alongside the Carmelite dome.",
+        "route": "From Republic Street turn toward Independence Square by Old Theatre Street and look for the Anglican church entrance. Continue along West Street for the street-level view of the tower.",
+        "observation": "Compare the spire’s vertical profile with the broad dome of the neighbouring Carmelite basilica.",
+        "question": "Is this St Paul’s Shipwreck Church?",
+        "answer": "No. The Anglican pro-cathedral is at Independence Square. The Catholic church of St Paul’s Shipwreck is on St Paul Street."
+      },
+      "zh": {
+        "name": "圣保罗圣公会准主教座堂",
+        "tagline": "独立广场上方纤细的尖塔",
+        "history": "这座圣公会准主教座堂位于独立广场。19 世纪的尖塔与毗邻的加尔默罗圣殿圆顶同为马尔萨姆谢特港天际线的标志。",
+        "route": "从共和国街沿旧剧院街朝独立广场走，寻找圣公会教堂入口，再沿西街走一段从街面看塔。",
+        "observation": "把尖塔的竖直轮廓与旁边加尔默罗圣殿宽阔的圆顶比较。",
+        "question": "这里是圣保罗遇难船教堂吗？",
+        "answer": "这是独立广场的圣公会准主教座堂。纪念圣保罗遇船难的天主教堂位于圣保罗街。"
+      },
+      "mt": {
+        "name": "Il-Pro-Katidral Anglikan ta’ San Pawl",
+        "tagline": "Torri bil-ponta fuq Pjazza Indipendenza",
+        "history": "Il-pro-katidral Anglikan jinsab fi Pjazza Indipendenza. It-torri tas-seklu dsatax jagħraf ix-xefaq ta’ Marsamxett ħdejn il-koppla Karmelitana.",
+        "route": "Minn Triq ir-Repubblika aqbad Triq it-Teatru l-Antik lejn Pjazza Indipendenza. Fittex id-daħla u kompli fi Triq il-Punent biex tara t-torri mit-triq.",
+        "observation": "Qabbel il-ponta għolja mal-koppla wiesgħa tal-bażilika Karmelitana.",
+        "question": "Din hi l-Knisja tan-Nawfraġju ta’ San Pawl?",
+        "answer": "Il-pro-katidral Anglikan jinsab fi Pjazza Indipendenza. Il-knisja Kattolika tan-Nawfraġju tinsab fi Triq San Pawl."
+      },
+      "it": {
+        "name": "Procattedrale anglicana di San Paolo",
+        "tagline": "Una guglia sopra Independence Square",
+        "history": "La procattedrale anglicana sorge in Independence Square. La guglia ottocentesca segna il profilo sul porto di Marsamxett accanto alla cupola carmelitana.",
+        "route": "Da Republic Street svolta in Old Theatre Street verso Independence Square. Individua l’ingresso anglicano e prosegui su West Street per vedere la torre dalla strada.",
+        "observation": "Confronta il profilo verticale della guglia con la grande cupola della basilica carmelitana vicina.",
+        "question": "È la Chiesa del Naufragio di San Paolo?",
+        "answer": "La procattedrale anglicana è in Independence Square. La chiesa cattolica del Naufragio si trova su St Paul Street."
+      },
+      "de": {
+        "name": "Anglikanische St.-Pauls-Prokathedrale",
+        "tagline": "Ein schlanker Turm am Independence Square",
+        "history": "Die anglikanische Prokathedrale steht am Independence Square. Ihr Turm aus dem 19. Jahrhundert prägt neben der Karmeliterkuppel die Silhouette von Marsamxett.",
+        "route": "Biege von der Republic Street über die Old Theatre Street zum Independence Square ab. Suche den anglikanischen Kircheneingang und geh für den Blick zum Turm auf der West Street weiter.",
+        "observation": "Vergleiche die senkrechte Silhouette der Spitze mit der breiten Kuppel der Karmeliterbasilika.",
+        "question": "Ist das die St.-Paulus-Schiffbruchkirche?",
+        "answer": "Die anglikanische Prokathedrale liegt am Independence Square. Die katholische Schiffbruchkirche liegt an der St Paul Street."
+      },
+      "es": {
+        "name": "Procatedral anglicana de San Pablo",
+        "tagline": "Una aguja sobre Independence Square",
+        "history": "La procatedral anglicana está en Independence Square. Su aguja del siglo XIX forma parte del perfil de Marsamxett junto a la cúpula carmelita.",
+        "route": "Gira desde Republic Street hacia Old Theatre Street en dirección a Independence Square. Busca la entrada anglicana y sigue por West Street para ver la torre desde la calle.",
+        "observation": "Compara el perfil vertical de la aguja con la amplia cúpula de la basílica carmelita vecina.",
+        "question": "¿Es la iglesia del Naufragio de San Pablo?",
+        "answer": "La procatedral anglicana está en Independence Square. La iglesia católica del Naufragio está en St Paul Street."
+      }
+    }
+  },
+  "basilica-of-mount-carmel": {
+    "address": "Basilica of Our Lady of Mount Carmel, Old Theatre Street, Valletta",
+    "operator": "Carmelite community",
+    "source": "https://beltvallettalc.gov.mt/en/churches-chapels/",
+    "mode": "worship",
+    "minutes": 20,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Basilica_Our_Lady_of_Mount_Carmel_(Valletta).jpg",
+      "artist": "Anton Zelenov",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Basilica of Our Lady of Mount Carmel",
+        "tagline": "The broad dome in the Marsamxett skyline",
+        "history": "The Carmelite church was rebuilt after wartime damage. Its present dome makes the basilica easy to distinguish in views of Valletta from across Marsamxett Harbour.",
+        "route": "Approach along Old Theatre Street near Independence Square and identify the Carmelite entrance. After viewing the exterior, turn toward the square for the contrasting Anglican spire.",
+        "observation": "The narrow street compresses the view upwards to the dome. For its complete outline, use a longer view from across the harbour.",
+        "question": "Can I see the whole dome from the doorway?",
+        "answer": "The street offers a close upward view. A viewpoint on the opposite side of Marsamxett gives a clearer outline."
+      },
+      "zh": {
+        "name": "卡梅尔山圣母圣殿",
+        "tagline": "马尔萨姆谢特港天际线上宽大的圆顶",
+        "history": "加尔默罗教堂在战时受损后重建。今日的圆顶让人在马尔萨姆谢特港对岸也容易从瓦莱塔天际线辨认出它。",
+        "route": "沿靠近独立广场的旧剧院街找加尔默罗教堂入口。看过外观后可转向广场，对比圣公会教堂的尖塔。",
+        "observation": "狭窄街道使观察视线顺势向上指向圆顶。从港湾对岸较远处可看清整体。",
+        "question": "在教堂门口能看到完整圆顶吗？",
+        "answer": "街上适合近距离仰看，从马尔萨姆谢特港对岸更容易辨认完整轮廓。"
+      },
+      "mt": {
+        "name": "Il-Bażilika tal-Madonna tal-Karmnu",
+        "tagline": "Il-koppla wiesgħa fix-xefaq ta’ Marsamxett",
+        "history": "Il-knisja tal-Karmelitani reġgħet inbniet wara ħsara tal-gwerra. Il-koppla tal-lum tingħaraf minn naħa l-oħra ta’ Marsamxett.",
+        "route": "Imxi fi Triq it-Teatru l-Antik qrib Pjazza Indipendenza u sib id-daħla Karmelitana. Wara mur lejn il-pjazza u qabbel it-torri Anglikan.",
+        "observation": "It-triq dejqa twasslek tħares ’il fuq. Minn naħa l-oħra tal-port tidher il-forma sħiħa tal-koppla.",
+        "question": "Nista’ nara l-koppla kollha mid-daħla?",
+        "answer": "Mit-triq taraha mill-qrib minn taħt. Minn faċċata ta’ Marsamxett tidher sħiħa."
+      },
+      "it": {
+        "name": "Basilica di Nostra Signora del Monte Carmelo",
+        "tagline": "La grande cupola sul profilo di Marsamxett",
+        "history": "La chiesa carmelitana fu ricostruita dopo i danni della guerra. La cupola attuale è riconoscibile dalla sponda opposta del porto di Marsamxett.",
+        "route": "Cerca l’ingresso carmelitano in Old Theatre Street, presso Independence Square. Dopo la facciata, entra nella piazza per confrontare la guglia anglicana.",
+        "observation": "La strada stretta porta lo sguardo verso l’alto. Dall’altra sponda del porto si vede l’intera sagoma.",
+        "question": "Dall’ingresso si vede tutta la cupola?",
+        "answer": "La strada offre una vista ravvicinata dal basso. Dall’altro lato di Marsamxett si distingue meglio tutta la sagoma."
+      },
+      "de": {
+        "name": "Basilika Unserer Lieben Frau vom Berge Karmel",
+        "tagline": "Die breite Kuppel über Marsamxett",
+        "history": "Die Karmeliterkirche wurde nach Kriegsschäden wiederaufgebaut. Ihre heutige Kuppel ist in der Silhouette Vallettas von der anderen Hafenseite leicht zu erkennen.",
+        "route": "Suche den Karmelitereingang in der Old Theatre Street nahe Independence Square. Geh nach dem Außenbesuch zum Platz, um die anglikanische Turmspitze zu vergleichen.",
+        "observation": "Die enge Straße lenkt den Blick steil nach oben. Vom gegenüberliegenden Ufer lässt sich der ganze Umriss erkennen.",
+        "question": "Sehe ich am Eingang die ganze Kuppel?",
+        "answer": "Auf der Straße sieht man sie von unten. Von der anderen Seite des Marsamxett-Hafens ist die ganze Silhouette deutlicher."
+      },
+      "es": {
+        "name": "Basílica de Nuestra Señora del Monte Carmelo",
+        "tagline": "La gran cúpula del perfil de Marsamxett",
+        "history": "La iglesia carmelita se reconstruyó tras los daños de la guerra. Su cúpula actual se reconoce desde la otra orilla del puerto de Marsamxett.",
+        "route": "Busca la entrada carmelita en Old Theatre Street junto a Independence Square. Después de ver el exterior, sal a la plaza para comparar la aguja anglicana.",
+        "observation": "La calle estrecha dirige la vista hacia arriba. Desde la orilla opuesta del puerto se distingue el perfil completo.",
+        "question": "¿Se ve la cúpula entera desde la puerta?",
+        "answer": "La calle permite verla de cerca y desde abajo. Desde la otra orilla de Marsamxett se aprecia mejor su silueta."
+      }
+    }
+  },
+  "lascaris-war-rooms": {
+    "address": "Lascaris War Rooms, Lascaris Ditch, Valletta",
+    "operator": "Fondazzjoni Wirt Artna",
+    "source": "https://www.lascariswarrooms.com/history-and-stories",
+    "mode": "ticket",
+    "minutes": 60,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Lescaris_War_Room_today.jpg",
+      "artist": "Pi3.124",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Lascaris War Rooms",
+        "tagline": "Underground command rooms beneath Valletta’s defences",
+        "history": "The underground complex helped coordinate Malta’s defence. It served as the advance Allied headquarters for the Sicily invasion in July 1943 and was later used by NATO.",
+        "route": "Follow signs for Lascaris Ditch below the Upper Barrakka area and look for the War Rooms entrance at ditch level. Ask about steps before going down.",
+        "observation": "Read the room layout alongside the period equipment. The enclosed command spaces feel very different from the open harbour above.",
+        "question": "Do I enter from the Upper Barrakka terrace?",
+        "answer": "Use the War Rooms entrance in Lascaris Ditch. Check the operator’s access information for the route and stairs."
+      },
+      "zh": {
+        "name": "拉斯卡里斯战时作战室",
+        "tagline": "瓦莱塔防御工事下的地下指挥室",
+        "history": "这座地下综合设施曾协助马耳他防务，1943 年 7 月成为盟军进攻西西里的前沿总部，后来由北约使用。",
+        "route": "从上巴拉卡花园一带循标牌去拉斯卡里斯壕沟，在壕沟层找作战室入口。下去前可询问台阶情况。",
+        "observation": "把室内分区与当年的设备一起看，感受封闭的指挥空间与地面开阔港湾的区别。",
+        "question": "入口在上巴拉卡观景台吗？",
+        "answer": "请找拉斯卡里斯壕沟的作战室入口，并查运营方公布的路线及楼梯信息。"
+      },
+      "mt": {
+        "name": "Il-Kmamar tal-Gwerra ta’ Lascaris",
+        "tagline": "Kmamar tal-kmand taħt is-swar tal-Belt",
+        "history": "Il-kumpless taħt l-art għen fil-koordinazzjoni tad-difiża ta’ Malta. F’Lulju 1943 kien il-kwartieri avvanzati tal-Alleati għall-invażjoni ta’ Sqallija, u wara ntuża min-NATO.",
+        "route": "Segwi s-sinjali għall-Foss ta’ Lascaris taħt il-Barrakka ta’ Fuq. Fittex id-daħla fil-foss u staqsi dwar it-taraġ.",
+        "observation": "Ara t-tqassim tal-kmamar flimkien mat-tagħmir tal-epoka. Qabbel il-kmamar magħluqa mal-port miftuħ fuqhom.",
+        "question": "Nidħol mit-terrazzin tal-Barrakka ta’ Fuq?",
+        "answer": "Uża d-daħla fil-Foss ta’ Lascaris u ċċekkja r-rotta u t-taraġ mal-operatur."
+      },
+      "it": {
+        "name": "Sale di guerra di Lascaris",
+        "tagline": "Sale di comando sotto le difese di Valletta",
+        "history": "Il complesso sotterraneo coordinò la difesa di Malta. Nel luglio 1943 fu sede avanzata degli Alleati per l’invasione della Sicilia. In seguito lo usò la NATO.",
+        "route": "Segui le indicazioni per il fossato di Lascaris sotto Upper Barrakka e cerca l’ingresso al livello del fossato. Chiedi delle scale prima di scendere.",
+        "observation": "Leggi la disposizione delle sale insieme alle attrezzature d’epoca. Gli ambienti chiusi contrastano con il porto aperto sopra.",
+        "question": "Si entra dalla terrazza degli Upper Barrakka?",
+        "answer": "Usa l’ingresso nel fossato di Lascaris e verifica con il gestore il percorso e i gradini."
+      },
+      "de": {
+        "name": "Lascaris-Kriegsräume",
+        "tagline": "Unterirdische Befehlsräume unter Vallettas Befestigung",
+        "history": "Der unterirdische Komplex half bei der Koordination der Verteidigung Maltas. Im Juli 1943 diente er als vorgeschobenes Hauptquartier der Alliierten für die Invasion Siziliens. Später nutzte ihn die NATO.",
+        "route": "Folge unterhalb der Upper Barrakka dem Weg zum Lascaris-Graben. Suche den Eingang auf Grabenniveau und frage vor dem Abstieg nach den Stufen.",
+        "observation": "Betrachte die Anordnung der Räume mit der historischen Ausstattung. Die engen Befehlsräume stehen im Kontrast zum offenen Hafen darüber.",
+        "question": "Geht man über die Upper-Barrakka-Terrasse hinein?",
+        "answer": "Nutze den Eingang im Lascaris-Graben und prüfe beim Betreiber Weg und Treppen."
+      },
+      "es": {
+        "name": "Salas de Guerra de Lascaris",
+        "tagline": "Salas de mando bajo las defensas de La Valeta",
+        "history": "El complejo subterráneo ayudó a coordinar la defensa de Malta. En julio de 1943 sirvió de cuartel aliado avanzado para la invasión de Sicilia y después lo utilizó la OTAN.",
+        "route": "Sigue las señales hacia el foso de Lascaris, por debajo de Upper Barrakka. Busca la entrada al nivel del foso y pregunta por los escalones.",
+        "observation": "Relaciona la distribución de las salas con el equipo de época. Contrasta el espacio cerrado con el puerto abierto de arriba.",
+        "question": "¿Entro desde la terraza de Upper Barrakka?",
+        "answer": "Usa la entrada del foso de Lascaris y consulta el recorrido y las escaleras con el operador."
+      }
+    }
+  },
+  "saluting-battery": {
+    "address": "Saluting Battery, Battery Street, Valletta",
+    "operator": "Fondazzjoni Wirt Artna",
+    "source": "https://www.salutingbattery.com/visit",
+    "mode": "ticket",
+    "minutes": 30,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Bater%C3%ADa_del_saludo_militar,_La_Valeta,_isla_de_Malta,_Malta,_2021-08-25,_DD_183.jpg",
+      "artist": "Diego Delso",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Saluting Battery",
+        "tagline": "A terrace for ceremonial salutes over Grand Harbour",
+        "history": "The battery occupies a commanding position above Grand Harbour. Fondazzjoni Wirt Artna maintains the historic site and interprets the tradition of ceremonial salutes for visitors.",
+        "route": "Start at Upper Barrakka for an overview, then follow the battery entrance signs to the level below. Check the operator’s programme if you want to see a salute.",
+        "observation": "Look along the row of gun positions and then out toward the Three Cities to see why the terrace commands such a broad view.",
+        "question": "Is the garden viewpoint the same as the battery visit?",
+        "answer": "Upper Barrakka has its own public viewpoint. The terrace below has a separate entrance and programme."
+      },
+      "zh": {
+        "name": "礼炮台",
+        "tagline": "俯瞰大港的仪式礼炮平台",
+        "history": "礼炮台居于大港上方的制高点。沃特阿尔特纳基金会维护历史场地，并向游客介绍鸣放礼炮的仪式传统。",
+        "route": "可先到上巴拉卡看全景，再循礼炮台入口标牌去下层。想看鸣炮，先核对运营方的当日安排。",
+        "observation": "先顺着一排炮位看过去，再望向三姐妹城，就能看出这处平台的开阔视野从何而来。",
+        "question": "花园观景台就是礼炮台的参观点吗？",
+        "answer": "上巴拉卡有自己的公共观景台。下方的礼炮台有独立入口和活动安排。"
+      },
+      "mt": {
+        "name": "Il-Batterija tas-Salut",
+        "tagline": "Terrazzin għal saluti ċerimonjali fuq il-Port il-Kbir",
+        "history": "Il-batterija tħares fuq il-Port il-Kbir. Fondazzjoni Wirt Artna tieħu ħsieb is-sit u tispjega t-tradizzjoni tas-saluti ċerimonjali.",
+        "route": "Ibda mill-Barrakka ta’ Fuq għall-panorama u segwi s-sinjali lejn id-daħla fil-livell ta’ taħt. Ara l-programm jekk trid tara salut.",
+        "observation": "Ħares tul ir-ringiela tal-kanuni u mbagħad lejn it-Tliet Ibliet biex tifhem il-firxa tal-veduta.",
+        "question": "Il-punt panoramiku tal-ġnien hu l-istess żjara?",
+        "answer": "Il-Barrakka għandha punt pubbliku għaliha. It-terrazzin t’isfel għandu daħla u programm separati."
+      },
+      "it": {
+        "name": "Batteria del Saluto",
+        "tagline": "Una terrazza per salve cerimoniali sul Porto Grande",
+        "history": "La batteria domina il Porto Grande. Fondazzjoni Wirt Artna cura il sito storico e illustra la tradizione delle salve cerimoniali.",
+        "route": "Inizia dagli Upper Barrakka per il panorama e segui i cartelli per l’ingresso al livello inferiore. Controlla il programma per assistere a una salva.",
+        "observation": "Guarda la fila delle postazioni e poi le Tre Città per capire quanto sia ampio il campo visivo della terrazza.",
+        "question": "Il belvedere del giardino coincide con la visita alla batteria?",
+        "answer": "Gli Upper Barrakka hanno un belvedere pubblico. La terrazza inferiore ha ingresso e programma separati."
+      },
+      "de": {
+        "name": "Saluting Battery",
+        "tagline": "Eine Terrasse für zeremonielle Salutschüsse über dem Grand Harbour",
+        "history": "Die Batterie liegt hoch über dem Grand Harbour. Fondazzjoni Wirt Artna betreut die Anlage und vermittelt die Tradition der zeremoniellen Salutschüsse.",
+        "route": "Beginne am Aussichtspunkt der Upper Barrakka und folge dann den Schildern zum tiefer gelegenen Eingang. Für einen Salut prüfe das Programm des Betreibers.",
+        "observation": "Schau entlang der Geschützpositionen und dann hinüber zu den Three Cities. So erkennst du den weiten Blick von der Terrasse.",
+        "question": "Ist der Aussichtspunkt im Garten derselbe Besuch wie die Batterie?",
+        "answer": "Die Upper Barrakka haben einen öffentlichen Aussichtspunkt. Die untere Terrasse hat einen eigenen Eingang und ein eigenes Programm."
+      },
+      "es": {
+        "name": "Batería de Salvas",
+        "tagline": "Una terraza para salvas ceremoniales sobre el Gran Puerto",
+        "history": "La batería domina el Gran Puerto. Fondazzjoni Wirt Artna mantiene el conjunto e interpreta la tradición de las salvas ceremoniales.",
+        "route": "Empieza en Upper Barrakka para ver el conjunto y sigue las señales de acceso al nivel inferior. Consulta el programa si quieres presenciar una salva.",
+        "observation": "Mira la fila de piezas y luego hacia las Tres Ciudades para apreciar la amplitud de la vista desde la terraza.",
+        "question": "¿El mirador del jardín es lo mismo que la visita a la batería?",
+        "answer": "Upper Barrakka tiene su propio mirador público. La terraza inferior cuenta con acceso y programa separados."
+      }
+    }
+  },
+  "valletta-waterfront": {
+    "address": "Pinto Wharf, Floriana",
+    "operator": "Valletta Waterfront",
+    "source": "https://vallettawaterfront.com/about/",
+    "mode": "outdoor",
+    "minutes": 45,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Pinto_Stores,_Valletta_Waterfront.jpg",
+      "artist": "Stefar70",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Valletta Waterfront at Pinto Wharf",
+        "tagline": "Eighteenth-century warehouses along a Floriana quay",
+        "history": "Andrea Belli designed the Pinto Stores for Grand Master Emanuel Pinto da Fonseca. The 19 warehouses date to 1752 and now front a public promenade.",
+        "route": "Approach on the lower harbour side at Pinto Wharf in Floriana. Start at the continuous row of storehouses and walk along the quay, keeping clear of cruise-terminal traffic.",
+        "observation": "View the repeated doors obliquely along the promenade, then look back from the open quay to see the warehouse roofline against the bastions.",
+        "question": "Is the Waterfront at street level in the old city?",
+        "answer": "The promenade is down at the harbour. Mark Pinto Wharf as your destination and check your uphill return separately."
+      },
+      "zh": {
+        "name": "平托码头的瓦莱塔海滨",
+        "tagline": "弗洛里亚纳码头旁的 18 世纪仓库",
+        "history": "安德烈亚·贝利为大团长埃马努埃尔·平托·达丰塞卡设计了平托仓库。19 栋仓库建于 1752 年，现面向公共滨水步道。",
+        "route": "从港口低处抵达弗洛里亚纳平托码头。先沿连续的仓库排布走一段，给邮轮码头来往交通留出空间。",
+        "observation": "沿步道斜看一排排仓门，再到开敞码头回头，观察仓库屋顶与棱堡的关系。",
+        "question": "海滨和瓦莱塔旧城在同一高度吗？",
+        "answer": "步道位于低处的港口。把平托码头设为目的地，另查上坡回程路线。"
+      },
+      "mt": {
+        "name": "Il-Valletta Waterfront f’Xatt Pinto",
+        "tagline": "Imħażen tas-seklu tmintax max-xatt tal-Furjana",
+        "history": "Andrea Belli fassal l-Imħażen Pinto għall-Gran Mastru Emanuel Pinto da Fonseca. Id-19-il maħżen huma tal-1752 u llum jagħtu fuq il-promenade.",
+        "route": "Wasal minn isfel, f’Xatt Pinto fil-Furjana. Ibda mir-ringiela tal-imħażen u imxi max-xatt, ’il bogħod mit-traffiku tat-terminal tal-vapuri.",
+        "observation": "Ara l-bibien infila mill-ġenb. Imbagħad ħares lura mix-xatt miftuħ lejn il-bjut u s-swar.",
+        "question": "Il-Waterfront jinsab fl-istess livell tal-Belt il-qadima?",
+        "answer": "Il-promenade tinsab isfel fil-port. Fittex Xatt Pinto u ppjana t-telgħa lura."
+      },
+      "it": {
+        "name": "Valletta Waterfront a Pinto Wharf",
+        "tagline": "Magazzini del Settecento lungo il molo di Floriana",
+        "history": "Andrea Belli progettò i magazzini per il gran maestro Emanuel Pinto da Fonseca. I 19 depositi del 1752 ora si affacciano su una passeggiata pubblica.",
+        "route": "Arriva dal basso, al Pinto Wharf di Floriana. Parti dalla fila continua di magazzini e cammina lungo il molo, lontano dal traffico del terminal crociere.",
+        "observation": "Osserva di sbieco la fila delle porte, poi voltati dal molo aperto per vedere i tetti contro i bastioni.",
+        "question": "Il Waterfront è allo stesso livello della città vecchia?",
+        "answer": "La passeggiata è in basso, nel porto. Imposta Pinto Wharf come destinazione e verifica la risalita."
+      },
+      "de": {
+        "name": "Valletta Waterfront am Pinto Wharf",
+        "tagline": "Lagerhäuser des 18. Jahrhunderts an Florianas Kai",
+        "history": "Andrea Belli entwarf die Pinto Stores für Großmeister Emanuel Pinto da Fonseca. Die 19 Lagerhäuser von 1752 stehen heute an einer öffentlichen Promenade.",
+        "route": "Komm auf Hafenniveau zum Pinto Wharf in Floriana. Beginne an der Lagerhausreihe und halte Abstand vom Verkehr am Kreuzfahrtterminal.",
+        "observation": "Sieh die wiederkehrenden Türen schräg von der Promenade aus. Vom offenen Kai aus erkennst du, wie die Dächer vor den Bastionen liegen.",
+        "question": "Liegt die Promenade auf Höhe der Altstadt?",
+        "answer": "Die Promenade liegt unten am Hafen. Navigiere zu Pinto Wharf und prüfe den Rückweg bergauf."
+      },
+      "es": {
+        "name": "Paseo marítimo de La Valeta en Pinto Wharf",
+        "tagline": "Almacenes del siglo XVIII junto al muelle de Floriana",
+        "history": "Andrea Belli diseñó los almacenes para el gran maestre Emanuel Pinto da Fonseca. Los 19 edificios de 1752 dan hoy a un paseo público.",
+        "route": "Acércate a Pinto Wharf, en la parte baja del puerto de Floriana. Empieza por la fila de almacenes y recorre el muelle evitando el tráfico de la terminal de cruceros.",
+        "observation": "Mira las puertas repetidas en diagonal desde el paseo. Desde el muelle abierto compara las cubiertas con los baluartes.",
+        "question": "¿Está el paseo a la misma altura que el casco histórico?",
+        "answer": "El paseo está abajo, junto al puerto. Marca Pinto Wharf como destino y consulta la subida de regreso."
+      }
+    }
+  },
+  "st-james-cavalier": {
+    "address": "Spazju Kreattiv, St James Cavalier, Castille Square, Valletta",
+    "operator": "Spazju Kreattiv",
+    "source": "https://spazjukreattiv.org/about-us/",
+    "mode": "event",
+    "minutes": 45,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Spazju_Kreattiv_St_James_Cavalier_Valletta_2022.jpg",
+      "artist": "BrendaJaneF",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "St James Cavalier and Spazju Kreattiv",
+        "tagline": "A national arts centre inside a historic fortification",
+        "history": "Spazju Kreattiv uses the high defensive structure of St James Cavalier as Malta’s National Centre for Creativity, with exhibitions and a programme of contemporary work.",
+        "route": "Enter from the Castille Square side and follow the programme signs. Start with the open galleries, then check for an independent cinema or theatre admission if relevant.",
+        "observation": "Compare the depth of the older stone openings with the modern gallery circulation inside.",
+        "question": "Is this the outdoor theatre by City Gate?",
+        "answer": "This is the indoor arts centre at St James Cavalier. Pjazza Teatru Rjal is the separate open-air venue beside City Gate."
+      },
+      "zh": {
+        "name": "圣詹姆斯高堡与创意艺术中心",
+        "tagline": "设在历史防御工事中的国家艺术中心",
+        "history": "斯帕茹创意中心把高大的圣詹姆斯高堡用作马耳他国家创意中心，在这里举办展览和当代艺术活动。",
+        "route": "从卡斯蒂利亚广场一侧进入，按节目指示走。先看开放展厅，若计划看电影或戏剧，再查有无独立入场安排。",
+        "observation": "比较厚重古石墙的开口深度与内部现代展厅的动线。",
+        "question": "这里就是城门旁的露天剧院吗？",
+        "answer": "这里是圣詹姆斯高堡的室内艺术中心。城门旁的露天剧场是另一个场地。"
+      },
+      "mt": {
+        "name": "Il-Kavallier ta’ San Ġakbu u Spazju Kreattiv",
+        "tagline": "Ċentru nazzjonali tal-arti f’fortifikazzjoni storika",
+        "history": "Spazju Kreattiv juża l-Kavallier ta’ San Ġakbu bħala ċ-Ċentru Nazzjonali għall-Kreattività, b’wirjiet u xogħol kontemporanju.",
+        "route": "Idħol min-naħa ta’ Pjazza Kastilja u segwi s-sinjali tal-programm. Ibda bil-galleriji miftuħa u ara jekk iċ-ċinema jew it-teatru jeħtiġux dħul separat.",
+        "observation": "Qabbel il-fond tal-fetħiet qodma tal-ġebel mal-mogħdijiet tal-galleriji moderni.",
+        "question": "Dan hu t-teatru fil-beraħ ħdejn Bieb il-Belt?",
+        "answer": "Dan hu ċ-ċentru tal-arti ġewwa l-Kavallier. Pjazza Teatru Rjal hi l-ispazju fil-beraħ ħdejn Bieb il-Belt."
+      },
+      "it": {
+        "name": "Cavaliere di San Giacomo e Spazju Kreattiv",
+        "tagline": "Un centro nazionale d’arte in una fortificazione storica",
+        "history": "Spazju Kreattiv usa il Cavaliere di San Giacomo per il Centro nazionale maltese per la creatività, con mostre e attività contemporanee.",
+        "route": "Entra dal lato di Castille Square e segui i cartelli del programma. Inizia dalle sale aperte e verifica l’eventuale ingresso separato al cinema o teatro.",
+        "observation": "Confronta la profondità delle antiche aperture in pietra con i percorsi delle gallerie moderne.",
+        "question": "È il teatro all’aperto accanto a City Gate?",
+        "answer": "Questo è il centro d’arte al coperto del Cavaliere. Pjazza Teatru Rjal è il teatro all’aperto accanto a City Gate."
+      },
+      "de": {
+        "name": "St James Cavalier und Spazju Kreattiv",
+        "tagline": "Ein nationales Kunstzentrum in historischer Befestigung",
+        "history": "Spazju Kreattiv nutzt das hohe Festungsbauwerk als Maltas nationales Kreativzentrum mit Ausstellungen und zeitgenössischem Programm.",
+        "route": "Geh vom Castille Square hinein und folge den Programmschildern. Beginne mit den offenen Galerien und prüfe für Kino oder Theater den separaten Zugang.",
+        "observation": "Vergleiche die Tiefe der alten Steinöffnungen mit den Wegen durch die heutigen Ausstellungsräume.",
+        "question": "Ist das das Freilufttheater am Stadttor?",
+        "answer": "Hier befindet sich das Kunstzentrum im Cavalier. Pjazza Teatru Rjal ist die eigene Freiluftbühne am Stadttor."
+      },
+      "es": {
+        "name": "St James Cavalier y Spazju Kreattiv",
+        "tagline": "Un centro nacional de arte en una fortificación histórica",
+        "history": "Spazju Kreattiv utiliza St James Cavalier como Centro Nacional para la Creatividad de Malta, con exposiciones y programación contemporánea.",
+        "route": "Entra por el lado de Castille Square y sigue las señales del programa. Empieza por las galerías abiertas y comprueba el acceso independiente al cine o al teatro.",
+        "observation": "Compara la profundidad de los huecos de piedra antiguos con los recorridos actuales de las galerías.",
+        "question": "¿Es el teatro al aire libre junto a City Gate?",
+        "answer": "Este es el centro de arte interior. Pjazza Teatru Rjal es el recinto al aire libre junto a City Gate."
+      }
+    }
+  },
+  "pjazza-teatru-rjal": {
+    "address": "Pjazza Teatru Rjal, Republic Street, Valletta",
+    "operator": "Pjazza Teatru Rjal",
+    "source": "https://ghrc.gov.mt/projects/the-royal-opera-house-pjazza-teatru-rjal",
+    "mode": "event",
+    "minutes": 15,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Il-Belt._Pjazza_Teatru_Rjal_1.jpg",
+      "artist": "Enrique Íñiguez Rodríguez (Qoan)",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Pjazza Teatru Rjal",
+        "tagline": "A working open-air stage among Royal Opera House ruins",
+        "history": "Edward Middleton Barry’s opera house was built between 1862 and 1866. It was hit in an air raid in April 1942. Its surviving masonry now frames an open-air theatre.",
+        "route": "After crossing City Gate, follow Republic Street to the old opera house ruins. Walk along the public edge to see the fragments and find the event entrance if you plan to return.",
+        "observation": "Compare the historic columns and bases with the newer stage structure. A view along the street edge shows both in one frame.",
+        "question": "Can I see the ruins without a ticket?",
+        "answer": "The stonework can be seen from nearby streets. Check the venue separately for events and access inside."
+      },
+      "zh": {
+        "name": "皇家剧场广场露天剧院",
+        "tagline": "皇家歌剧院遗址中的露天舞台",
+        "history": "爱德华·米德尔顿·巴里的歌剧院于 1862 至 1866 年间兴建，1942 年 4 月在空袭中被击中。幸存石构今天环绕着露天剧场。",
+        "route": "过城门后沿共和国街到歌剧院遗址。可以沿公共街边观察遗存，若计划返回看戏，顺便找活动入口。",
+        "observation": "把历史石柱及柱基与后来建成的舞台比较。沿街边取景可在同一画面看到两部分。",
+        "question": "不买票能看到遗址吗？",
+        "answer": "从附近街道可以看到石构遗存。活动以及进入场内须另查剧院安排。"
+      },
+      "mt": {
+        "name": "Pjazza Teatru Rjal",
+        "tagline": "Palk fil-beraħ fost il-fdalijiet tal-Opra Rjali",
+        "history": "It-teatru ta’ Edward Middleton Barry nbena bejn l-1862 u l-1866. Intlaqat f’attakk mill-ajru f’April 1942. Il-fdalijiet issa jdawru teatru fil-beraħ.",
+        "route": "Minn Bieb il-Belt imxi fi Triq ir-Repubblika sal-fdalijiet. Imxi mat-tarf pubbliku u sib id-daħla jekk beħsiebek tmur għal spettaklu.",
+        "observation": "Qabbel il-kolonni u l-bażijiet qodma mal-palk modern. Mit-triq tista’ tara t-tnejn fl-istess xena.",
+        "question": "Nista’ nara l-fdalijiet bla biljett?",
+        "answer": "Jidhru mit-toroq tal-madwar. Għall-avvenimenti jew id-dħul ġewwa, ikkonsulta t-teatru."
+      },
+      "it": {
+        "name": "Pjazza Teatru Rjal",
+        "tagline": "Un palcoscenico all’aperto tra i resti dell’Opera Reale",
+        "history": "Il teatro di Edward Middleton Barry fu costruito tra il 1862 e il 1866 e colpito da un bombardamento nell’aprile 1942. I resti oggi incorniciano un teatro all’aperto.",
+        "route": "Passato City Gate percorri Republic Street fino alle rovine. Segui il margine pubblico per vedere i resti e individuare l’ingresso se prevedi di tornare.",
+        "observation": "Confronta colonne e basi storiche con la struttura moderna del palco. Da bordo strada puoi inquadrare entrambe.",
+        "question": "Posso vedere le rovine senza biglietto?",
+        "answer": "Le murature sono visibili dalle strade. Per eventi e ingresso consulta il teatro."
+      },
+      "de": {
+        "name": "Pjazza Teatru Rjal",
+        "tagline": "Eine Freiluftbühne zwischen den Ruinen der Königlichen Oper",
+        "history": "Edward Middleton Barrys Opernhaus entstand zwischen 1862 und 1866. Im April 1942 wurde es bei einem Luftangriff getroffen. Die erhaltenen Reste rahmen heute eine Freiluftbühne.",
+        "route": "Geh nach dem Stadttor über die Republic Street bis zur Opernruine. Folge dem öffentlichen Rand und suche bei Bedarf den Veranstaltungseingang.",
+        "observation": "Vergleiche die alten Säulen und Sockel mit der neuen Bühne. Vom Straßenrand passen beide ins Bild.",
+        "question": "Kann ich die Ruinen ohne Eintritt sehen?",
+        "answer": "Von den Straßen aus ist das Mauerwerk sichtbar. Veranstaltungen und Innenzugang regelt das Theater."
+      },
+      "es": {
+        "name": "Pjazza Teatru Rjal",
+        "tagline": "Un escenario al aire libre entre las ruinas de la Ópera Real",
+        "history": "La ópera de Edward Middleton Barry se construyó entre 1862 y 1866 y recibió un impacto aéreo en abril de 1942. Los restos enmarcan hoy un teatro abierto.",
+        "route": "Tras cruzar City Gate sigue Republic Street hasta las ruinas. Recorre el borde público y localiza la entrada si vas a volver para una función.",
+        "observation": "Compara las columnas y bases antiguas con el escenario moderno. Desde el borde de la calle caben ambos en el encuadre.",
+        "question": "¿Puedo ver las ruinas sin entrada?",
+        "answer": "La piedra se ve desde las calles próximas. Consulta los eventos y el acceso interior con el teatro."
+      }
+    }
+  },
+  "malta-postal-museum": {
+    "address": "Malta Postal Museum, 135 Archbishop Street, Valletta",
+    "operator": "Malta Postal Museum & Arts Hub",
+    "source": "https://www.maltapostalmuseum.com/",
+    "mode": "ticket",
+    "minutes": 45,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Malta_Postal_Museum.jpeg",
+      "artist": "Continentaleurope",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Malta Postal Museum",
+        "tagline": "Letters, stamps and the changing ways Malta communicated",
+        "history": "The museum traces Maltese communication from the Order of St John to the present. The material connects small postal objects with the people and institutions that handled messages.",
+        "route": "Turn off Republic Street onto Archbishop Street and find number 135. Begin with the earlier material and follow one postal object or route through the displays.",
+        "observation": "Look for the date, sender or route on a letter or postmark. Read how the museum connects that detail to a broader communication network.",
+        "question": "Where exactly is the museum?",
+        "answer": "Use 135 Archbishop Street. The museum and arts hub share the address, so check which programme you want to see."
+      },
+      "zh": {
+        "name": "马耳他邮政博物馆",
+        "tagline": "信件、邮票与马耳他通信方式的变迁",
+        "history": "博物馆追溯自圣约翰骑士团时代至今的马耳他通信史，把小小的邮政物件与曾经传递信息的个人和机构联系起来。",
+        "route": "从共和国街转到大主教街，找 135 号。可从早期藏品入手，沿展陈追踪一件邮政器物或一条邮路。",
+        "observation": "选一封信或一枚邮戳，看日期、寄件人或路由，再读展签如何把这条细节放到更大的通信网络中。",
+        "question": "博物馆的准确入口在哪里？",
+        "answer": "请找大主教街 135 号。邮政博物馆与艺术中心共用地址，可以先确认想看的节目。"
+      },
+      "mt": {
+        "name": "Il-Mużew Postali ta’ Malta",
+        "tagline": "Ittri, bolol u l-istorja tal-komunikazzjoni",
+        "history": "Il-mużew isegwi l-komunikazzjoni Maltija minn żmien l-Ordni ta’ San Ġwann sal-lum. L-oġġetti postali jgħaqqdu l-messaġġi man-nies u l-istituzzjonijiet li wassluhom.",
+        "route": "Minn Triq ir-Repubblika dur fi Triq l-Arċisqof u sib in-numru 135. Ibda mill-materjal bikri u segwi oġġett jew rotta postali tul il-wirja.",
+        "observation": "Fittex data, mittent jew rotta fuq ittra jew timbru. Ara kif il-mużew iqiegħed dak id-dettall f’netwerk usa’.",
+        "question": "Fejn hi eżatt id-daħla?",
+        "answer": "Fittex 135, Triq l-Arċisqof. Il-mużew u ċ-ċentru tal-arti jużaw l-istess indirizz."
+      },
+      "it": {
+        "name": "Museo postale di Malta",
+        "tagline": "Lettere, francobolli e modi di comunicare a Malta",
+        "history": "Il museo segue le comunicazioni maltesi dal tempo dell’Ordine di San Giovanni a oggi. Collega i piccoli oggetti postali alle persone e alle istituzioni che trasmettevano i messaggi.",
+        "route": "Da Republic Street svolta in Archbishop Street fino al numero 135. Parti dai reperti più antichi e segui un oggetto o itinerario postale nelle sale.",
+        "observation": "Cerca la data, il mittente o il tragitto di una lettera o di un timbro. Leggi come il museo li inserisce nella rete di comunicazione.",
+        "question": "Dov’è esattamente il museo?",
+        "answer": "Vai al 135 di Archbishop Street. Il museo e il centro d’arte condividono l’indirizzo. Verifica il programma che cerchi."
+      },
+      "de": {
+        "name": "Maltesisches Postmuseum",
+        "tagline": "Briefe, Marken und der Wandel der Kommunikation",
+        "history": "Das Museum verfolgt die Kommunikation auf Malta von der Zeit des Johanniterordens bis heute. Kleine Postobjekte stehen für die Menschen und Institutionen hinter dem Nachrichtenverkehr.",
+        "route": "Biege von der Republic Street in die Archbishop Street zur Hausnummer 135 ab. Beginne mit den frühen Stücken und folge einem Objekt oder einer Postroute durch die Ausstellung.",
+        "observation": "Suche auf einem Brief oder Stempel nach Datum, Absender oder Strecke. Lies, wie das Museum diese Spur dem größeren Kommunikationsnetz zuordnet.",
+        "question": "Wo genau befindet sich das Museum?",
+        "answer": "Nutze Archbishop Street 135. Museum und Kunstzentrum teilen sich die Adresse. Prüfe das gewünschte Programm."
+      },
+      "es": {
+        "name": "Museo Postal de Malta",
+        "tagline": "Cartas, sellos y formas de comunicación en Malta",
+        "history": "El museo sigue la comunicación maltesa desde la Orden de San Juan hasta hoy. Los objetos postales acercan al visitante a las personas e instituciones que transportaban mensajes.",
+        "route": "Desde Republic Street gira a Archbishop Street y busca el número 135. Empieza por las piezas antiguas y sigue un objeto o una ruta en la exposición.",
+        "observation": "Busca la fecha, el remitente o el trayecto de una carta o un matasellos. Lee cómo se sitúa ese dato dentro de una red más amplia.",
+        "question": "¿Dónde está exactamente el museo?",
+        "answer": "Ve al 135 de Archbishop Street. El museo y el centro artístico comparten dirección. Comprueba el programa que te interesa."
+      }
+    }
+  },
+  "st-pauls-shipwreck-church": {
+    "address": "Church of St Paul’s Shipwreck, St Paul Street, Valletta",
+    "operator": "Church of St Paul’s Shipwreck",
+    "source": "https://beltvallettalc.gov.mt/en/churches-chapels/",
+    "mode": "worship",
+    "minutes": 20,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Collegiate_Parish_Church_of_St_Paul%27s_Shipwreck_fa%C3%A7ade.jpg",
+      "artist": "Continentaleurope",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Church of St Paul’s Shipwreck",
+        "tagline": "A Catholic church dedicated to Malta’s shipwreck tradition",
+        "history": "The Valletta council traces the dedication to an earlier church on another site. The present Catholic church commemorates the tradition of St Paul’s arrival after a shipwreck.",
+        "route": "From the cathedral area head down toward St Paul Street and seek the entrance signed for the Shipwreck church. Check the service schedule before viewing the interior.",
+        "observation": "The façade is seen from a narrow street. Step to a public corner and look upward before studying any open interior.",
+        "question": "Is this the Anglican church with the prominent spire?",
+        "answer": "The Shipwreck church is Catholic and on St Paul Street. The Anglican Pro-Cathedral stands on Independence Square."
+      },
+      "zh": {
+        "name": "圣保罗遇难船教堂",
+        "tagline": "纪念马耳他遇船难传统的天主教堂",
+        "history": "瓦莱塔市议会将此奉献传统追溯至另一处早期教堂。现有天主教堂纪念圣保罗遇船难后抵达马耳他的传统。",
+        "route": "从主教座堂附近下行到圣保罗街，寻找遇难船教堂的标识。参观内部前请查礼拜时间。",
+        "observation": "立面面对窄街，可在公共街角抬头看完整比例，再看开放的内部空间。",
+        "question": "这里是尖塔醒目的圣公会教堂吗？",
+        "answer": "遇难船教堂是圣保罗街上的天主教堂。圣公会准主教座堂在独立广场。"
+      },
+      "mt": {
+        "name": "Il-Knisja tan-Nawfraġju ta’ San Pawl",
+        "tagline": "Knisja Kattolika ddedikata għat-tradizzjoni tan-nawfraġju",
+        "history": "Il-kunsill tal-Belt isemmi knisja bikrija f’sit ieħor. Il-knisja Kattolika tal-lum tfakkar it-tradizzjoni tal-wasla ta’ San Pawl wara n-nawfraġju.",
+        "route": "Miż-żona tal-Kon-Katidral inżel lejn Triq San Pawl u sib is-sinjal tan-Nawfraġju. Ara l-ħinijiet tas-servizzi qabel tidħol.",
+        "observation": "Il-faċċata tagħti fuq triq dejqa. Ħares ’il fuq minn kantuniera pubblika qabel iżżur ġewwa.",
+        "question": "Din hi l-knisja Anglikana bit-torri bil-ponta?",
+        "answer": "Il-knisja tan-Nawfraġju hi Kattolika u tinsab fi Triq San Pawl. Il-Pro-Katidral Anglikan hu fi Pjazza Indipendenza."
+      },
+      "it": {
+        "name": "Chiesa del Naufragio di San Paolo",
+        "tagline": "Una chiesa cattolica dedicata al racconto del naufragio",
+        "history": "Il comune ricorda un primo edificio dedicato in un’altra sede. La chiesa cattolica attuale commemora l’arrivo di san Paolo a Malta dopo il naufragio secondo la tradizione.",
+        "route": "Dalla zona della concattedrale scendi verso St Paul Street e cerca l’ingresso del Naufragio. Controlla le funzioni prima di visitare l’interno.",
+        "observation": "La facciata affaccia su una via stretta. Guardala dal basso da un angolo pubblico prima di vedere gli interni accessibili.",
+        "question": "È la chiesa anglicana con la guglia?",
+        "answer": "La chiesa del Naufragio è cattolica e si trova su St Paul Street. La procattedrale anglicana è in Independence Square."
+      },
+      "de": {
+        "name": "St.-Paulus-Schiffbruchkirche",
+        "tagline": "Eine katholische Kirche zur maltesischen Schiffbruchtradition",
+        "history": "Die Stadt Valletta verweist auf eine frühere Kirche an einem anderen Ort. Die heutige katholische Kirche erinnert an die Überlieferung von der Ankunft des Paulus nach einem Schiffbruch.",
+        "route": "Geh vom Kathedralenviertel hinab zur St Paul Street und suche den Eingang mit dem Hinweis auf den Schiffbruch. Prüfe vor der Innenbesichtigung die Gottesdienstzeiten.",
+        "observation": "Die Fassade steht an einer engen Straße. Schau von einer öffentlichen Straßenecke hinauf, bevor du den Innenraum besuchst.",
+        "question": "Ist das die anglikanische Kirche mit der auffälligen Spitze?",
+        "answer": "Die Schiffbruchkirche ist katholisch und liegt an der St Paul Street. Die anglikanische Prokathedrale steht am Independence Square."
+      },
+      "es": {
+        "name": "Iglesia del Naufragio de San Pablo",
+        "tagline": "Una iglesia católica dedicada a la tradición del naufragio",
+        "history": "El ayuntamiento recuerda una iglesia anterior en otro lugar. El templo católico actual conmemora la tradición de la llegada de san Pablo a Malta tras un naufragio.",
+        "route": "Desde la zona de la concatedral baja hacia St Paul Street y busca la entrada del Naufragio. Consulta los horarios de culto antes de visitar el interior.",
+        "observation": "La fachada da a una calle estrecha. Mira hacia arriba desde una esquina pública antes de recorrer el interior abierto.",
+        "question": "¿Es la iglesia anglicana de la aguja visible?",
+        "answer": "La iglesia del Naufragio es católica y está en St Paul Street. La procatedral anglicana se encuentra en Independence Square."
+      }
+    }
+  },
+  "argotti-botanic-gardens": {
+    "address": "Argotti Botanic Gardens, St Philip’s Bastion, Floriana",
+    "operator": "Malta Botanic Gardens / University of Malta",
+    "source": "https://maltabotanicgardens.gov.mt/argotti/",
+    "mode": "garden",
+    "minutes": 40,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Malta_-_Floriana_-_Triq_Vincenzo_Bugeja_-_Argotti_Botanic_Gardens_15_ies.jpg",
+      "artist": "Frank Vincentz",
+      "license": "CC BY-SA 3.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Argotti Botanic Gardens",
+        "tagline": "A bastion garden with living botanical collections",
+        "history": "Argotti originated as a private garden associated with Grand Master Pinto. The University of Malta dates its botanical development to the early nineteenth century.",
+        "route": "Approach the Floriana gardens on the St Philip’s Bastion side and check the Argotti entrance. Confirm separately if the university collection has its own access arrangements.",
+        "observation": "Look for labels on trees and compare the planted terraces with the fortification walls. The Malta Botanic Gardens profile highlights the dragon tree.",
+        "question": "Can I assume both parts are open together?",
+        "answer": "Check the public garden and university collection separately. Follow the gate signs for the area you want to visit."
+      },
+      "zh": {
+        "name": "阿尔戈蒂植物园",
+        "tagline": "棱堡上保存着活体植物收藏的花园",
+        "history": "阿尔戈蒂的前身是与大团长平托有关的私人花园。马耳他大学将其植物园的发展追溯到 19 世纪初。",
+        "route": "从弗洛里亚纳圣菲利普棱堡一侧接近园区，确认阿尔戈蒂入口。若计划看大学馆藏，还应另查它的入园安排。",
+        "observation": "看树木说明牌，把种植台地与棱堡墙对照。马耳他植物园的介绍特别提到龙血树。",
+        "question": "两部分可以按同一开放安排参观吗？",
+        "answer": "建议分别核对公共花园和大学收藏的开放信息，再按所去区域的入口标牌走。"
+      },
+      "mt": {
+        "name": "Il-Ġonna Botaniċi tal-Argotti",
+        "tagline": "Ġnien fuq is-swar b’kollezzjonijiet ta’ pjanti ħajjin",
+        "history": "L-Argotti beda bħala ġnien privat marbut mal-Gran Mastru Pinto. L-Università ta’ Malta tmur lura għall-bidu tas-seklu dsatax għall-iżvilupp botaniku tiegħu.",
+        "route": "Wasal min-naħa tas-swar ta’ San Filippu fil-Furjana u sib id-daħla tal-Argotti. Iċċekkja separatament l-aċċess għall-kollezzjoni tal-università.",
+        "observation": "Fittex it-tikketti tas-siġar u qabbel it-terrazzi mħawla mas-swar. Is-sit tal-Ġonna Botaniċi jsemmi s-siġra tad-dragun.",
+        "question": "Iż-żewġ partijiet jinfetħu flimkien?",
+        "answer": "Iċċekkja separatament il-ġnien pubbliku u l-kollezzjoni tal-università. Segwi s-sinjali tad-daħla."
+      },
+      "it": {
+        "name": "Orti botanici Argotti",
+        "tagline": "Un giardino sui bastioni con collezioni viventi",
+        "history": "L’Argotti nacque come giardino privato legato al gran maestro Pinto. L’Università di Malta ne fa risalire lo sviluppo botanico all’inizio dell’Ottocento.",
+        "route": "Arriva dal lato del bastione di San Filippo a Floriana e trova l’ingresso Argotti. Verifica separatamente l’accesso alla collezione universitaria.",
+        "observation": "Cerca i cartellini degli alberi e confronta i terrazzamenti con le mura. Malta Botanic Gardens segnala l’albero del drago.",
+        "question": "Le due parti sono aperte con gli stessi orari?",
+        "answer": "Controlla separatamente il giardino pubblico e la collezione universitaria. Segui i cartelli per l’area scelta."
+      },
+      "de": {
+        "name": "Botanische Gärten Argotti",
+        "tagline": "Ein Bastionsgarten mit lebenden Pflanzensammlungen",
+        "history": "Argotti entstand als Privatgarten des Großmeisters Pinto. Die Universität Malta datiert die botanische Entwicklung in das frühe 19. Jahrhundert.",
+        "route": "Komm in Floriana von der Seite der St Philip’s Bastion und suche den Argotti-Eingang. Prüfe den Zugang zur Universitätssammlung gesondert.",
+        "observation": "Suche Baumetiketten und vergleiche die Pflanzterrassen mit den Befestigungsmauern. Die Gartenverwaltung hebt den Drachenbaum hervor.",
+        "question": "Sind beide Teile gleichzeitig geöffnet?",
+        "answer": "Prüfe öffentlichen Garten und Universitätssammlung getrennt. Folge den Eingangsschildern für den gewünschten Bereich."
+      },
+      "es": {
+        "name": "Jardines Botánicos Argotti",
+        "tagline": "Un jardín de bastión con colecciones vivas",
+        "history": "Argotti nació como jardín privado vinculado al gran maestre Pinto. La Universidad de Malta sitúa el desarrollo botánico a comienzos del siglo XIX.",
+        "route": "Acércate por el bastión de St Philip en Floriana y localiza el acceso de Argotti. Comprueba aparte la entrada a la colección universitaria.",
+        "observation": "Busca etiquetas en los árboles y compara las terrazas plantadas con las murallas. Malta Botanic Gardens destaca el drago.",
+        "question": "¿Se abren juntas las dos partes?",
+        "answer": "Comprueba por separado el jardín público y la colección universitaria. Sigue las señales del sector que quieras visitar."
+      }
+    }
+  },
+  "st-publius-parish-church": {
+    "address": "St Publius Parish Church, Pjazza San Publiju, Floriana",
+    "operator": "Floriana parish",
+    "source": "https://restawr.gov.mt/en/restoration-of-the-statue-of-st-publius-floriana/",
+    "mode": "worship",
+    "minutes": 20,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Church_of_St._Publius,_Florina,_Malta.01.jpg",
+      "artist": "Nenea hartia",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "St Publius Parish Church",
+        "tagline": "The church closing the view across Floriana’s Granaries",
+        "history": "According to Malta’s Restoration Department, construction started in 1733 on a design attributed to Francesco Maradon. The church faces the open square where Floriana’s granary covers remain visible.",
+        "route": "Walk out of the fountain area into Floriana toward the Granaries. Use the square as your first viewpoint and approach the church doors from the open forecourt.",
+        "observation": "Compare the spacing of the façade’s columns with the wide expanse of the square. Look for the St Publius statue as a separate monument nearby.",
+        "question": "Can I see the church and the Granaries together?",
+        "answer": "Yes. The church faces the square. See the surviving covers outdoors and confirm the church’s viewing times separately."
+      },
+      "zh": {
+        "name": "圣普布利乌斯堂区教堂",
+        "tagline": "弗洛里亚纳粮仓广场尽头的教堂",
+        "history": "马耳他修复部门记载，教堂于 1733 年开工，设计归于弗朗切斯科·马拉东。教堂面对仍可见弗洛里亚纳粮仓盖的开阔广场。",
+        "route": "从喷泉区朝弗洛里亚纳粮仓广场步行，先以广场为观察点，再从开阔的前场走近教堂入口。",
+        "observation": "比较立面柱列的间距与广场的开阔尺度，并留意附近单独设置的圣普布利乌斯像。",
+        "question": "教堂和粮仓能一起看吗？",
+        "answer": "可以。教堂面对广场，室外可看粮仓盖，教堂的参观时段请单独确认。"
+      },
+      "mt": {
+        "name": "Il-Knisja Parrokkjali ta’ San Publiju",
+        "tagline": "Il-knisja faċċata tal-Fosos tal-Furjana",
+        "history": "Skont id-Dipartiment tar-Restawr, il-bini beda fl-1733 fuq disinn attribwit lil Francesco Maradon. Il-knisja tħares fuq il-pjazza bil-għotjien tal-fosos.",
+        "route": "Mill-funtana imxi lejn il-Fosos tal-Furjana. Uża l-pjazza għall-ewwel veduta u ersaq lejn il-bibien mill-ispazju miftuħ.",
+        "observation": "Qabbel il-kolonni tal-faċċata mal-wisa’ tal-pjazza. Fittex ukoll l-istatwa ta’ San Publiju fil-qrib.",
+        "question": "Nista’ nara l-knisja u l-Fosos flimkien?",
+        "answer": "Iva. Il-knisja tħares lejn il-pjazza. Ara l-għotjien barra u ċċekkja l-ħinijiet tal-knisja għalihom."
+      },
+      "it": {
+        "name": "Chiesa parrocchiale di San Publio",
+        "tagline": "La chiesa che chiude la prospettiva dei granai di Floriana",
+        "history": "Per il Dipartimento del Restauro maltese i lavori iniziarono nel 1733 su progetto attribuito a Francesco Maradon. La chiesa guarda la piazza dove si vedono i coperchi dei granai.",
+        "route": "Dalla fontana vai verso i granai di Floriana. Guarda prima dalla piazza, poi avvicinati alle porte attraversando lo spazio aperto.",
+        "observation": "Confronta il ritmo delle colonne con l’ampiezza della piazza. Cerca anche la vicina statua di San Publio.",
+        "question": "Posso vedere insieme la chiesa e i granai?",
+        "answer": "Sì. La chiesa guarda la piazza. Vedi i coperchi all’aperto e controlla separatamente gli orari della chiesa."
+      },
+      "de": {
+        "name": "Pfarrkirche St Publius",
+        "tagline": "Die Kirche am Ende des Getreidespeicherplatzes in Floriana",
+        "history": "Nach Angaben der maltesischen Restaurierungsbehörde begann der Bau 1733 nach einem Francesco Maradon zugeschriebenen Entwurf. Die Kirche steht am Platz mit den sichtbaren Deckeln der Speicher.",
+        "route": "Gehe vom Brunnen in Richtung Granaries nach Floriana. Nimm zunächst den Platz als Aussichtspunkt und nähere dich dann über den offenen Vorplatz dem Eingang.",
+        "observation": "Vergleiche den Abstand der Fassadensäulen mit der Weite des Platzes. Suche auch die eigenständige Statue des heiligen Publius in der Nähe.",
+        "question": "Kann ich Kirche und Speicher zusammen sehen?",
+        "answer": "Ja. Die Kirche liegt am Platz. Sieh die Speicherabdeckungen draußen und prüfe die Kirchenzeiten gesondert."
+      },
+      "es": {
+        "name": "Iglesia parroquial de San Publio",
+        "tagline": "La iglesia al fondo de los graneros de Floriana",
+        "history": "El Departamento de Restauración de Malta sitúa el inicio de la obra en 1733, con un diseño atribuido a Francesco Maradon. La iglesia da a la plaza donde se ven las tapas de los graneros.",
+        "route": "Desde la fuente camina hacia los graneros de Floriana. Mira primero desde la plaza y acércate luego a las puertas por el espacio abierto.",
+        "observation": "Compara el ritmo de las columnas con la amplitud de la plaza. Busca también la estatua de San Publio en las inmediaciones.",
+        "question": "¿Puedo ver la iglesia y los graneros juntos?",
+        "answer": "Sí. La iglesia da a la plaza. Mira las tapas al aire libre y confirma por separado el horario de la iglesia."
+      }
+    }
+  },
+  "mediterranean-conference-centre": {
+    "address": "Mediterranean Conference Centre, Mediterranean Street, Valletta",
+    "operator": "Mediterranean Conference Centre",
+    "source": "https://mcc.com.mt/about-us/",
+    "mode": "event",
+    "minutes": 25,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Sacra_Infermeria_in_2016.jpg",
+      "artist": "Continentaleurope",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Mediterranean Conference Centre and Sacra Infermeria",
+        "tagline": "The Knights’ former hospital on the Grand Harbour side",
+        "history": "The conference centre occupies the Sacra Infermeria, the former hospital of the Order of St John. The site stands near Fort St Elmo above Grand Harbour.",
+        "route": "Walk toward Fort St Elmo and follow Mediterranean Street on the Grand Harbour side. Locate the conference venue entrance and check public access before planning an interior visit.",
+        "observation": "Follow the long street frontage to appreciate the scale of the former hospital. Look toward Grand Harbour from public ground nearby.",
+        "question": "Can I enter the historic halls at any time?",
+        "answer": "The building is a working venue. Check access for a booked event or tour and plan an exterior visit if none is available."
+      },
+      "zh": {
+        "name": "地中海会议中心与骑士团旧医院",
+        "tagline": "大港一侧的骑士团旧医院",
+        "history": "会议中心设在圣约翰骑士团的旧医院萨克拉医院内。场地位于圣埃尔莫堡附近，俯瞰大港。",
+        "route": "向圣埃尔莫堡方向走，沿面向大港一侧的地中海街找会议场馆入口。计划进内前先确认是否对公众开放。",
+        "observation": "沿街看延伸很长的立面，体会旧医院的规模，再从附近公共区域望向大港。",
+        "question": "历史大厅任何时候都能进去吗？",
+        "answer": "这里仍在运营使用，请确认所预约的活动或导览是否允许进入。没有适合的场次，也可安排外观游览。"
+      },
+      "mt": {
+        "name": "Iċ-Ċentru tal-Konferenzi tal-Mediterran u s-Sacra Infermeria",
+        "tagline": "L-isptar l-antik tal-Kavallieri fuq in-naħa tal-Port il-Kbir",
+        "history": "Iċ-ċentru jinsab fis-Sacra Infermeria, l-isptar ta’ qabel tal-Ordni ta’ San Ġwann. Hu qrib Sant’Iermu fuq il-Port il-Kbir.",
+        "route": "Imxi lejn Sant’Iermu u segwi Triq il-Mediterran fuq in-naħa tal-port. Sib id-daħla u ċċekkja jekk hemmx aċċess pubbliku ġewwa.",
+        "observation": "Segwi l-faċċata twila biex tapprezza d-daqs tal-isptar l-antik. Ħares lejn il-port mill-ispazju pubbliku fil-qrib.",
+        "question": "Nista’ nidħol fis-swali f’kull ħin?",
+        "answer": "Il-binja għadha tintuża għall-avvenimenti. Iċċekkja żjara jew avveniment ibbukkjat, u inkella ara l-binja minn barra."
+      },
+      "it": {
+        "name": "Centro conferenze del Mediterraneo e Sacra Infermeria",
+        "tagline": "L’antico ospedale dei Cavalieri sul Porto Grande",
+        "history": "Il centro occupa la Sacra Infermeria, l’antico ospedale dell’Ordine di San Giovanni. Il sito sorge presso Forte Sant’Elmo sopra il Porto Grande.",
+        "route": "Vai verso Forte Sant’Elmo e segui Mediterranean Street sul lato del porto. Cerca l’ingresso e verifica l’accesso pubblico prima di programmare l’interno.",
+        "observation": "Segui il lungo fronte sulla strada per apprezzare la scala dell’ospedale. Guarda il porto dallo spazio pubblico vicino.",
+        "question": "Posso entrare nei saloni storici in qualsiasi momento?",
+        "answer": "L’edificio è sede di eventi. Verifica l’accesso per la visita o l’evento prenotato. In alternativa, guarda l’esterno."
+      },
+      "de": {
+        "name": "Mediterranean Conference Centre und Sacra Infermeria",
+        "tagline": "Das frühere Ordenshospital am Grand Harbour",
+        "history": "Das Konferenzzentrum nutzt die Sacra Infermeria, das ehemalige Krankenhaus des Johanniterordens. Es steht nahe Fort St Elmo oberhalb des Grand Harbour.",
+        "route": "Geh in Richtung Fort St Elmo und folge der Mediterranean Street auf der Hafenseite. Suche den Eingang und prüfe den öffentlichen Zugang vor einer Besichtigung.",
+        "observation": "Folge der langen Straßenfassade, um die Größe des Hospitals einzuschätzen. Blicke vom öffentlichen Bereich in der Nähe auf den Hafen.",
+        "question": "Sind die historischen Säle jederzeit offen?",
+        "answer": "Das Gebäude wird für Veranstaltungen genutzt. Prüfe den Zugang für gebuchte Termine oder Führungen und plane sonst einen Blick von außen."
+      },
+      "es": {
+        "name": "Centro de Conferencias del Mediterráneo y Sacra Infermeria",
+        "tagline": "El antiguo hospital de los caballeros junto al Gran Puerto",
+        "history": "El centro ocupa la Sacra Infermeria, antiguo hospital de la Orden de San Juan. Se encuentra cerca del Fuerte de San Telmo, sobre el Gran Puerto.",
+        "route": "Camina hacia San Telmo y sigue Mediterranean Street por el lado del puerto. Busca la entrada del recinto y confirma el acceso antes de planificar una visita interior.",
+        "observation": "Sigue la extensa fachada para apreciar la escala del antiguo hospital. Mira hacia el puerto desde el espacio público próximo.",
+        "question": "¿Se puede entrar a los salones a cualquier hora?",
+        "answer": "El edificio se usa para eventos. Consulta el acceso para el acto o visita reservados. Si no hay opción, visita el exterior."
+      }
+    }
+  },
+  "our-lady-of-victory-church": {
+    "address": "Our Lady of Victory Church, Victory Square, Valletta",
+    "operator": "Din l-Art Ħelwa / Curia",
+    "source": "https://www.static.dinlarthelwa.org/heritage-sites/restorations/our-lady-of-victory-church-valletta/",
+    "mode": "worship",
+    "minutes": 20,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Victoria_Church,_Valletta.jpg",
+      "artist": "Continentaleurope",
+      "license": "CC BY-SA 4.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Our Lady of Victory Church",
+        "tagline": "Valletta’s first church near the city entrance",
+        "history": "Din l-Art Ħelwa dates the construction to the founding of Valletta in 1566. The church preserves an early chapter of the new fortified city and has undergone a conservation programme led by the National Trust.",
+        "route": "From City Gate walk toward Victory Square and identify the small church near the larger civic buildings. Check the church entrance for visitor arrangements.",
+        "observation": "Notice the small footprint in relation to the square. When the interior is open, look up for the restored ceiling paintings.",
+        "question": "Where can I see the conservation work?",
+        "answer": "The ceiling is a focus of the restoration. Check Din l-Art Ħelwa and the church for when the interior can be seen."
+      },
+      "zh": {
+        "name": "胜利圣母教堂",
+        "tagline": "城门附近瓦莱塔最早的教堂",
+        "history": "马耳他国家信托机构将施工起点定在 1566 年瓦莱塔建城时。教堂保存了新要塞城的早期历史，并由该机构主持保护修复。",
+        "route": "从城门走向胜利广场，在大型公共建筑旁辨认小教堂。到入口查访客参观安排。",
+        "observation": "留意小教堂与广场尺度之间的对比。若开放内部，可抬头看修复过的天花画。",
+        "question": "在哪里能看到修复成果？",
+        "answer": "天花是修复重点之一，可向国家信托机构和教堂确认开放内部的时间。"
+      },
+      "mt": {
+        "name": "Il-Knisja tal-Madonna tal-Vitorja",
+        "tagline": "L-ewwel knisja tal-Belt qrib id-daħla",
+        "history": "Din l-Art Ħelwa tqiegħed il-bidu tal-bini mat-twaqqif tal-Belt fl-1566. Il-knisja tixhed l-ewwel żminijiet tal-belt iffortifikata u għaddiet minn restawr immexxi mill-fondazzjoni.",
+        "route": "Minn Bieb il-Belt mur lejn Pjazza tal-Vitorja u sib il-knisja ċkejkna ħdejn il-bini pubbliku ikbar. Ara l-avviżi mad-daħla.",
+        "observation": "Osserva ċ-ċokon tal-knisja ħdejn il-pjazza. Meta tkun miftuħa, ħares lejn il-pitturi restawrati tas-saqaf.",
+        "question": "Fejn nista’ nara x-xogħol ta’ restawr?",
+        "answer": "Is-saqaf hu wieħed mill-punti ewlenin. Staqsi lil Din l-Art Ħelwa jew lill-knisja meta tista’ tidħol."
+      },
+      "it": {
+        "name": "Chiesa della Madonna della Vittoria",
+        "tagline": "La prima chiesa della Valletta vicino alla porta",
+        "history": "Din l-Art Ħelwa fa risalire l’inizio della costruzione alla fondazione di Valletta nel 1566. La chiesa conserva una testimonianza della prima città fortificata e il National Trust ne ha curato il restauro.",
+        "route": "Da City Gate vai verso Victory Square e riconosci la chiesa piccola accanto agli edifici pubblici più grandi. Verifica l’accesso all’ingresso.",
+        "observation": "Osserva la scala ridotta rispetto alla piazza. Se l’interno è aperto, cerca le pitture restaurate sul soffitto.",
+        "question": "Dove posso vedere il lavoro di restauro?",
+        "answer": "Il soffitto è uno dei punti del restauro. Consulta Din l-Art Ħelwa e la chiesa per sapere quando si può entrare."
+      },
+      "de": {
+        "name": "Kirche Unserer Lieben Frau vom Sieg",
+        "tagline": "Vallettas erste Kirche nahe dem Stadttor",
+        "history": "Din l-Art Ħelwa datiert den Baubeginn auf die Gründung Vallettas 1566. Die Kirche bezeugt die frühe Festungsstadt und wurde unter Leitung des National Trust restauriert.",
+        "route": "Geh vom Stadttor zum Victory Square und suche die kleine Kirche neben den größeren öffentlichen Bauten. Prüfe die Hinweise am Eingang.",
+        "observation": "Achte auf den kleinen Grundriss im Verhältnis zum Platz. Bei offenem Innenraum lohnt ein Blick auf die restaurierten Deckengemälde.",
+        "question": "Wo sehe ich die Restaurierung?",
+        "answer": "Die Decke war ein Schwerpunkt der Arbeiten. Frage Din l-Art Ħelwa und die Kirche nach Besuchszeiten."
+      },
+      "es": {
+        "name": "Iglesia de Nuestra Señora de la Victoria",
+        "tagline": "La primera iglesia de La Valeta, cerca de la entrada",
+        "history": "Din l-Art Ħelwa sitúa el inicio de la construcción en la fundación de La Valeta en 1566. La iglesia conserva una etapa temprana de la ciudad fortificada y fue restaurada bajo la dirección de la fundación.",
+        "route": "Desde City Gate ve a Victory Square y busca el templo pequeño junto a los edificios públicos mayores. Consulta las condiciones en la entrada.",
+        "observation": "Compara la escala reducida del templo con la plaza. Si el interior está abierto, mira las pinturas restauradas del techo.",
+        "question": "¿Dónde veo el trabajo de restauración?",
+        "answer": "El techo es uno de sus puntos clave. Consulta a Din l-Art Ħelwa y a la iglesia cuándo se puede visitar el interior."
+      }
+    }
+  },
+  "sa-maison-gardens": {
+    "address": "Sa Maison Gardens, Sa Maison Road, Floriana",
+    "operator": "Malta Botanic Gardens",
+    "source": "https://maltabotanicgardens.gov.mt/sa-maison-and-tal-milorda-gardens/",
+    "mode": "garden",
+    "minutes": 30,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:SA_MAISON_GARDEN_-_MALTA_(2455560679).jpg",
+      "artist": "KNOW MALTA by Peter Grima",
+      "license": "CC BY-SA 2.0"
+    },
+    "copy": {
+      "en": {
+        "name": "Sa Maison Gardens",
+        "tagline": "A hillside garden on the Floriana fortification line",
+        "history": "The national botanic gardens network includes Sa Maison among Floriana’s historic gardens. Its profile pairs the site with nearby Tal-Milorda and describes different growing conditions across the two gardens.",
+        "route": "Approach on Sa Maison Road and check which gate is open. Follow the paths from the entrance and plan to return by the same way if there is no signed through-route.",
+        "observation": "Look for the shift between sheltered planting and exposed viewpoints. The terraces give distinct close views of vegetation and stone.",
+        "question": "Is this the same entrance as nearby Argotti?",
+        "answer": "Use the Sa Maison entrance signs. Consult the botanical gardens network for each gate and current access."
+      },
+      "zh": {
+        "name": "萨梅松花园",
+        "tagline": "弗洛里亚纳防御线上依坡而建的花园",
+        "history": "国家植物园网络将萨梅松列为弗洛里亚纳的历史花园之一。官方资料把它与附近塔尔米洛尔达花园一并介绍，并说明两处植物的生长环境有别。",
+        "route": "从萨梅松路接近园区，查看哪座门开放。入园后沿步道走，若没有贯通线路的标牌，可循原路返回。",
+        "observation": "留意受遮蔽的种植区与开阔观景处的变化。不同台地能近看植被和石构。",
+        "question": "这里和附近的阿尔戈蒂共用入口吗？",
+        "answer": "按萨梅松入口标牌走，并在植物园网络查询两个园区各自的入口和当期开放安排。"
+      },
+      "mt": {
+        "name": "Il-Ġonna ta’ Sa Maison",
+        "tagline": "Ġnien fuq l-għolja tul is-swar tal-Furjana",
+        "history": "In-netwerk botaniku jinkludi Sa Maison fost il-ġonna storiċi tal-Furjana. Il-profil jgħaqqdu ma’ Tal-Milorda u jiddeskrivi kundizzjonijiet differenti għat-tkabbir.",
+        "route": "Wasal minn Triq Sa Maison u ara liema daħla miftuħa. Segwi l-mogħdijiet u erġa’ lura mill-istess triq jekk ma hemmx ħruġ immarkat.",
+        "observation": "Ara l-bidla bejn it-tħawwil protett u l-veduti esposti. Mit-terrazzi tara l-pjanti u l-ġebel mill-qrib.",
+        "question": "Din hi l-istess daħla tal-Argotti?",
+        "answer": "Segwi s-sinjali ta’ Sa Maison. Ara s-sit tal-Ġonna Botaniċi għad-daħliet u l-aċċess ta’ kull ġnien."
+      },
+      "it": {
+        "name": "Giardini di Sa Maison",
+        "tagline": "Un giardino in pendio lungo le fortificazioni di Floriana",
+        "history": "La rete botanica nazionale include Sa Maison tra i giardini storici di Floriana. La scheda lo presenta insieme al vicino Tal-Milorda e descrive le diverse condizioni di crescita dei due giardini.",
+        "route": "Arriva da Sa Maison Road e verifica il cancello aperto. Segui i sentieri e torna per la stessa strada se non c’è un’uscita segnalata.",
+        "observation": "Osserva il passaggio dalle piante riparate ai punti panoramici esposti. Le terrazze offrono viste ravvicinate di vegetazione e pietra.",
+        "question": "L’ingresso è lo stesso di Argotti?",
+        "answer": "Segui i cartelli di Sa Maison. Consulta la rete botanica per i cancelli e l’accesso ai singoli giardini."
+      },
+      "de": {
+        "name": "Sa-Maison-Gärten",
+        "tagline": "Ein Hanggarten an den Befestigungen von Floriana",
+        "history": "Das nationale Botanische Gartennetz zählt Sa Maison zu Florianas historischen Gärten. Seine Beschreibung stellt den Garten zusammen mit Tal-Milorda vor und erläutert die unterschiedlichen Pflanzenstandorte.",
+        "route": "Nähere dich über die Sa Maison Road und prüfe das offene Tor. Folge den Wegen und kehre auf demselben Weg zurück, wenn kein Ausgang ausgeschildert ist.",
+        "observation": "Achte auf den Wechsel zwischen geschützten Pflanzungen und offenen Aussichtspunkten. Von den Terrassen siehst du Vegetation und Stein aus der Nähe.",
+        "question": "Ist es derselbe Eingang wie bei Argotti?",
+        "answer": "Folge den Schildern für Sa Maison. Das Gartennetz informiert über die jeweiligen Tore und den aktuellen Zugang."
+      },
+      "es": {
+        "name": "Jardines de Sa Maison",
+        "tagline": "Un jardín en pendiente junto a las fortificaciones de Floriana",
+        "history": "La red botánica nacional incluye Sa Maison entre los jardines históricos de Floriana. La ficha lo presenta con Tal-Milorda y describe las condiciones de cultivo diferentes de ambos.",
+        "route": "Ve por Sa Maison Road y comprueba qué puerta está abierta. Sigue los senderos y vuelve por la misma ruta si no hay salida señalizada.",
+        "observation": "Observa el cambio entre plantas protegidas y miradores expuestos. Las terrazas permiten ver de cerca la vegetación y la piedra.",
+        "question": "¿Tiene la misma entrada que Argotti?",
+        "answer": "Sigue las señales de Sa Maison y consulta en la red botánica las puertas y el acceso de cada jardín."
+      }
+    }
+  },
+  "st-johns-cavalier": {
+    "address": "St John’s Cavalier, Ordnance Street, Valletta",
+    "operator": "Embassy of the Sovereign Order of Malta",
+    "source": "https://maltaembassy.orderofmalta.int/en/structure-of-the-embassy/",
+    "mode": "restricted",
+    "minutes": 15,
+    "photo": {
+      "file": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_St._John%27s_Cavalier_01_ies.jpg",
+      "artist": "Frank Vincentz",
+      "license": "CC BY-SA 3.0"
+    },
+    "copy": {
+      "en": {
+        "name": "St John’s Cavalier",
+        "tagline": "An early Valletta fortification with a diplomatic role today",
+        "history": "The Sovereign Order of Malta describes St John’s Cavalier as a sixteenth-century defensive work on Valletta’s perimeter. The Order now uses it as its embassy.",
+        "route": "From City Gate turn toward Ordnance Street and use public pavements to see the exterior. Check the Order’s announcements if you are specifically looking for an interior tour.",
+        "observation": "Stand back where the street allows and compare the high stonework with the line of the surrounding walls.",
+        "question": "Is there walk-in access to the building?",
+        "answer": "Plan for an exterior visit. The building serves as the Order’s embassy and any announced tours are arranged separately."
+      },
+      "zh": {
+        "name": "圣约翰高堡",
+        "tagline": "今日承担外交用途的瓦莱塔早期防御工事",
+        "history": "马耳他主权骑士团将圣约翰高堡介绍为瓦莱塔外围的 16 世纪防御工事。如今骑士团在此设有使馆。",
+        "route": "出城门区域后转向军械街，走公共人行道看高堡外观。若特意想进内部参观，请先查骑士团公布的导览。",
+        "observation": "在街道允许的位置退后，比较高大的砖石结构与周围城墙的走向。",
+        "question": "可以直接走进去参观吗？",
+        "answer": "可把外观作为常规参观点。建筑是骑士团使馆，公布的内部导览另行安排。"
+      },
+      "mt": {
+        "name": "Il-Kavallier ta’ San Ġwann",
+        "tagline": "Fortifikazzjoni bikrija b’funzjoni diplomatika llum",
+        "history": "L-Ordni Sovran ta’ Malta jiddeskrivi l-Kavallier bħala fortifikazzjoni tas-seklu sittax fit-tarf tal-Belt. Illum l-Ordni jużah bħala ambaxxata.",
+        "route": "Minn Bieb il-Belt dur lejn Triq l-Ordinanza u żomm mal-bankini pubbliċi biex tara barra. Għal żjara ġewwa ara l-avviżi tal-Ordni.",
+        "observation": "Mur ftit lura fejn tippermetti t-triq u qabbel il-ġebel għoli mal-linja tas-swar tal-madwar.",
+        "question": "Nista’ nidħol mingħajr appuntament?",
+        "answer": "Ippjana żjara minn barra. Il-binja sservi ta’ ambaxxata u żjarat imħabbra jsiru separatament."
+      },
+      "it": {
+        "name": "Cavaliere di San Giovanni",
+        "tagline": "Un’antica fortificazione oggi sede diplomatica",
+        "history": "Il Sovrano Ordine di Malta descrive il Cavaliere come opera difensiva del Cinquecento sul perimetro della Valletta. Oggi vi ha sede la sua ambasciata.",
+        "route": "Da City Gate svolta verso Ordnance Street e osserva l’esterno dai marciapiedi pubblici. Per una visita interna consulta gli annunci dell’Ordine.",
+        "observation": "Arretra dove la strada lo consente e confronta le alte murature con la linea delle fortificazioni vicine.",
+        "question": "Si può entrare liberamente?",
+        "answer": "Prevedi di vedere l’esterno. La sede è un’ambasciata e le eventuali visite annunciate sono organizzate a parte."
+      },
+      "de": {
+        "name": "St John’s Cavalier",
+        "tagline": "Eine frühe Befestigung mit heutiger diplomatischer Aufgabe",
+        "history": "Der Souveräne Malteserorden beschreibt das Bauwerk als Befestigung aus dem 16. Jahrhundert am Rand Vallettas. Heute nutzt der Orden es als Botschaft.",
+        "route": "Biege vom Stadttor zur Ordnance Street ab und betrachte das Äußere vom öffentlichen Gehweg. Ankündigungen für Innenführungen findest du beim Orden.",
+        "observation": "Tritt, soweit der Straßenraum es zulässt, etwas zurück. Vergleiche das hohe Mauerwerk mit dem Verlauf der umliegenden Mauern.",
+        "question": "Kann man einfach hineingehen?",
+        "answer": "Plane einen Außenbesuch. Das Gebäude dient als Botschaft. Angekündigte Führungen werden gesondert organisiert."
+      },
+      "es": {
+        "name": "Caballero de San Juan",
+        "tagline": "Una fortificación temprana con función diplomática actual",
+        "history": "La Orden Soberana de Malta describe el Caballero como una defensa del siglo XVI en el perímetro de La Valeta. Hoy lo utiliza como su embajada.",
+        "route": "Desde City Gate gira hacia Ordnance Street y mira el exterior desde las aceras públicas. Para conocer el interior consulta los anuncios de la Orden.",
+        "observation": "Retrocede donde lo permita la calle y compara la altura de la piedra con el trazado de las murallas cercanas.",
+        "question": "¿Puedo entrar sin cita?",
+        "answer": "Planifica una visita exterior. El edificio funciona como embajada y las visitas anunciadas se organizan por separado."
+      }
+    }
+  }
+}

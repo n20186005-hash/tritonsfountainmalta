@@ -1,4 +1,4 @@
-import type {ExploreLocale, ExploreSlug} from './explore';
+import type {ExploreLocale, OriginalExploreSlug} from './explore';
 
 type DeepDive = {story: string; detail: string; walk: string[]; shots: string[]};
 
@@ -11,7 +11,7 @@ export const deepDiveLabels: Record<ExploreLocale, {story:string; detail:string;
   es:{story:'La historia de este lugar',detail:'Detalles arquitectónicos que observar',walk:'Recorrido a pie paso a paso',shots:'Encuadres fotográficos concretos'},
 };
 
-export const exploreDeepDive: Record<ExploreSlug, Record<ExploreLocale, DeepDive>> = {
+export const exploreDeepDive: Record<OriginalExploreSlug, Record<ExploreLocale, DeepDive>> = {
   'st-johns-co-cathedral': {
     en:{story:'The Order of St John built this church in its new fortified capital; later generations transformed its interior into a statement of Baroque faith and patronage. The contrast between a defensive-looking exterior and the theatrical nave is part of the visitor experience.',detail:'Look from the square at the twin towers and compact limestone façade, then compare the interior vault, individual langues’ chapels and intricate marble floor. Caravaggio’s paintings have special importance, but access can change during exhibitions.',walk:['Walk from City Gate along Republic Street to the cathedral district.','Follow the official signs to the visitor entrance and complete the available interior circuit.','Return toward Republic Street and continue westward through the old town to St George’s Square.'],shots:['From St John’s Square include both bell towers without cutting off the upper façade.','Capture sculpted stone and light contrasts only where indoor photography is permitted; never use flash during worship.']},
     zh:{story:'圣约翰骑士团在新建立的要塞首都兴建这座教堂，后世则用华丽的巴洛克装饰展现信仰和赞助文化。它最动人的对比，正是防御性外观与戏剧化主堂内饰之间的差别。',detail:'先在广场看双塔和紧凑的石灰岩立面，再对照内部拱顶、骑士团不同分支礼拜堂和精细的大理石墓碑地面。卡拉瓦乔作品非常重要，但展区开放情况可能变化。',walk:['从城门沿共和国街进入主教座堂周边。','按官方标志找到游客入口，沿开放的室内参观线路游览。','回到共和国街，沿旧城主轴继续走向圣乔治广场。'],shots:['从圣约翰广场取景时把两座钟楼和立面顶部完整纳入画面。','只有在允许室内拍摄的区域才记录石雕和光影；礼拜期间不要使用闪光灯。']},

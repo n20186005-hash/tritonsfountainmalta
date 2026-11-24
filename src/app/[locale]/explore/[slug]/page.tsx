@@ -1,7 +1,9 @@
 import type {Metadata} from 'next';
 import Image from 'next/image';
 import {notFound} from 'next/navigation';
-import {explorePlaces, exploreSlugs, exploreUi, type ExploreLocale, type ExploreSlug} from '@/lib/explore';
+import {explorePlaces, exploreSlugs, exploreUi, isNearbyGuide, type OriginalExploreSlug, type ExploreLocale, type ExploreSlug} from '@/lib/explore';
+import {nearbyGuides} from '@/lib/exploreNearby';
+import {NearbyGuideArticle} from '@/components/NearbyGuideArticle';
 import {exploreDetails, exploreDetailUi} from '@/lib/exploreDetails';
 import {exploreFacts, factLabels} from '@/lib/exploreFacts';
 import {exploreDeepDive, deepDiveLabels} from '@/lib/exploreDeepDive';
@@ -24,23 +26,27 @@ function resolve(locale: string, slug: string) {
 export async function generateMetadata({params}: {params: Params}): Promise<Metadata> {
   const value = await params;
   const {locale, slug} = resolve(value.locale, value.slug);
-  const place = explorePlaces[slug];
-  const copy = place.copy[locale];
+  const page = isNearbyGuide(slug)
+    ? {copy: nearbyGuides[slug].copy[locale], image: `/nearby/${slug}.jpg`}
+    : {copy: explorePlaces[slug].copy[locale], image: explorePlaces[slug].image};
+  const {copy, image} = page;
+  const intro = 'intro' in copy ? copy.intro : copy.history;
   const url = `${SITE.baseUrl}/${locale}/explore/${slug}`;
   return {
     title: `${copy.name} | ${SITE.fullName} Guide`,
-    description: copy.intro.slice(0, 165),
+    description: intro.slice(0, 165),
     alternates: {
       canonical: url,
       languages: Object.fromEntries([...routing.locales.map(l => [l, `${SITE.baseUrl}/${l}/explore/${slug}`]), ['x-default', `${SITE.baseUrl}/en/explore/${slug}`]]),
     },
-    openGraph: {title: copy.name, description: copy.tagline, url, images: [place.image]},
+    openGraph: {title: copy.name, description: copy.tagline, url, images: [image]},
   };
 }
 
 export default async function ExplorePage({params}: {params: Params}) {
   const value = await params;
   const {locale, slug} = resolve(value.locale, value.slug);
+  if (isNearbyGuide(slug)) return <NearbyGuideArticle slug={slug} locale={locale} />;
   const place = explorePlaces[slug];
   const c = place.copy[locale];
   const t = exploreUi[locale];
@@ -55,7 +61,7 @@ export default async function ExplorePage({params}: {params: Params}) {
   const accessText = place.free ? t.free : admissionText[locale];
   const articleUrl = `${SITE.baseUrl}/${locale}/explore/${slug}`;
   const sourceName = ['hastings-gardens', 'upper-barrakka-gardens', 'lower-barrakka-gardens'].includes(slug) ? 'Parks in Malta' : ['siege-bell-memorial','st-georges-square'].includes(slug) ? 'Heritage Malta' : slug === 'st-johns-co-cathedral' ? 'St John’s Co-Cathedral Foundation' : slug === 'the-mall-gardens' ? 'Grand Harbour Regeneration Corporation' : 'Visit Malta';
-  const operatorName: Record<ExploreSlug, string> = {
+  const operatorName: Record<OriginalExploreSlug, string> = {
     'st-johns-co-cathedral':'St John’s Co-Cathedral Foundation',
     'republic-street':'Visit Malta — Valletta',
     'st-georges-square':'Heritage Malta — Grand Master’s Palace',
@@ -135,7 +141,7 @@ export default async function ExplorePage({params}: {params: Params}) {
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{dt.gettingThere}</h2><address className="not-italic leading-8 mb-4">{place.address}</address><p className="leading-7 mb-5">{detail.transport[0]}</p><a className="inline-block rounded-full px-5 py-3 font-semibold" style={{background:'var(--accent)',color:'#fff'}} href={map} target="_blank" rel="noopener noreferrer">{t.map} ↗</a></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-5">{t.faq}</h2><div className="space-y-3">{c.faq.map(([q,a]) => <details key={q} className="rounded-xl p-5" style={{background:'var(--bg-secondary)'}}><summary className="font-semibold cursor-pointer">{q}</summary><p className="mt-3 leading-7">{a}</p></details>)}</div></section>
         <section className="mb-12"><h2 className="font-display text-3xl font-semibold mb-4">{t.sources}</h2><ul className="list-disc pl-6 space-y-2"><li><a className="underline" href={place.factSource} target="_blank" rel="noopener noreferrer">{sourceName}</a></li><li><a className="underline" href={place.operatorSource} target="_blank" rel="noopener noreferrer">{operatorName[slug]}</a></li></ul></section>
-        <aside className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-2xl mb-4">{t.section}</h2><div className="flex flex-wrap gap-4">{exploreSlugs.filter(other => other !== slug).map(other => <a className="underline underline-offset-4" key={other} href={`/${locale}/explore/${other}`}>{explorePlaces[other].copy[locale].name}</a>)}<a className="underline underline-offset-4" href={`/${locale}`}>{t.back}</a></div></aside>
+        <aside className="rounded-2xl p-6" style={{background:'var(--bg-secondary)'}}><h2 className="font-display text-2xl mb-4">{t.section}</h2><div className="flex flex-wrap gap-4">{exploreSlugs.filter(other => other !== slug).map(other => <a className="underline underline-offset-4" key={other} href={`/${locale}/explore/${other}`}>{(isNearbyGuide(other) ? nearbyGuides[other] : explorePlaces[other]).copy[locale].name}</a>)}<a className="underline underline-offset-4" href={`/${locale}`}>{t.back}</a></div></aside>
       </article>
     </main>
     <Footer />
